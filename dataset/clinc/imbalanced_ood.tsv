@@ -1,0 +1,3578 @@
+text	label
+so when was car in shop	last_maintenance
+please tell me when the last time was that my car was in the shop	last_maintenance
+when was my car last repaired	last_maintenance
+can you help me find the interest rate for my sba account	interest_rate
+would you tell me the interest rate	interest_rate
+what's the nutritional info for a cup of noodle soup	nutrition_info
+what's the nutritional info for an apple	nutrition_info
+can you remember the nutritional info for macaroni and cheese	nutrition_info
+is chocolate bad for you or good for you	nutrition_info
+how many kinds of nutrients does a glass of rice milk have	nutrition_info
+how nutritious are cheerios	nutrition_info
+what is the nutritional info for kraft mac 'n' cheese	nutrition_info
+can you tell me how many calories are in an apple	nutrition_info
+is rice good for me	nutrition_info
+alexa, book a rental car to los angeles county in 2 hours	car_rental
+could i rent a car from tuesday to thursday out of lax	car_rental
+i really need to get a volkswagen car rental for march 5th to march 8th in phoenix	car_rental
+i need to rent a car kfor one week in ocean city, nj so who has the best deal	car_rental
+i'd like to rent a limo in las vegas from may 01, 2019 to may 03, 2019	car_rental
+i need you to get me a rental car in nashville	car_rental
+where can i rent a car in singapore	car_rental
+please book a car for me in bangkok	car_rental
+find out if i can rent a car in los angeles from march 2-9	car_rental
+when do i need to change my motor oil	oil_change_when
+i must know when should i get my oil changed next	oil_change_when
+when do i need you change my oil	oil_change_when
+when's my next oil change due	oil_change_when
+how many miles can i drive before needing the next oil change	oil_change_when
+how much longer until i need to get my oil changed	oil_change_when
+what is the next date that i should change my oil at	oil_change_when
+i need to report my card as stolen, please	report_lost_card
+i want to report my card as lost	report_lost_card
+i think my visa card was stolen	report_lost_card
+i'd like to report my card as stolen	report_lost_card
+i need to report credit card theft	report_lost_card
+i lost my debit card and need it reported as lost	report_lost_card
+who do i speak with about my card that was lost	report_lost_card
+how do i report the card as lost	report_lost_card
+what are the steps to take to report a lost card	report_lost_card
+i can't find my discover card, how do i report it	report_lost_card
+my visa was stolen	report_lost_card
+how do i report a lost card	report_lost_card
+can you report my lost discover card	report_lost_card
+what is al's age	how_old_are_you
+you're how old	how_old_are_you
+what is your birth date	how_old_are_you
+your age please	how_old_are_you
+how many years have you been alive	how_old_are_you
+how many years have you been on	how_old_are_you
+how long have you been alive	how_old_are_you
+where did you grow up	how_old_are_you
+what's your birth date	how_old_are_you
+when's your birthday	how_old_are_you
+what is your age again	how_old_are_you
+what's the artist's name of this song	what_song
+i'd like to know this song's name	what_song
+let me know what song is playing	what_song
+what's this song called	what_song
+what's the name of the song that we are listening to	what_song
+what is the information on this song	what_song
+i would like to know this song's title	what_song
+what's the name of the current song	what_song
+what song is currently playing	what_song
+which song are we listening to	what_song
+what’s the name of this song	what_song
+who is the singer on the speaker now	what_song
+i need this song title	what_song
+i need to know the title of this song	what_song
+who sang this song	what_song
+can i find my w-2 online	w2
+how can i get my w2 to do my taxes	w2
+where can i find my w2 as i need it for tax reasons	w2
+where is my w2	w2
+how can i get a hold of my w-2	w2
+i need a w2 form from	w2
+where would my w2 be found so i can do my taxes	w2
+can i get a w2 form online	w2
+i wanna know where to get my w2	w2
+can you trll me where to get my w2	w2
+i must know where to get my w2	w2
+tell me where to a w2 form	w2
+i need help getting a w-2	w2
+i need a w2 form, how do i get one	w2
+where could i locate a w2 form from	w2
+i need to know where to get a w-2 form	w2
+what is the minimum i can pay on my credit card bill	min_payment
+i'd like to know my minimum payment please	min_payment
+do you know the smallest amount i can pay on my water bill	min_payment
+how small of a payment can i make for my chase card bill	min_payment
+what would be the least i could pay on this bill	min_payment
+let me know the minimum i can pay on my cable bill	min_payment
+the minumum to pay is what	min_payment
+minimum payment for my credit card	min_payment
+what is the lowest amount i can pay for my cellphone bill	min_payment
+what's the minimum i can pay on my sewer bill	min_payment
+what is the minimum payment on my phone bill	min_payment
+minimum payment of my bill please	min_payment
+how little can i pay on my phone bill	min_payment
+what is the least amount i can pay for power bill	min_payment
+what is the lowest amount i can pay for my insurance bill	min_payment
+what is the minimum i can pay for my light bill	min_payment
+my card was destroyed when my house burned down and i need a replacement	damaged_card
+my card isn't working because its destroyed	damaged_card
+i need to replace a card that my daughter spilled juice on	damaged_card
+my card's magnetic strip is not working and i want to notify them	damaged_card
+my card is damaged and unusable	damaged_card
+i need to report that my dog chewed up my card	damaged_card
+my visa has been damaged	damaged_card
+the chip on my card is damaged and i need a new one	damaged_card
+my card isn't working	damaged_card
+my card broke in half and i need to report this	damaged_card
+my dog swallowed my credit card and i need a new one	damaged_card
+i would like to report a damaged card that was burnt	damaged_card
+my card became damaged when i dropped it in the parking lot and it got ran over	damaged_card
+the magnetic strip on my card is scratched up pretty badly from overuse can i get a new one	damaged_card
+i need to report a new card please the atm hurt mine	damaged_card
+how do you report a burned debit card	damaged_card
+the plastic numbers on my card are falling off	damaged_card
+i dropped my card in my gasoline and the printing wore off	damaged_card
+my card is not working and i need to let them know	damaged_card
+tell me how to go about reporting a damaged card	damaged_card
+i need a report form for my damaged, demagnetized card	damaged_card
+i don't know who to notify that i ran my credit card over with the lawn mower	damaged_card
+i accidentally bent my card, what do i do	damaged_card
+unfortunately, my card is damaged and unusable	damaged_card
+can you assist me with reporting that the atm nicked my card	damaged_card
+my card is damaged so i can not use it	damaged_card
+when my house burned down, so did my card	damaged_card
+my credit card got torn and i need a new one	damaged_card
+report that the card has been wrecked	damaged_card
+my friends call me sam	change_user_name
+i want you to call me this new name	change_user_name
+i prefer to go by brad	change_user_name
+i want to be called mollie	change_user_name
+you can just speak to me as jim	change_user_name
+ai, refer to me as deb when answering me	change_user_name
+i need you to call me mary	change_user_name
+you can call me carrie	change_user_name
+ai, my name is deb please use my name when you talk to me	change_user_name
+you can call me sarah	change_user_name
+will you start calling me chaz	change_user_name
+i am john	change_user_name
+address me by the name stan	change_user_name
+i'd like you to refer to me as bob	change_user_name
+call me carrie	change_user_name
+just call me dennis	change_user_name
+i am david	change_user_name
+"""""""address me as """"""""bailey"""""""	change_user_name
+change my name please	change_user_name
+you can call me al	change_user_name
+please call me tom	change_user_name
+call me mary	change_user_name
+how do i change the name you use to address me	change_user_name
+i go by the name jim	change_user_name
+would you call me mary	change_user_name
+don't call me bill anymore - call me bob	change_user_name
+can i have you call me something else	change_user_name
+use my park bank account to pay my electric bill	pay_bill
+help me get my gas bill paid	pay_bill
+i want to pay my tax bill	pay_bill
+i need help paying my tuition bill	pay_bill
+i want to pay my rent bill	pay_bill
+please tell me how to pay my gas bill	pay_bill
+will you aid me in paying my insurance premium	pay_bill
+i need help paying my cable bill	pay_bill
+tell me if you can help pay a bill	pay_bill
+i want to pay my water bill	pay_bill
+i need a bit of hand holding getting my trash bill paid	pay_bill
+i need to pay this month's tv subscription fee	pay_bill
+please help with paying my cell phone bill	pay_bill
+i need help paying my electric bill	pay_bill
+please go ahead and make my student loan payment	pay_bill
+pay my gas bill with my checking account	pay_bill
+i need help paying my water bill	pay_bill
+please pay my utility bill from my wells fargo checking account	pay_bill
+pay my monthy mortgage payment	pay_bill
+can you assist me in paying my electric bill	pay_bill
+is there anyone available to help pay an internet bill	pay_bill
+can you help me pay my bill	pay_bill
+i really want to pay my cable bill from my checking account	pay_bill
+please pay my bill	pay_bill
+i was at zales trying to buy a ring and my card got declined	card_declined
+i need to know why my credit card transaction was declined	card_declined
+explain why was my card declined at boston market	card_declined
+tell me why my card was declined	card_declined
+i need to know why my card declined yesterday	card_declined
+i tried using my card at chipotle yesterday and it was declined; why	card_declined
+what is the reason for whole foods declining my card	card_declined
+i need to know why you declined my card yesterday	card_declined
+i was trying to buy a chainsaw at the tractor store and they said my card was declined	card_declined
+my card didn't go through when i was buying a case of water at walmart	card_declined
+i was at costco trying to buy groceries and my card got declined	card_declined
+why was my card declined for my monthly netflix subscription payment	card_declined
+why won't you let me pay with my credit card	card_declined
+i really need to know why my card was denied	card_declined
+can you tell me what caused my card to get declined at starbucks this morning	card_declined
+i was at sears trying to buy clothes and my card got declined	card_declined
+please tell me why my card was declined	card_declined
+how come starbucks declined my card when i tried to use it to pay	card_declined
+why did my card get declined at the dentist office	card_declined
+let me know why my card was declined yesterday	card_declined
+trying to buy a mug from target but my card declined	card_declined
+please let me know why my card was declined yesterday	card_declined
+i was in australia trying to buy chips and my cards got declined	card_declined
+why was my credit card not accepted	card_declined
+i could not buy food using my card when i was in vietnam	card_declined
+do you know why my card got declined	card_declined
+i was at publix trying to buy some food but my card wouldnt work	card_declined
+am i cleared to miss work for vacation	pto_request_status
+has my request for vacation days been signed by my supervisor yet	pto_request_status
+update me on my vacation request	pto_request_status
+did they approve my day off request	pto_request_status
+does my vacation have approval	pto_request_status
+are they going to let me take vacation	pto_request_status
+how is the approval of my day off going	pto_request_status
+has my request for time off been approved	pto_request_status
+is my day off request approved	pto_request_status
+was my day off request approved	pto_request_status
+what is the day off request status	pto_request_status
+please inform me on my current vacation request status	pto_request_status
+what is the day off request status as of now	pto_request_status
+have they approved my vacation request yet	pto_request_status
+do you know if my vacation was approved yet or not	pto_request_status
+what is the day off request status if you would tell me	pto_request_status
+was there any progress on my vacation request	pto_request_status
+i want to know what the latest is on my vacation request i submitted	pto_request_status
+i want to know the status of my day off request	pto_request_status
+am i okay to take those vacation days	pto_request_status
+i need to know the status of my day off request	pto_request_status
+can you let me know if my vacation was approved	pto_request_status
+when will i hear back about my days off	pto_request_status
+i need milk on my shopping list	shopping_list_update
+remove chips from my shopping list	shopping_list_update
+add coke to my shopping cart	shopping_list_update
+please put silverware on my list for shopping	shopping_list_update
+add pepsi to my shopping bag	shopping_list_update
+put film on my shopping list	shopping_list_update
+add soda on my shopping list and remove carrots	shopping_list_update
+can you add apples to my shopping list if they aren't already on there	shopping_list_update
+i would like to put carrots on my list for shopping	shopping_list_update
+are bananas on the list, if not can you add them	shopping_list_update
+put spaghetti on my shopping list cause i'm out of it please	shopping_list_update
+add sprite to my shopping list	shopping_list_update
+i need for you to get bananas added to my shopping list; i'm out	shopping_list_update
+i need you to add creamer to my shopping list	shopping_list_update
+please add sugar to my shopping list if it's not on it	shopping_list_update
+can you take frozen food of my shopping list	shopping_list_update
+i need bananas on the list too	shopping_list_update
+add oranges to my to do shopping list	shopping_list_update
+add bread to my list of groceries	shopping_list_update
+i am out of trash bags and need them to be added to my shopping list	shopping_list_update
+i need to delete tomatoes from my shopping list and add onions instead	shopping_list_update
+i'd like to add pancake mix to my shopping list if it's not already there	shopping_list_update
+is milk in my shopping list if not, add it	shopping_list_update
+i'm out of toilet paper so will you put that on my shopping list	shopping_list_update
+i'm out of kleenex so will you put that on my shopping list	shopping_list_update
+put bread on my shopping list	shopping_list_update
+update my shopping list, delete canned olives	shopping_list_update
+milk should be added to my shopping list	shopping_list_update
+i would like you to add milk if it is not on my shopping list already	shopping_list_update
+x on the shopping list please	shopping_list_update
+put rice and pudding on my shopping list cause i need them	shopping_list_update
+i would like to try and confirm that i have a reservation at hu hot for paulie	confirm_reservation
+can you confirm my reservation for donnobys at 5:00	confirm_reservation
+can you confirm my reservation for lance at morton's	confirm_reservation
+i would like to try and confirm that i have a reservation at macaroni grill for silva	confirm_reservation
+i would like to try and confirm that i have a reservation at carrabbas for heather	confirm_reservation
+can you confirm my reservation for torris at 7:00	confirm_reservation
+confirm my taco house reservation for jean	confirm_reservation
+i want to confirm friday's reservation at 2:00	confirm_reservation
+do i have reservations at creme at 7 pm	confirm_reservation
+can you please confirm that i have a 6:00 pm table reserved under michelle solomon at devon's	confirm_reservation
+i would like to try and confirm that i have a reservation at kelly's for moreno	confirm_reservation
+confirm my reservation for red robin at 8	confirm_reservation
+please confirm my reservation for red robin at 9	confirm_reservation
+i really need you to confirm my reservation for kevin at red robin	confirm_reservation
+can you confirm my reservation for kevin at red robin	confirm_reservation
+i would like to try and confirm that i have a reservation at outback for josh	confirm_reservation
+tell me if i have reservations at the back abbey at 6 pm	confirm_reservation
+i would like to try and confirm that i have a reservation at gusteau's for krystine	confirm_reservation
+i would like for you to confirm my reservation for red robin at 5 pm	confirm_reservation
+can you confirm my reservation for 8 pm on the 7th of november	confirm_reservation
+can you check that there's a reservation for mark at sidetracks	confirm_reservation
+find my reservation for steve at crucere's and confirm it, please	confirm_reservation
+do you know if my reservation for dono is confirmed at 8 pm	confirm_reservation
+i want to verify my reservation for the 18th at 1pm	confirm_reservation
+confirm my reservation for march 12 at 9:00 am	confirm_reservation
+please confirm my reservation for feburary 21st at 6pm	confirm_reservation
+can you verify mike has a reservation at black rock at 6 pm	confirm_reservation
+will you check there is a reservation for laura at black pearl	confirm_reservation
+i'd like to confirm the josh reservation at moe's	confirm_reservation
+i am here to conform my friday reservation at 2:00	confirm_reservation
+can you confirm my reservation for minnis at 4:00	confirm_reservation
+i would like to try and confirm that i have a reservation at la palapa for bolding	confirm_reservation
+please adjust your settings	change_volume
+increase volume to 4	change_volume
+turn volume to 4	change_volume
+turn your voice box down	change_volume
+increase volume	change_volume
+can you increase the speaker volume	change_volume
+i want volume set to 4	change_volume
+raise volume	change_volume
+turn down your volume	change_volume
+please lower the sound	change_volume
+please make sure the volume stays at 4	change_volume
+please turn your speaker volume up	change_volume
+increase the volume	change_volume
+decrease volume level	change_volume
+volume needs to be at 4	change_volume
+increase your vocals	change_volume
+increase the speaker volume please	change_volume
+can you speak louder	change_volume
+make the sound of my speaker greater	change_volume
+turn your speakers up	change_volume
+i want that volume bumped up to 4	change_volume
+decrease volume	change_volume
+please turn your volume up	change_volume
+i'd like to turn up the volume	change_volume
+increase the volume level to 4 now	change_volume
+turn your vocals down	change_volume
+you must increase your volume	change_volume
+i want your volume lowered	change_volume
+would you please increase your speaker volume	change_volume
+can you increase the speaker volume please	change_volume
+i want volume at 4	change_volume
+i can't hear you	change_volume
+how low should the tread be on my tires to replace them i bought new tires four years ago	tire_change
+when shall i get my tires changed	tire_change
+when will i need to replace my tires if i last replaced them on december 20	tire_change
+what is the timeframe for getting my tires changed	tire_change
+i need to know when i should replace my tires next if i last replaced them on june 2	tire_change
+is it time for new tires	tire_change
+when will my car next be due to get its tires changed	tire_change
+when should i replace my tires next if i last replaced them on july 15th	tire_change
+do i need replacement tires if my last purchase was in june 2015	tire_change
+do i need to replace my tires if i replaced my tires in january	tire_change
+when do you think i should replace my tires because i replaced them on 12/21/17	tire_change
+do i need to change any of my tires	tire_change
+is there a specific date when i should get my tires changed	tire_change
+how do i know when to change my tires	tire_change
+would you say i need new tires if i last bought them on the 24th	tire_change
+when is it time for a tire change	tire_change
+when do i need to get my tires changed	tire_change
+how many miles until i change my tires	tire_change
+i replaced tires last june when should i do it again	tire_change
+how long before i need to replace my tires after i replaced them on 2/24/18	tire_change
+tell me the status of my tires and when i need to replace them	tire_change
+how long until i should have my tires replaced	tire_change
+can you tell me when my tires should get changed	tire_change
+my tires are 29 months old should u change them	tire_change
+when do my tires need changing	tire_change
+how many miles do i drive before i have to get new tires i replaced them four years ago	tire_change
+would you tell me when i should replace my tires next if i last replaced them on june 2	tire_change
+when is it imperative that i get my tires changed	tire_change
+when should i try to change my tires	tire_change
+how long before i need to replace my tires	tire_change
+figure out for me when i ought to change my tires next	tire_change
+when is my car due for an tire change	tire_change
+how long are my tires expected to last before needing to be replaced	tire_change
+when can i commute my tires next	tire_change
+when should i go in and have my tires changed	tire_change
+when will my tires need changed	tire_change
+when should i get new tires	tire_change
+how soon until my tires will need to be changed	tire_change
+tell me your hobbies	what_are_your_hobbies
+what sorts of things are you into	what_are_your_hobbies
+tell me about your hobbies	what_are_your_hobbies
+at free time what do you do	what_are_your_hobbies
+what hobbies do you like to partake in	what_are_your_hobbies
+let's talk about your hobbies	what_are_your_hobbies
+tell me all about your hobbies	what_are_your_hobbies
+what hobbies do you have	what_are_your_hobbies
+are you involved in hobbies	what_are_your_hobbies
+what do you engage in during your free time	what_are_your_hobbies
+what's your favorite hobby	what_are_your_hobbies
+what hobbies do you like to do	what_are_your_hobbies
+what hobbies do you enjoy in your free time	what_are_your_hobbies
+what are your hobbies	what_are_your_hobbies
+do you have anything you enjoy to do	what_are_your_hobbies
+what kind of things do you do when you have free time	what_are_your_hobbies
+what are you hobbies	what_are_your_hobbies
+how do you spend your spare time	what_are_your_hobbies
+inform me what you do for fun in your free time	what_are_your_hobbies
+can you tell me some of your hobbies	what_are_your_hobbies
+what do you do in your spare time	what_are_your_hobbies
+what kind of activities do you enjoy	what_are_your_hobbies
+i want to know if you have hobbies	what_are_your_hobbies
+what recreational activities do you enjoy	what_are_your_hobbies
+what kind of hobbies do you like to do	what_are_your_hobbies
+what kind of hobbies do you have	what_are_your_hobbies
+what activities do you enjoy	what_are_your_hobbies
+give me examples of what some of your hobbies are	what_are_your_hobbies
+what things do you like to do	what_are_your_hobbies
+does the ai have hobbies	what_are_your_hobbies
+what hobbies do you do	what_are_your_hobbies
+what makes you happy in your free time	what_are_your_hobbies
+i would like to know what hobbies you enjoy	what_are_your_hobbies
+what are you’re hobbies, ai	what_are_your_hobbies
+what do you like doing in your free time	what_are_your_hobbies
+would you tell me about your hobbies	what_are_your_hobbies
+what do you enjoy doing in your off time	what_are_your_hobbies
+what do you like to do when you have spare time	what_are_your_hobbies
+what is the status of my new credit card application	application_status
+has my application for discover card gone through yet	application_status
+did my visa card app go through yet	application_status
+how will i know when my application for a credit card has been processed	application_status
+has my application for the hsbc card been approved yet	application_status
+can you check if my credit card application has been processed	application_status
+when can i hear the decision on my credit card application	application_status
+has anyone looked at my mastercard application	application_status
+when will my credit card app be approved	application_status
+have i received any messages about my credit card application	application_status
+has my credit card application been processed yet	application_status
+my credit card application has what status	application_status
+help with credit card application status	application_status
+is there any indication my application for a new credit card has been processed	application_status
+please look into the latest status of my credit card application	application_status
+go to the credit card site and check if my application has gone through	application_status
+can you please tell me about the status of my credit card application	application_status
+i'm desperate to know about my cc processing	application_status
+what is the current status of my credit card application	application_status
+how long to process my credit card application	application_status
+at what point will the review of my credit card application be completed	application_status
+how can i track the progress of my credit card application	application_status
+did the application for my visa card finish	application_status
+i want an update on my application for a credit card that i sent in a couple weeks ago	application_status
+has my mastercard application gone through yet	application_status
+check the status of my credit card application please	application_status
+when will my cc application process	application_status
+my credit card application status	application_status
+when will my application for my credit card be processed	application_status
+what is the status of my credit card application looking like	application_status
+is the processing done on my new credit card	application_status
+please check the status of my mastercard application	application_status
+please let me know if my discover card application has been approved	application_status
+has my application for a trust bank credit card been mailed out and if so was i approved or not	application_status
+check the status of my credit card application for me	application_status
+please get me an update on the status of my credit card application	application_status
+tell me the present status of the credit card application i submitted	application_status
+i want to be updated on the most recent status of my credit card application	application_status
+can you let me know if my visa card has been approved	application_status
+let me know the credit card application status	application_status
+what exactly is the status of my application for the credit card	application_status
+do you know if my amex card app went through	application_status
+where would i get my rewards for my master card	redeem_rewards
+i am ready now to cash in on the many credit card points i have saved up	redeem_rewards
+what do i have to do to use my credit points acquired through purchases	redeem_rewards
+how can i cash in the rewards i have earned on my amex	redeem_rewards
+can i redeem my credit card on safeway	redeem_rewards
+how do i obtain the cash for the rewards on my hy-vee card	redeem_rewards
+call my credit card company and ask can i use my points	redeem_rewards
+what do i need to do in order to redeem my credit card points	redeem_rewards
+if i want to cash in my american express rewards, how do i do that	redeem_rewards
+do you think i could get a target gift card with my credit card points	redeem_rewards
+how can i claim my rewards for my visa card	redeem_rewards
+i want to hear more about how i can use my credit card points	redeem_rewards
+let me cash my credit rewards	redeem_rewards
+can i redeem my credit card points to cash	redeem_rewards
+how many points do i have to cash	redeem_rewards
+what do i need to do for my mastercard rewards	redeem_rewards
+i want to use my credit rewards now	redeem_rewards
+how do i get my rewards from my visa card	redeem_rewards
+i am ready now to use some of the credit card points i have saved	redeem_rewards
+i want to use my card reward points	redeem_rewards
+what are ways to utilize my credit card points	redeem_rewards
+redeem my credit card rewards into my account	redeem_rewards
+if i redeem my credit card points, can i get a kroeger gift card	redeem_rewards
+can i convert my credit card points to milage	redeem_rewards
+how do i cash in credit card points	redeem_rewards
+can i use my credit card points for gas	redeem_rewards
+i want to utilize my credit card points	redeem_rewards
+how do i cash the reward for first bankcard	redeem_rewards
+is a walmart gift card one of the things i can use my credit card points on	redeem_rewards
+i have a lot of credit card points saved up and would like to start redeeming them	redeem_rewards
+tell me how to utilize my card points	redeem_rewards
+let's use my credit card points	redeem_rewards
+i want to redeem points on my chase card, but how	redeem_rewards
+how can i cash in my credit card points	redeem_rewards
+how do i cash the reward for city	redeem_rewards
+redeem credit card points	redeem_rewards
+cash in my credit card points	redeem_rewards
+how do i use my credit card points	redeem_rewards
+how many points do i need before i can redeem them	redeem_rewards
+please redeem my credit card points	redeem_rewards
+i want to cash my credit card points	redeem_rewards
+what time will i be allowed to board	flight_status
+what time does my flight get in	flight_status
+tell me what the status of my american airlines flight is	flight_status
+when does my flight arrive	flight_status
+when will my flight land	flight_status
+what is the word on flight dl123	flight_status
+what time will my flight be boarding	flight_status
+please tell me what the boarding time is for my plane	flight_status
+what is the boarding time for my upcoming flight	flight_status
+please tell me the status of my southwest flight	flight_status
+what's the news with my delta flight	flight_status
+what is the eta of my flight	flight_status
+when's my flight getting here	flight_status
+what's the status for my delta flight this afternoon	flight_status
+how long until my flight is here	flight_status
+when is my flight scheduled to board	flight_status
+what is the scheduled arrival time for my flight	flight_status
+when will my flight take off	flight_status
+look up when my flight is set to start boarding	flight_status
+let me know the status of flight dl123	flight_status
+tell me the status of flight dl123	flight_status
+what time is my flight scheduled to leave	flight_status
+can you check when my flight lands	flight_status
+i need to know when my flight is landing	flight_status
+when is my flight supposed to leave	flight_status
+please inform me when my flight scheduled to board	flight_status
+when is my flight boarding	flight_status
+whats the update on flight dl123	flight_status
+what is the status of my frontier flight	flight_status
+what time is boarding for my flight	flight_status
+please tell me when my flight will land	flight_status
+what time is this flight supposed to land	flight_status
+is flight dl123 due to land as schedule	flight_status
+are there any expected delays for flight dl123	flight_status
+what's up with my american airline flight will it be on time	flight_status
+when is the expected arrival of flight dl123	flight_status
+at what time will my flight begin boarding	flight_status
+what time will i be able to board the plane	flight_status
+i would appreciate it if you could tell me the status of my southwest flight	flight_status
+tell me the status of my american airlines flight	flight_status
+is there any news on flight dl123	flight_status
+when will my jetblue flight get here	flight_status
+when am i boarding my flight	flight_status
+when will we begin to board my scheduled flight	flight_status
+i wish to know when my flight will land	flight_status
+what's the latest with my united flight	flight_status
+what's the status of my united flight	flight_status
+what's the status of my virgin airlines flight	flight_status
+i need to know when my flight scheduled to board	flight_status
+when can i start boarding my flight	flight_status
+can you get me a table for 6 at johnnys	restaurant_reservation
+i would like to reserve a table for 2 at sam's steakhouse under the name jessie at 6:30 pm	restaurant_reservation
+can you set me up for a reservation for five at outback steakhouse on february 28th at seven pm	restaurant_reservation
+make me a reservation for 5 people at village tavern for the calloways	restaurant_reservation
+i need you to book a reservation for 8 pm at red robin under the name kevin	restaurant_reservation
+i need a reservation for one at applebee's, four in the afternoon on march 3rd	restaurant_reservation
+can i make a reservation for 6 pm on the 21st at sidetracks	restaurant_reservation
+please reserve a table for two at olive garden at 7:00pm for michael	restaurant_reservation
+hey, i need to make a reservation for three at umi, six pm on february 30th	restaurant_reservation
+can you reserve a table for 6 at red robin under the name mavrick at 5 clock	restaurant_reservation
+at 7, i need a table for 3 at olive garden	restaurant_reservation
+can you get me a table for 5 at johnnys	restaurant_reservation
+i would like you to secure a 4:30 pm reservation for five people at morton's steakhouse	restaurant_reservation
+book a reservation for 3 at xenophobe under the name zebee	restaurant_reservation
+would you please schedule a reservation for 2 at lucky's under the name sam at 7:30pm	restaurant_reservation
+can i make a reservation for 2 at state bird for 7:30, please	restaurant_reservation
+i need an 8 o'clock reservation at pizza hut for the last name mercury	restaurant_reservation
+the table should be reserved at 8pm at tropicana using martins name and it should be for 5 people	restaurant_reservation
+allow me to turn on the lights	restaurant_reservation
+can you get me a table for 1 at the vega at 1pm	restaurant_reservation
+i would like a reservation for 6:30 pm at pietro's under the name david jones	restaurant_reservation
+under the name zebee book a reservation at the xenophobe for 3	restaurant_reservation
+martins needs a table for 5 people at tropicana at 8pm precisely	restaurant_reservation
+reserve a table for 3 at 7 for olive garden	restaurant_reservation
+book a reservation for 4 at outback steakhouse under the name dave	restaurant_reservation
+reserve table for 5 at red robin under the name sara at 3	restaurant_reservation
+you have to reserve a table for 4 at red robin under the name kevin at 7	restaurant_reservation
+reserve a table for two for 7:30 pm at dibruno's under patrick donoghue	restaurant_reservation
+get reservations at olive garden for two at 7:00pm under michael	restaurant_reservation
+reserve a table for 2 at olive garden under the name jim at 6:00pm	restaurant_reservation
+make a reservation for three at prime rib at 6:30 pm	restaurant_reservation
+can you reserve a table for 2 at red lobster at 8pm	restaurant_reservation
+can you get me a table for 3 at captain d's at 2pm	restaurant_reservation
+can you make me a reservation for 4 pm on the 22nd at ruth's	restaurant_reservation
+schedule me a table for 2 at red lobster at 8	restaurant_reservation
+make a reservation for 2 at red lobster at 8pm	restaurant_reservation
+reserve a table for 6 at morton's under the name jaime at 8:30pm	restaurant_reservation
+book room for me and her under the name kendra	restaurant_reservation
+can i make a reservation for 2 at state bird for 8:30	restaurant_reservation
+please make a reservation for me: party of two, february 22nd at chili's, two in the afternoon	restaurant_reservation
+reserve a table for 2 at red lobster at 8:00	restaurant_reservation
+i want to reserve a table at 8 at long john silver's under the name freddie	restaurant_reservation
+i need a table for 3 at 5pm at andrea's steakhouse under wheeler	restaurant_reservation
+change the response language to french please	change_language
+how can i adjust the spoken language	change_language
+can you translate that to french	change_language
+speak french	change_language
+speak spanish please	change_language
+can we speak in english rather than zulu	change_language
+change language setting to english	change_language
+can you swap the language to afrikaans for me	change_language
+change your language setting to german	change_language
+do you know french	change_language
+change your spoken language to english	change_language
+can you understand me, if i start talking in italian	change_language
+can we speak in german	change_language
+can you change your language to japanese	change_language
+can i get you to change your language setting to russian	change_language
+speak navajo	change_language
+fix my language to spanish	change_language
+alter your language to french	change_language
+start talking in spanish	change_language
+please speak in tagalog	change_language
+replace my language to chinese	change_language
+please change your language setting to spanish now	change_language
+i need to change the language to french	change_language
+change your language setting to spanish	change_language
+set default language to english	change_language
+let's speak in mandarin instead of english	change_language
+adjust your language setting to english	change_language
+i want to speak to you in swiss german	change_language
+change your language	change_language
+speak in german	change_language
+i want to hear from you in german	change_language
+is there an option to speak only in mandarin	change_language
+talk to me in italian	change_language
+can you make the default language swedish	change_language
+can i give you instructions in japanese	change_language
+is it possible to talk to you in mandarin	change_language
+i want to put you in a different language	change_language
+please give me your responses only in french from now on	change_language
+talk to me in italian from now on	change_language
+can you speak to me in french	change_language
+i want you to speak in french	change_language
+i would appreciate it if you could talk to me in french	change_language
+i'd like to use you using russian	change_language
+do you speak english	change_language
+i want to use spanish as my language	change_language
+please respond in english	change_language
+can you speak to me in chinese	change_language
+please let's speak in spanish	change_language
+ai, please roll the dice	roll_dice
+what do you get when you roll a dice with five sides	roll_dice
+roll that dice	roll_dice
+i need a 10 sided die rolled	roll_dice
+please roll a dice	roll_dice
+toss a die would you	roll_dice
+can you roll a 10-sided dice for me	roll_dice
+please roll a 6 sided dice	roll_dice
+i need an algorithm to give me the result of rolling one twelve sided die	roll_dice
+roll a dice	roll_dice
+go ahead and roll those dice	roll_dice
+roll the die!	roll_dice
+roll a die with 6 sides	roll_dice
+i need a roll on a 6 sided dice	roll_dice
+let's roll some dice	roll_dice
+when you roll a six sided dice what is the results	roll_dice
+please roll twelve sided dice	roll_dice
+what do you get if you roll a six sided dice	roll_dice
+throw a roll of the dice	roll_dice
+roll a seven sided dice for me	roll_dice
+will you roll a 3 sided dice	roll_dice
+can you roll the dice	roll_dice
+can you roll a fair, 6 sided die	roll_dice
+shoot the dice!	roll_dice
+roll a 7 sided dice	roll_dice
+please roll that dice	roll_dice
+i need you to roll dice now	roll_dice
+will you roll a 5 sided dice	roll_dice
+throw the dice	roll_dice
+roll a die please	roll_dice
+please roll this 8 sided dice	roll_dice
+roll them bones!	roll_dice
+ai pick up the dice, then drop it	roll_dice
+can you roll a dice for me	roll_dice
+ai, would you kindly roll the dice	roll_dice
+roll the dice	roll_dice
+roll dice please	roll_dice
+will you roll a 10 sided dice	roll_dice
+find a virtual dice and roll it for me please	roll_dice
+please roll the dice	roll_dice
+what's the result of a 10-sided dice roll	roll_dice
+roll the dice for me	roll_dice
+i need you to roll an 8 sided dice	roll_dice
+i want you to roll a 5 sided dice for me	roll_dice
+can you roll a dice with 8 sides	roll_dice
+i would like a 10 sided die rolled	roll_dice
+will you roll a 4 sided dice	roll_dice
+i'd like to roll a dice and get the result	roll_dice
+can you roll a 10 sided die	roll_dice
+i want you to roll dice	roll_dice
+complete a roll on a 4 sided dice	roll_dice
+tell me the date	date
+let me know the date tomorrow	date
+in 2 days, what date will it be	date
+let me know what tomorrow's date is	date
+date please	date
+give me the date today	date
+what's the date tomorrow, please	date
+i need to know the date in 256 days	date
+what is the date of tomorrow	date
+today's date is what	date
+what is the date of today	date
+tell me the date 5 days from now	date
+what is today's date	date
+tell me what the date is tomorrow	date
+i need to know today's date please	date
+today is which day of the week	date
+in six days, what will it be	date
+what's the current date	date
+give me tomorrow's date please	date
+tell me what today's date is	date
+do you have the date	date
+what is the date for tomorrow	date
+i would like to get today's date	date
+tell me what the date is today	date
+the date tomorrow is what	date
+what's the date 400 days from now	date
+can you tell me today's date	date
+calender says tomorrow is	date
+what is the day now	date
+what is today	date
+what is the date in 5 days	date
+i need to know the date it will be 4 days from now	date
+i need to know today's date	date
+what's the date today	date
+what day it today	date
+in 100 days from now, what will be the date	date
+what date is it tomorrow	date
+what will be the date in 100 days from now	date
+can you remind me of the date	date
+what date will it be tomorrow	date
+what date is it today	date
+what's today	date
+after another eight days, what day will it be	date
+what's the current date, month and year	date
+which day is it today	date
+what is tomorrow's date, please	date
+what day will it be in fourteen days	date
+i need the full date for today	date
+tell me what date it is please	date
+what will be the date tomorrow	date
+what day are we in	date
+what day is it tomorrow	date
+tell me what the date will be in 5 days	date
+what is the date today	date
+stop the process	cancel
+never mind, cancel that	cancel
+please abandon the current job	cancel
+can you be quiet please	cancel
+silence	cancel
+never mind	cancel
+that was a mistake, undo that	cancel
+stop please	cancel
+cancel that last command	cancel
+i need you to stop talking	cancel
+actually forget that i don't need it	cancel
+stop talking	cancel
+be quiet	cancel
+abort running program	cancel
+can you cancel what you were doing	cancel
+pause	cancel
+can you cancel that	cancel
+that's enough, don't say anymore please	cancel
+abort	cancel
+i want you to quit the action	cancel
+stop this process	cancel
+stop working on it, i need something else	cancel
+i don't want you to speak any more for now	cancel
+abort it	cancel
+just shut up	cancel
+cancel current process	cancel
+terminate current process	cancel
+please be quiet now	cancel
+cancel that input	cancel
+i advise you to quit talking	cancel
+refrain from talking	cancel
+undo	cancel
+could you stop please	cancel
+don't continue with what you're doing	cancel
+whats the procedure to cancel it	cancel
+abort please	cancel
+please be quiet	cancel
+scratch	cancel
+forget what i told you to do	cancel
+can you stop	cancel
+quit what you are doing	cancel
+quit the current action please	cancel
+halt the process	cancel
+just stop talking	cancel
+could you stop talking for a second	cancel
+please refrain from carrying out the current task	cancel
+can you cancel that request, please	cancel
+stop doing that	cancel
+no more talking	cancel
+i want you to stop your present action	cancel
+forget it	cancel
+please cancel the last input	cancel
+stop it now!	cancel
+please cancel that last task	cancel
+reminders of my list is what	reminder
+what's on the reminder list	reminder
+tell me my reminder list	reminder
+i'd like to just confirm all of the reminders currently on my list of reminders, please	reminder
+what were the things that i wanted to remember	reminder
+tell my all my reminders	reminder
+please read my reminders	reminder
+list the things i wanted to remember	reminder
+i want to hear everything on my reminder list	reminder
+what is on my to do list	reminder
+read my reminder list	reminder
+go through all the reminders on my list and state what they are	reminder
+read my reminders to me	reminder
+what was it i wanted to remember	reminder
+did i request a reminder for my niece's graduation	reminder
+can you repeat my list back to me	reminder
+what do i have on my list of reminders	reminder
+read my reminder list to me	reminder
+what did i ask you to remind me of	reminder
+is mop the floor already in my reminders	reminder
+walk me through the items on my reminder list	reminder
+can you please repeat my list back to me	reminder
+read all my reminders	reminder
+is my meeting with frank on my list of reminders	reminder
+iterate the items on my reminder list	reminder
+let me know what's on my list of reminders	reminder
+i wanted to remember what again	reminder
+what is my plan for the day	reminder
+read my reminder list to me please	reminder
+what are the thing i told you to help me remember	reminder
+i want to see my reminder list	reminder
+please go though the bullet points on my reminder list	reminder
+recall the things i wanted to remember	reminder
+read what i added to the reminder list	reminder
+my list of reminders is what	reminder
+tell me if flipping the mattress is on my list of reminders please	reminder
+read my list of reminders	reminder
+the lists of my reminders is what	reminder
+read back the reminder list	reminder
+did i set up a reminder to clean the bathroom	reminder
+is grocery shopping on my reminders list	reminder
+what things did i not want to forget	reminder
+check my reminders for mop the floor	reminder
+refresh my memory about what items i want to remember	reminder
+will you repeat my reminder list	reminder
+i want to hear my reminder list	reminder
+what are in my reminders list	reminder
+can you please remind me of the items that i made note of to not forget	reminder
+what does my running list of stuff to do list	reminder
+please give me a rundown of my reminder list	reminder
+do i have any reminders to look up how to properly do a potato in my microwave	reminder
+can you tell me what reminders i've set	reminder
+what were those things i was trying to remember	reminder
+remove my reservation at outback for timmy	cancel_reservation
+i want to cancel the reservation for mercury at the ritz	cancel_reservation
+can you undo the reservation	cancel_reservation
+cancel my 8:00 pm prime rib reservation	cancel_reservation
+i need you to cancel my reservation for 5 at red robin	cancel_reservation
+get rid of my 4 pm reservation at the steakhouse please	cancel_reservation
+hey siri, please cancel my reservation at the loft for 5	cancel_reservation
+is it possible to cancel the reservation at outback for the johnsons	cancel_reservation
+i need to put in a cancellation for the dinner plans tonight	cancel_reservation
+cancel my reservation for dinner this friday, please	cancel_reservation
+carla doesn't want her olive garden reservation anymore	cancel_reservation
+something's come up so i need to cancel my reservation so now	cancel_reservation
+go ahead and cancel my reservation for 5 at red robin	cancel_reservation
+i no longer need my reservation with carl at umami	cancel_reservation
+cancel the reservation i made for 8 pm at black rock	cancel_reservation
+cancel the reservation at olive garden for tommy	cancel_reservation
+i have to cancel my reservation	cancel_reservation
+would you please cancel the reservations for dinner	cancel_reservation
+i gotta cancel my reservation for barry at red robin	cancel_reservation
+cancel reservation at eight for the group	cancel_reservation
+we have a table at the taco bell under bowie we need to release	cancel_reservation
+cancel my reservation at osteria for our party	cancel_reservation
+please cancel my reservation at red lobster for 6	cancel_reservation
+undo my reservation for 5 at the loft	cancel_reservation
+can you cancel the reservation i have at 4 pm at ruth's	cancel_reservation
+cancel my reservation for 6 pm at sidetracks	cancel_reservation
+i no longer want my reservation anymore	cancel_reservation
+get rid of my dinner reservation	cancel_reservation
+i need to cancel my reservation for 2 at franklin's grille	cancel_reservation
+can you cancel the reservation for kyle's party at red lobster	cancel_reservation
+i no longer want my reservation for 5 at the loft cancel it please	cancel_reservation
+i'd like to cancel my reservation for 5 at hoss's steak house	cancel_reservation
+i need to cancel my dinner reservation	cancel_reservation
+nix that reservation for 4 at strip house	cancel_reservation
+end my reservation with carl at umami	cancel_reservation
+i need you to cancel my reservation for smith at the williams diner	cancel_reservation
+cancel my reservation for dinner tonight	cancel_reservation
+can you cancel my dinner reservation	cancel_reservation
+can i cancel my reservations	cancel_reservation
+just trash the reservation i made please	cancel_reservation
+call off the dinner reservation	cancel_reservation
+my reservation is no longer needed	cancel_reservation
+cancel my reservation with carl at umami	cancel_reservation
+hello, i need to cancel tonight's reservation for dinner	cancel_reservation
+the reservation i created is not necessary anymore	cancel_reservation
+there is no need to confirm my reservation	cancel_reservation
+could you please cancel my reservation for 5 at red robin	cancel_reservation
+i do not actually need my reservation anymore	cancel_reservation
+i'd like to cancel the party of 7 we reserved at the olive garden	cancel_reservation
+can you cancel my reservation on tuesday for chris at stella maris	cancel_reservation
+i am not in need of my reservation anymore	cancel_reservation
+abandon the dinner reservation i made	cancel_reservation
+please cancel my reservation for tim at jb's	cancel_reservation
+the reservation i placed is not needed anymore	cancel_reservation
+i need to cancel my reservation for new york to xai varanda	cancel_reservation
+how many calories are in apples	calories
+how many calories are in a cookie	calories
+tell me the calorie content of frosted flakes	calories
+what is the calorie content in spaghetti	calories
+what's the number of calories in a pepsi	calories
+inform me of the calorie content of vanilla ice cream	calories
+i need to know the calorie content in a piece of pepperoni pizza	calories
+what is the caloric total in these muffins	calories
+what is the total number of calories in this pizza	calories
+how many calories in meatloaf	calories
+a large french fry has how many calories	calories
+what is the calorie content of a scoop of chocolate ice cream	calories
+how many calories are in a bowel of wheaties	calories
+how high in calories is pork	calories
+how many calories should i plan to be in a donut	calories
+can you see how many calories are in cream of mushroom soup	calories
+what number of calories are in a pizza	calories
+what kind of calories do chicken tenders have	calories
+how many calories are in a bag of regular doritos	calories
+in one cookie, how many calories would i find	calories
+how many calories on average are in a hot dog	calories
+what is the number of calories in a steak	calories
+how many calories does a big mac have	calories
+what's the calorie count for tuna casserole	calories
+how many calories are in waffles	calories
+how many calories in peanuts	calories
+how many calories are in spaghetti and meat sauce	calories
+how many calories are in oranges	calories
+what's the calorie content of chicken nuggets	calories
+can you tell me the calorie count in a glazed donut	calories
+please tell me how many calories one chocolate bar contains	calories
+what is the calorie count for this milkshake	calories
+what does a sausage sandwich have for calories	calories
+i want the calorie content for a banana	calories
+what is the calorie look like in apples	calories
+i'd like the calories for this chicken breast	calories
+cookies have how many calories	calories
+how many calories are in a donut hole	calories
+how much is alorie intake	calories
+what type of calorie numbers are in onions	calories
+what's the amount of calories in a cheesy omelette	calories
+calorie content of dr pepper	calories
+how many calories in scoop of chocolate ice cream	calories
+what's the calorie info for 2 cups of regular chex mix	calories
+how many calories are in mashed potatoes	calories
+can you tell me how many calories are in cookies	calories
+what is the calorie count for muffins	calories
+in a fried egg, how many calories are there	calories
+calorie check, cheese burger	calories
+what is the calorie going to be if i'm eating cereal	calories
+the intake of calories it it bad	calories
+what amount of calories are in one muffin	calories
+number of calories in coke	calories
+what's a big bowl of ice cream contain in calories	calories
+what is the total number of calories in a bag of potato chips	calories
+how many calories do cheetos have	calories
+what's the expected calories in a cream filled cookie	calories
+what is the calorie content in bananas	calories
+how many calories are in a burger	calories
+whats the calorie content of oatmeal	calories
+what is the calorie count for one cookie	calories
+how many calories are in chicken breast	calories
+tell me the number of calories in a banana	calories
+are there a lot of calories in muffins	calories
+tell me how many calories in a medium size apple	calories
+what is the amount of calories that scrambled eggs has	calories
+a bowl of cheerios with milk has how many calories	calories
+how many calories are in a ghirardelli sea salt caramel candy	calories
+remove my todo list	todo_list_update
+add washing dishes to my to do list	todo_list_update
+i need laundry put on my list of tasks to complete	todo_list_update
+cleaning needs to go on my list of things to do	todo_list_update
+erase get a haircut from my to do list, please	todo_list_update
+i need to do cleaning so add it to my to do list	todo_list_update
+remove grocery shopping from todo list	todo_list_update
+please take feeding the fish off of my list of tasks to complete	todo_list_update
+to my domestic task list please add paint kitchen	todo_list_update
+on my big project task list please add paint shutters in spring	todo_list_update
+please remind me to add laundry to my list of chores	todo_list_update
+take everything off my todo list	todo_list_update
+help remind me that i need to add laundry to my list of housework	todo_list_update
+please erase everything on my to do list	todo_list_update
+you can remove vacuuming off the todo list	todo_list_update
+put cleaning on my to do list	todo_list_update
+make sure my to do list is completely clear please	todo_list_update
+can you put mopping on my to do list	todo_list_update
+add do laundry to my to do list	todo_list_update
+empty the contents of my to do list	todo_list_update
+delete everything from the task list	todo_list_update
+i need you to clear my todo list	todo_list_update
+delete everything on my todo list	todo_list_update
+i don't need grocery shopping on my todo list anymore	todo_list_update
+on my list of things to do, add cleaning	todo_list_update
+hurry up and just erase everything from the todo list	todo_list_update
+cross volunteering off my todo list	todo_list_update
+please get rid off everything on my to do list	todo_list_update
+can you cancel my todo list please	todo_list_update
+you can dusting off my todo list	todo_list_update
+please clear out my whole to do list	todo_list_update
+add mopping to the to do list	todo_list_update
+i need to do dishes put it on my to do list	todo_list_update
+please include feeding the fish on my to do list	todo_list_update
+can you place laundry on my to do list	todo_list_update
+remove laundry from my todo list	todo_list_update
+i need to include a stop at the pharmacy to the list of things to do	todo_list_update
+on my to do list, add cleaning	todo_list_update
+remove all items from my to do list	todo_list_update
+cleaning needs to be on my to do list	todo_list_update
+take doing the dishes off my todo list	todo_list_update
+put laundry on my list of things to do	todo_list_update
+can you remind me to mop later by putting it on my to do list today	todo_list_update
+would you kindly remove five mile run from my list of things to do	todo_list_update
+put clean refrigerator on my spring cleaning to do list	todo_list_update
+insert mowing on the chore list	todo_list_update
+i'd like you to remove throw away dvds off my todo list	todo_list_update
+add cleaning to my to do list	todo_list_update
+add to my task list get carpet cleaned	todo_list_update
+please put babysitting on my to do list	todo_list_update
+wipe my todo list please	todo_list_update
+you can take laundry off my todo list	todo_list_update
+nix folding laundry from my todo list	todo_list_update
+throw mopping onto my to do list	todo_list_update
+remind me to wash the dog, put on list of things to do	todo_list_update
+if you could remind me about doing laundry i would appreciate it	todo_list_update
+add schedule appraiser to my to do list	todo_list_update
+on my to do list, add dishes	todo_list_update
+put wash the dog on my to do list please	todo_list_update
+erase the items on my to do list	todo_list_update
+i need to add dusting the bookshelf to my to do list	todo_list_update
+i need laundry to be put on my list of things to do	todo_list_update
+please add laundry to the chores	todo_list_update
+take grocery shopping off my todo list	todo_list_update
+switch to the whisper mode	whisper_mode
+whisper from here on out please	whisper_mode
+please switch to whisper mode	whisper_mode
+go back to normal mode please	whisper_mode
+switch over to whisper mode	whisper_mode
+can you change to the whisper voice setting	whisper_mode
+please switch to whisper mode for now	whisper_mode
+go to whisper mode for one hour	whisper_mode
+please turn on whisper mode because i am about to be in class	whisper_mode
+please whisper	whisper_mode
+leave whisper mode	whisper_mode
+go to whisper mode	whisper_mode
+volume to whisper voice	whisper_mode
+can you please whisper	whisper_mode
+go into whisper mode now please	whisper_mode
+can you please lower the volume please	whisper_mode
+i'd like you to use the whisper voice	whisper_mode
+i can't hear you, stop whispering!	whisper_mode
+change to whisper mode	whisper_mode
+exit out of whisper mode	whisper_mode
+i can't be loud and need you to speak more quietly	whisper_mode
+activate whisper mode	whisper_mode
+speak quiet as though you were in a church	whisper_mode
+please switch to whisper	whisper_mode
+please begin using the whisper voice setting	whisper_mode
+i want you to switch to whisper mode	whisper_mode
+please speak with the whisper voice	whisper_mode
+i want your setting adjusted to whisper voice now	whisper_mode
+you need to speak softer	whisper_mode
+please use whisper	whisper_mode
+switch over to whisper	whisper_mode
+switch to whisper mode, please	whisper_mode
+don't make too much noise	whisper_mode
+i need you to switch to whisper mode	whisper_mode
+can you switch to whisper mode	whisper_mode
+change out of whisper mode	whisper_mode
+change mode to whisper	whisper_mode
+turn off whisper mode	whisper_mode
+let's switch to whisper voice	whisper_mode
+engage whisper mode now	whisper_mode
+make a switch to whisper mode	whisper_mode
+please shut off whisper mode for now	whisper_mode
+go into whisper mode until the plane lands	whisper_mode
+start whisper mode	whisper_mode
+please turn on whisper mode	whisper_mode
+use whisper voice	whisper_mode
+i need quiet; use whisper	whisper_mode
+whisper to me	whisper_mode
+i need you to use your whisper voice	whisper_mode
+stop whisper mode	whisper_mode
+how do i go to whisper mode	whisper_mode
+use your whisper voice	whisper_mode
+use your quiet voice	whisper_mode
+i want whisper mode to be switched off	whisper_mode
+go into whisper mode now	whisper_mode
+please turn on whisper voice	whisper_mode
+use your indoor voice please	whisper_mode
+can you switch out of whisper mode	whisper_mode
+do not talk so loudly	whisper_mode
+turn your volume up	whisper_mode
+turn on whisper mode	whisper_mode
+please talk quietly	whisper_mode
+what taxes do i owe	taxes
+tell me what my state taxes are	taxes
+how much am i expected to pay in tax	taxes
+how much does it seem my state taxes will be	taxes
+can you tell me more about my federal taxes	taxes
+i would like to know how much i pay in taxes	taxes
+i need the details on my federal taxes	taxes
+what is the total of my state taxes	taxes
+how much do i pay the government in taxes	taxes
+i pay how much of taxes with my income	taxes
+how much do i owe for state taxes	taxes
+how much money do i pay in taxes, please	taxes
+what are my tax costs	taxes
+do you know my state tax total	taxes
+tell me how much my state taxes amount to	taxes
+how much money is the state going to take from me for taxes	taxes
+do you know the price for my taxes in income	taxes
+whats the total of my federal taxes	taxes
+what does it look like i will be paying in federal taxes this year	taxes
+how much are my state taxes	taxes
+how much money will i get or owe on my federal tax return	taxes
+how different will my state taxes be	taxes
+how much will i have to pay in colorado taxes	taxes
+and what are the taxes	taxes
+what amount of tax should i pay	taxes
+what are my state taxes looking like	taxes
+can you find the exact amount i pay income taxes	taxes
+what percentage of my income is taken out for taxes	taxes
+what is the tax amount	taxes
+what do i get taxed at my income level	taxes
+how much tax do i owe	taxes
+what do my federal taxes amount to	taxes
+do you know how much i pay in taxes	taxes
+will i pay over $500 in federal taxes	taxes
+what do i pay in taxes	taxes
+help me figure out my state taxes	taxes
+let me know my tax rate	taxes
+how much is my income tax	taxes
+can you calculate my state taxes	taxes
+how much are the taxes on my income	taxes
+what amount do my state taxes look like	taxes
+what do my state taxes look like	taxes
+what amount do i owe in taxes	taxes
+what's my tax rate	taxes
+i need the data and price from my state taxes	taxes
+what should i squirrel away to pay in taxes	taxes
+can you tell me what my federal tax burden is	taxes
+do you know the total for taxes for my income	taxes
+how much will i pay in federal taxes	taxes
+can you tell me how much i pay in taxes	taxes
+are my state tax payments too high	taxes
+lets talk about what my federal taxes look like	taxes
+how much do i pay in taxes, please	taxes
+i need to know how much tax i pay from my earnings	taxes
+what am i paying in taxes	taxes
+how much am i being taxed	taxes
+how much do i pay in my taxes	taxes
+please tell me what i pay in taxes	taxes
+what does it look like my state taxes will add up to	taxes
+talk to me about the total of my state taxes	taxes
+tell me what my federal taxes amount to	taxes
+put we are the champions to my running playlist	update_playlist
+add baby shark to my kid playlist	update_playlist
+yellow by coldplay to my playlist please	update_playlist
+can you put smooth operator by sade on my playlist	update_playlist
+please add this song to my country music playlist	update_playlist
+add help! by the beatles to my playlist	update_playlist
+add psycho by post malone to my playlist	update_playlist
+add the next song to my playlist - broken by evanescence	update_playlist
+please put africa by toto on my playlist	update_playlist
+add this song to my slow jams playlist	update_playlist
+add this song to the end of my led zeppelin playlist	update_playlist
+add this song to my jazz playlist	update_playlist
+i wanna add help! by the beatles to my playlist	update_playlist
+"""""""please add to """"""""kids"""""""" playlist"""""""	update_playlist
+put mambo #5 by lou bega on my playlist, please	update_playlist
+please throw this song onto my cleaning playlist	update_playlist
+add this song to travel	update_playlist
+the song that's on, add it to my favorite playlist	update_playlist
+i gotta add hey jude by the beatles to my playlist	update_playlist
+please put this song on my studying playlist	update_playlist
+put on bended knee on my reflection playlist	update_playlist
+add hells bells by acdc to my playlist	update_playlist
+insert what i am listening to into my jazz playlist	update_playlist
+add broken by evanescence to my playlist	update_playlist
+put dr feelgood by motley crue on my playlist	update_playlist
+i want to have happy added to my rb playlist	update_playlist
+favorite what's currently playing on my playlist	update_playlist
+i need to add this song to my playlist of rock	update_playlist
+i want this song on my pregame playlist	update_playlist
+add song to my hype playlist	update_playlist
+add this song to my post-rock playlist	update_playlist
+please add someday by the strokes to my playlist	update_playlist
+add this song to my top 40 playlist	update_playlist
+"""""""connect this song to my playlist """"""""kids"""""""	update_playlist
+add welcome to the jungle by guns n roses to my playlist	update_playlist
+add this song to my cleaning playlist	update_playlist
+add mia to my spanish playlist	update_playlist
+add welcome to the jungle to my workout mix	update_playlist
+put the current song in my favorite playlist	update_playlist
+could you add this song to my rock playlist	update_playlist
+add walk by pantera to my playlist	update_playlist
+what did you add to my playlist - broken by evanescence	update_playlist
+add creep by radio head to the playlist	update_playlist
+this song i'm listening to would be great on my commute playlist	update_playlist
+add this track to my rock playlist	update_playlist
+add this song to my rainy day playlist	update_playlist
+please add this song to my alternative playlist	update_playlist
+get happy on my rb playlist	update_playlist
+can you add this song to my country music playlist	update_playlist
+add this song to my game night playlist	update_playlist
+i need this song on my jam playlist	update_playlist
+i think i wanna add heart shaped box by nirvana to my playlist	update_playlist
+"""""""include this song in the """"""""kids"""""""" playlist"""""""	update_playlist
+put this song on my reggae playlist	update_playlist
+move rap god to my motivational playlist	update_playlist
+will you add what i'm listening to to my love playlist	update_playlist
+transfer happy to my rb playlist	update_playlist
+will you add what i'm listening to to my bedroom playlist	update_playlist
+i wanna add this song to my rock playlist	update_playlist
+i would like the song playing right now put on my driving playlist	update_playlist
+add 7 rings to my pop playlist	update_playlist
+add to my playlist smooth operator by sade	update_playlist
+this song should be add this on my rock playlist	update_playlist
+list happy on my rb playlist	update_playlist
+add a song to my rock playlist	update_playlist
+i wanna know what timezone spain is in	timezone
+what is the timezone for la	timezone
+find the applicable timezone for austin	timezone
+if i’m in japan, what time zone am i in	timezone
+denver's timezone is what	timezone
+do you know what timezone italy is in	timezone
+time zone in miami is like what	timezone
+in what timezone is atlanta located	timezone
+what timezone is dallas in	timezone
+what is the timezone of saigon	timezone
+what timezone is sacromento in	timezone
+what timezone is miami in	timezone
+which timezone is buenos aires in	timezone
+which timezone is colombia	timezone
+which time zone is germany is in	timezone
+what timezone is honolulu in	timezone
+i need the time zone for la	timezone
+what is the timezone for new york	timezone
+the timezone of italy is what	timezone
+the time zone for brazil is what	timezone
+what is texas's timezone	timezone
+what's the timezone in valencia	timezone
+what timezone is paris in	timezone
+what's the time zone in miami	timezone
+what's chicago's time zone	timezone
+in paris, what's the timezone	timezone
+i need to know what timezone sedona is in	timezone
+time zone in france	timezone
+what timezone is russia in	timezone
+whats the timezone for modesto	timezone
+what timezone is the country in	timezone
+which timezone is england in	timezone
+what's the timezone over there	timezone
+i need to know britain's timezone	timezone
+what timezone do ho chi minh use	timezone
+what timezone is reno in	timezone
+for italy what timezone is it in	timezone
+can you tell me the time zone for la	timezone
+what timezone is london is	timezone
+whats the timezone for san fransico	timezone
+what is the timezone for san francisco	timezone
+what timezone would missouri be in	timezone
+what timezone is detroit in	timezone
+what timezone is london in	timezone
+is austin in the central timezone	timezone
+what's the timezone for boston	timezone
+if you're in melbourne, what timezone are you in	timezone
+is new york in mountain timezone	timezone
+if i change my timezone to reno, what would it be	timezone
+what is the timezone for houston	timezone
+what timezone is los angeles in	timezone
+timezone currently in mobile	timezone
+can you tell me the timezone in san francisco	timezone
+what timezone is sweden in	timezone
+in what timezone does baton rouge fall	timezone
+in which timezone is jamaica	timezone
+british columbia can be found in what timezone	timezone
+what is the time zone of china	timezone
+i need to know what timezone ireland is in	timezone
+italy's timezone is what	timezone
+what is the timezone in las vegas	timezone
+what timezone is phoenix in	timezone
+what timezone does lisbon have	timezone
+what timezone is vegas in	timezone
+which timezone is denver located	timezone
+is the timezone there different	timezone
+what timezone does bangor have	timezone
+what time zone is ireland in	timezone
+detroit is in what timezone	timezone
+what timezone do they use in arizona	timezone
+what timezone would tampa be in	timezone
+what timezone is france in	timezone
+which timezone is las vegas in	timezone
+which time zones does european countries use	timezone
+what timezone is china in	timezone
+can you tell me what timezone chicago is in	timezone
+how do i ascertain when my next insurance payment will be	bill_due
+please find the exact payment due date for my sprint phone bill	bill_due
+when do i have to pay my internet bill by	bill_due
+when is my visa due	bill_due
+tell me when my water bill is due	bill_due
+what is the due date of my bill	bill_due
+how much is my water bill	bill_due
+what day do i have to pay my leasing office bill	bill_due
+what's the ultimate day for me to pay the internet bill	bill_due
+what day is my car insurance due	bill_due
+when is my kaiser bill due	bill_due
+i want to know when a bill is due	bill_due
+how much time left to pay my bill	bill_due
+when do i need to pay my annual payment for auto insurance	bill_due
+tell me when my bill will be due	bill_due
+tell me where i can find my exterminator bill's due date	bill_due
+when's the next phone bill	bill_due
+how can i know when my cable bill is due	bill_due
+i need to know the next billing date of my american express card	bill_due
+where can i see the due date for auto loan bill	bill_due
+where should i look for when my gas bill is due	bill_due
+when does the electric bill up	bill_due
+when do i need to pay the water bil	bill_due
+when is my electric bill due by	bill_due
+when is my electricity due date	bill_due
+when's my heater bill due	bill_due
+when is my water bill due	bill_due
+when is my cell phone bill due	bill_due
+whats the deadline for amex payment	bill_due
+what day do i have to pay for my capital one card	bill_due
+do i need to pay my credit card bill already	bill_due
+what day of the month do i have to pay my mortgage	bill_due
+what's the due date for my comcast bill	bill_due
+how long do i have to pay that bill	bill_due
+please tell me how to find out when my rent is due	bill_due
+what date is my water bill due	bill_due
+what is the due date on my xfinity internet bill for february	bill_due
+when do i owe the state payment for my car tags	bill_due
+when is my car insurance due	bill_due
+when do i need to pay my dte energy bill	bill_due
+when is my xfinity bill due	bill_due
+where can i find when my car payment bill is due	bill_due
+i need to know what day i need to pay my water bill	bill_due
+i need to know when i must pay my car bill	bill_due
+when does the car payment come due	bill_due
+when do i need to pay my at&t bill	bill_due
+what is the due date for a bill	bill_due
+i want to know when the deadline is to pay my car loan	bill_due
+when do i owe the rent	bill_due
+what's the latest i can pay my cellular bill	bill_due
+what's the due date for the renting bill	bill_due
+when is next month's cable bill due	bill_due
+tell me when my mastercard bill should be paid	bill_due
+whats the due date for z bill	bill_due
+i need to know where my due date is for my lawn bill	bill_due
+how do i find when my water bill needs to be paid	bill_due
+how long do i have to pay the gas bill	bill_due
+when do i have to pay my gas bill by	bill_due
+where do i find information on when the water bill is due	bill_due
+when is my at&t bill due	bill_due
+i cant remember when my bill is due	bill_due
+how do i know when to pay my gas bill	bill_due
+tell me how i know when to pay my chase bill	bill_due
+what is the due date for my metronorth monthy pass	bill_due
+when do i have to pay my electric bill by	bill_due
+when's the gas bill due	bill_due
+when is my bill due	bill_due
+when do i pay the utilities	bill_due
+when do i need to pay the cable bill	bill_due
+what's the due date for my netflix subscription	bill_due
+can you tell me when my cable bill is due	bill_due
+i would like to know when the bill is due	bill_due
+i need to find out how to check the due date for the water bill	bill_due
+what's the chance of rain on friday	weather
+what is the weather for tomorrow in georgia	weather
+what's the current weather situation for tallahassee	weather
+what is the temperature in costa mesa	weather
+is it going to rain tomorrow	weather
+what is the weather forecast looking like for seattle	weather
+what is the forecast for this week	weather
+how's the weather in seattle	weather
+how is it outside	weather
+what's the weather	weather
+what will the low temperatures be over the weekend	weather
+tell me the weather for today	weather
+is there any rain in the next 3 days	weather
+how is the weather looking in seattle	weather
+what is the weather like tomorrow	weather
+what is miami weather like	weather
+what is the weather going to be like tomorrow	weather
+current weather	weather
+could you tell me what the weather is in austin	weather
+what is the weather report for seattle	weather
+is it snowing right now in richmond, va	weather
+what kind of weather does miami have	weather
+what is the weather going to be like	weather
+what is the high temperature for tomorrow	weather
+what are the atmospheric conditions in sparks	weather
+whats the forecast for the weather	weather
+want to know the weather	weather
+what's the forecast for the day	weather
+will it freeze tonight	weather
+what will the temperature be tomorrow	weather
+can you tell me what the weather will be please	weather
+what will the weather be this weekend	weather
+will it get over 90 degrees today	weather
+what is happening with the weather in austin	weather
+can you let me know if it will be warm this week	weather
+whats the predicted weather suppose to be like	weather
+costa mesa weather	weather
+tell me the forecast	weather
+how cold will it be tomorrow	weather
+what's the weather like today	weather
+what can you tell me about miami weather	weather
+what is the weather report for costa mesa	weather
+what does the weather look like	weather
+how's the weather	weather
+what is the weather in atlanta	weather
+let's take a look at the weather	weather
+what's the temperature like in tampa	weather
+is it raining in sparks	weather
+tell me how the weather is	weather
+when is the next time it is suppose to rain	weather
+how is that weather	weather
+how many of inches of snow did my hometown get last year	weather
+is sparks experiencing bad weather right now	weather
+what does the forecast look like	weather
+tell me the weather report for tallahassee	weather
+i need to know the weather	weather
+what's the weather like	weather
+tell me the weather	weather
+weather in costa mesa	weather
+what s the uv index tomorrow	weather
+how's the weather in tallahassee	weather
+what kind of weather can i expect now	weather
+what is the weather going to be like today	weather
+what's the humidity today	weather
+what will be the weather tomorrow	weather
+how is the weather	weather
+what's the weather looking like	weather
+is it raining	weather
+what's today's weather going to be	weather
+what is the temp right now	weather
+show me what the weather is like	weather
+what are the conditions like in sarasota	weather
+is it hot outside	weather
+is it going to be sunny today	weather
+what's my pnc balance	balance
+what is my balance	balance
+how much funds do i have in my bank accounts	balance
+i wanna know my bank balance	balance
+what's my current bank savings	balance
+will you let me know my bank balance	balance
+what's my current bank account total	balance
+what is my money market account balance	balance
+can you tell me my bank balance	balance
+how much money do i have in all of my accounts combined	balance
+check my checking balance	balance
+what's the balance in my checking	balance
+will i have enough to get a new roku with my savings account	balance
+check chase bank for my checking balance	balance
+how much is available in my savings account	balance
+i wish to know the balance of my bank of american account	balance
+what the numerical number inside my bank accounts	balance
+is there enough in my wells fargo account to buy some nike's	balance
+what is my balance in checking account	balance
+could you check my bank balance for me	balance
+what's the balance of my bank accounts	balance
+what is the value of my bank accounts	balance
+can i afford a new tv from my savings account	balance
+how much do i have in my checking	balance
+how much do i have in my bank accounts	balance
+what's the amount of money accumulated in my bank accounts	balance
+what's my checking account balance	balance
+how much dough do i have in my bank accounts	balance
+i keep trying to figure out if i have enough money in my chase account to purchase a new set of tires	balance
+please tell me my bank balance	balance
+what is the total of my bank accounts	balance
+tell me the current account balance	balance
+what's my savings balance at chase	balance
+do i have enough in my boa account for a new pair of skis	balance
+i am not sure if i have enough money in my chase account to buy a new dress	balance
+how much money is in my checking account	balance
+what is my savings account balance	balance
+how much money is left in my bank accounts	balance
+what is the balance in my pnc account	balance
+do you think i have enough money in my chase account for a new pair of sneakers	balance
+can you tell me how much money i have i my bank accounts	balance
+how much do i have in my savings account	balance
+what amount of money is in my bank accounts	balance
+can i get beer within my deposit account	balance
+check my wells fargo account to see if i have enough for these nike's	balance
+how much money do i have in my pnc account	balance
+can you tell me my checking account balance	balance
+what's my current checking balance	balance
+is there enough money in my discover account for airplane tickets	balance
+what is status of my bank account	balance
+please tell me how much money i have in my bank accounts	balance
+do i have enough in my wells fargo account to get some nike's	balance
+how much money do i have in my various bank accounts	balance
+tell me my payroll account balance	balance
+how much moola is in my bank accounts	balance
+how much is in savings	balance
+i'd like to know my bank balance please	balance
+what is in my bank accounts	balance
+i wonder if i have enough money in my chase account for a bike	balance
+what's my checking look like	balance
+i want my checking balance at chase	balance
+do i have enough in my chase account for a plane ticket	balance
+i want to get a new shirt; will the money in my td ameritrade account cover it	balance
+do i have enough in my sears account to buy a new dishwasher	balance
+what is remaining in my bank acccounts	balance
+how much cash do i have in my various bank accounts	balance
+how much do i have left in my checking account	balance
+i need to know how much money i have in all of my bank accounts	balance
+do you know how much i have in checking	balance
+what's the balance on my bank account	balance
+how much is in my pnc account	balance
+what is my savings balance	balance
+how much do i have in savings	balance
+what's my account balance	balance
+is there any money left	balance
+procedure to change oil in car	oil_change_how
+i want to know how to change oil, tell me the steps one at a time while i work through it	oil_change_how
+what are the procedures for changing my oil	oil_change_how
+how do i switch out my oil	oil_change_how
+how to change oil and what oil type	oil_change_how
+i need instructions on how to change my car's oil and what type i should buy	oil_change_how
+what do i need in order to change my oil	oil_change_how
+way to change car oil	oil_change_how
+help me figure out how to change my oil	oil_change_how
+i need guidance on changing my oil	oil_change_how
+i intend to learn how to change oil in my car	oil_change_how
+can you tell me how to change the oil in my car	oil_change_how
+how could i replace my oil and what form of oil ought to i take advantage of	oil_change_how
+what do i need to change my oil	oil_change_how
+can you change the oil, with what and how	oil_change_how
+how do i choose the correct oil and how do i change it	oil_change_how
+i want to change the oil in my car but i do not know how to do it can you help	oil_change_how
+give me manual on how to change oil	oil_change_how
+i don't know how to change my oil or what type i need	oil_change_how
+what weight oil do i need and how do i change the oil for my chevy truck	oil_change_how
+how do i change oil on a car	oil_change_how
+is it easy to change the oil in my car	oil_change_how
+can you find instructions on how to change oil in a car	oil_change_how
+how can i change my car oil	oil_change_how
+how can i change my oil for my car	oil_change_how
+what way can i change oil at home	oil_change_how
+can you tell me how to change my car's oil, and what type i need to buy	oil_change_how
+what is needed to change my oil	oil_change_how
+can you get me simple instructions on how to do an oil change	oil_change_how
+is it possible to change oil, if so how and what do i use	oil_change_how
+how do i change a car's oil	oil_change_how
+find instructions for how to change the oil in a 2015 passat	oil_change_how
+how do i change my oil with the correct type	oil_change_how
+how do i change my oil	oil_change_how
+can you find some instructions on how to change my oil	oil_change_how
+i want to learn how to change the oil in my car	oil_change_how
+what kind of oil do i need to use for my car	oil_change_how
+what are the steps i need to do to change the oil in my car	oil_change_how
+put together a list of instructions for me on how to change the oil in my car	oil_change_how
+give me instructions on how to change the oil in my car	oil_change_how
+what oil do i need for my honda crv and how do i change it	oil_change_how
+diy oil change and oil type	oil_change_how
+i need to know how to change my oil and what kind of oil for a 2007 trailblazer	oil_change_how
+what oil do i use when changing oil and how do i do it	oil_change_how
+how can my oil be changed in my car	oil_change_how
+help me change my oil	oil_change_how
+how do i change my oil and choose the right oil	oil_change_how
+i want to change my oil if you can tell me what to do, and what kind do i get	oil_change_how
+what do i need to change the oil in my car	oil_change_how
+tell me how to change the oil in 2014 odyssey	oil_change_how
+how will i change my car's oil	oil_change_how
+do you know how to change car oil	oil_change_how
+how can i change my oil in my car	oil_change_how
+what actions do i take to change a car's oil	oil_change_how
+what kind of oil and how much do i need for my toyota tacoma truck and how do i do it	oil_change_how
+can you show me how to change the oil for my car	oil_change_how
+give me step by step instructions for changing my oil	oil_change_how
+help me change my oil and what kind do i need	oil_change_how
+please let me know how to change the oil	oil_change_how
+how do i change my oil out and what kind should i use	oil_change_how
+what are the steps to change the oil in my car	oil_change_how
+what oil do i need and how is it changed	oil_change_how
+i need step by step instructions on how to change the oil in my car	oil_change_how
+can you tell me the steps to change the oil in my car	oil_change_how
+how do i change the oil in a car	oil_change_how
+what kinds of oil can i use in my car, and how to i change the oil	oil_change_how
+walk me through the steps involved in changing my oil	oil_change_how
+what is the way i can change my oil	oil_change_how
+i want to learn the process of changing oil	oil_change_how
+can you teach me how to change my oil	oil_change_how
+give me instructions for an oil change	oil_change_how
+what do i do to change my car's oil	oil_change_how
+what steps do i need to follow to change the oil in my car	oil_change_how
+i need to know how to change my oil	oil_change_how
+can i increase my credit limit to 1200 dollars	credit_limit_change
+can i increase the credit limit for my visa platinum card	credit_limit_change
+can you increase how much i can spend on my visa	credit_limit_change
+i want my credit limit changed	credit_limit_change
+i'd like to increase my credit limit	credit_limit_change
+can i get a higher credit limit on my american express	credit_limit_change
+need to increase credit limit for chase card	credit_limit_change
+can i make a change to my credit limit	credit_limit_change
+can you change my credit limit	credit_limit_change
+can i increase my credit limit to 700 dollars	credit_limit_change
+can i have my credit limit changed	credit_limit_change
+can i get a higher limit on my visa card	credit_limit_change
+can my credit limit be increased by 500 dollars	credit_limit_change
+is there a way to increase the limit on my visa card	credit_limit_change
+is it possible to increase the limit on my visa	credit_limit_change
+is it possible to get a credit limit increase to 3000	credit_limit_change
+how do i request a credit limit increase on my visa	credit_limit_change
+increase my credit limit	credit_limit_change
+can i change my credit limit	credit_limit_change
+can i increase the credit limit for my navy federal card	credit_limit_change
+can you get my credit limit increased to $1000	credit_limit_change
+would i be able to increase my available credit by 600 dollars	credit_limit_change
+is it possible to increase my credit limit to 1000 dollars	credit_limit_change
+should i increase my credit limitfor cardx	credit_limit_change
+can you increase my credit limit	credit_limit_change
+what do i do to change my credit limit	credit_limit_change
+how would i raise my credit spending by 2500 dollars	credit_limit_change
+i need to increase credit limit for my chase card	credit_limit_change
+can my credit limit be increased to one thousand dollars	credit_limit_change
+can i raise my credit limit to $12,000	credit_limit_change
+my credit limit needs to me changed	credit_limit_change
+i need to increase my credit limit	credit_limit_change
+what's the possibility of getting a credit limit increase on my visa	credit_limit_change
+can my credit limit be increased to $1000	credit_limit_change
+is it possible to increase the credit limit for my discover card	credit_limit_change
+i want to increase my credit limit to 5000 dollars	credit_limit_change
+please help me increase my mastercard credit card limit	credit_limit_change
+can i increase the credit limit for my bank of the west card	credit_limit_change
+i need a credit raise by 1000 dollars	credit_limit_change
+can i increase my credit limit to 800 dollars	credit_limit_change
+can you increase my credit limit to $1000	credit_limit_change
+can i increase my credit limit from 1000 to 2000 please	credit_limit_change
+how can i increase the credit limit on my discover card	credit_limit_change
+how would i raise my credit spending by 250 dollars	credit_limit_change
+is there a way to get a larger limit on my bank of america card	credit_limit_change
+can you change the limit on my credit please	credit_limit_change
+raise my credit limit	credit_limit_change
+please see if you can increase my credit limit to one thousand dollars	credit_limit_change
+can i get a higher credit limit on my amex card	credit_limit_change
+will i be able to increase my credit limit to $1000	credit_limit_change
+how do i ask for a limit increase on my discover card	credit_limit_change
+can i increase the credit limit on my mastercard	credit_limit_change
+can i increase the credit limit on my kohls card	credit_limit_change
+can i get more credit	credit_limit_change
+can i increase the credit limit on my travel rewards card	credit_limit_change
+can i increase the credit limit on my walmart card	credit_limit_change
+can i increase my credit limit to 500 dollars	credit_limit_change
+how would i go about raising my gold card limit	credit_limit_change
+can i increase the credit limit on my discover card	credit_limit_change
+can i raise the credit limit for my discover card	credit_limit_change
+how do i increse my credit limit	credit_limit_change
+you need to tell me how to increase credit limit for my chase card	credit_limit_change
+can i up my credit limit to $1000	credit_limit_change
+please change credit	credit_limit_change
+i want to change my credit limit	credit_limit_change
+may i have a higher limit on my mastercard	credit_limit_change
+is it possible to increase the credit limit on my mastercard	credit_limit_change
+change my credit limit, please	credit_limit_change
+how do i get my credit limit increased to $1000	credit_limit_change
+how do i raise the limit on my visa card	credit_limit_change
+how can i increase my aa credit card limit	credit_limit_change
+how can i get a limit increase on my discover card	credit_limit_change
+is it possible to increase my credit limit to $1000	credit_limit_change
+the credit limit i have needs to be changed	credit_limit_change
+is it possible to have a higher limit on my visa	credit_limit_change
+can i get a credit limit raise on my credit card	credit_limit_change
+can i get more money on my discover card	credit_limit_change
+can i get a higher limit on my american express card	credit_limit_change
+can i increase the credit limit for my chase card	credit_limit_change
+is there a way to increase the limit of my credit to 5000 dollars	credit_limit_change
+is it possible to increase my visa card limit	credit_limit_change
+help increasing credit on discover card	credit_limit_change
+can i increase my credit limit	credit_limit_change
+i would like to increase my credit limit, can i do so by 500 dollars	credit_limit_change
+i'd like to increase my credit spending limit to 500 dollars	credit_limit_change
+i would like my account frozen	freeze_account
+i want a block placed on my checking account right away	freeze_account
+please put a block on my regions account immediately	freeze_account
+put a hold on my bank account	freeze_account
+put a freeze on my bank account	freeze_account
+i need a block put on my chase account right away	freeze_account
+please make sure my account is frozen	freeze_account
+are you able to put a stop on my bank account	freeze_account
+could you freeze my account, please	freeze_account
+block my bank of america immdediately	freeze_account
+can you please put a block on my chase account quickly	freeze_account
+please put a stop on my back account	freeze_account
+can you put a block on my visa account right away	freeze_account
+would you please put a block on my chase account right away	freeze_account
+put a block on bank of amerian immediately	freeze_account
+put a hault on my savings account	freeze_account
+please put a block on my citi account immediately	freeze_account
+i need my bank account frozen	freeze_account
+can you put a stop on my account	freeze_account
+i need you to act swiftly and freeze all activity on my capital one checking	freeze_account
+block my citibank account right away	freeze_account
+would you be able to freeze my bank account	freeze_account
+put a block on my chase account right away	freeze_account
+help me freeze my bank account, please	freeze_account
+block my chase account asap	freeze_account
+could you freeze my account now	freeze_account
+i need to lock my account right now!	freeze_account
+my account at the bank needs to be frozen	freeze_account
+can you freeze my account, please	freeze_account
+my bank account must be frozen	freeze_account
+i want you to immediatly block any further activity on my bb&t bank account	freeze_account
+please put a freeze on my banking account	freeze_account
+please block my discover account immediately	freeze_account
+can you notify the bank to put a stop on my account	freeze_account
+i need a stop placed on my bank account please	freeze_account
+i would like a block put on my chase account asap	freeze_account
+can i freeze my bank account	freeze_account
+stop all payments to my bank account	freeze_account
+i want my account locked out	freeze_account
+please allow my account to freeze	freeze_account
+i need my account frozen!	freeze_account
+place a stop on my bank account	freeze_account
+can you please freeze my bank account	freeze_account
+how we stop my account	freeze_account
+can you freeze my account	freeze_account
+i need you to block my chase account immediately	freeze_account
+please put a block on my us bank account immediately	freeze_account
+i would appreciate it if you put a stop on my bank account	freeze_account
+i really want my account frozen	freeze_account
+my account needs to be frozen	freeze_account
+stop all access to my account	freeze_account
+please put my account on hold	freeze_account
+i am going to need a block put on my chase account right away	freeze_account
+freeze my account for me	freeze_account
+please put a stop on my bank account	freeze_account
+i need my savings account placed under a block as soon as possible	freeze_account
+place a stop on my main account for me please	freeze_account
+i need a block placed right away on my joint checking account	freeze_account
+i need my account frozen	freeze_account
+i'd like a stop placed on my bank account	freeze_account
+i need you to block my mutualone account now	freeze_account
+can you block my chase account right away please	freeze_account
+can we stop my bank account	freeze_account
+please put a block on my td ameritrade account now	freeze_account
+please put a block on my wells fargo account	freeze_account
+please freeze my bank account	freeze_account
+i'd like my account frozen	freeze_account
+i need to block all transactions from going through on my citi checking account straight away	freeze_account
+stop payments from my bank	freeze_account
+please ask the bank to freeze my account	freeze_account
+may you stop a paymet on my account	freeze_account
+please put a block on my capital one account immediately	freeze_account
+put a hold on my account	freeze_account
+please put a block on my discover account immediately	freeze_account
+plase hold my account for now	freeze_account
+block my american saving bank for now	freeze_account
+freeze my account immediately	freeze_account
+dont allow any action on my account	freeze_account
+i need you to place a stop on my bank account, thank you	freeze_account
+i am hoping you can put a stop on my bank account	freeze_account
+please do a stop on my bank account	freeze_account
+please put a block on my wells fargo account immediately	freeze_account
+could you freeze my account	freeze_account
+i'd like to put a freeze on my bank account	freeze_account
+freeze my account at the bank immediately	freeze_account
+can you freeze my bank account	freeze_account
+put a hold on my bank account please	freeze_account
+i need to know if i must have an international visa to go to france	international_visa
+do i need a visa for germany	international_visa
+do i need a travel visa to visit china	international_visa
+if i go to indonesia would i need a visa	international_visa
+will i need a visa to go to moldova	international_visa
+does mexico require an international visa	international_visa
+i need to know if i need a visa to travel to el salvador	international_visa
+do i need an international visa to go to malaysia	international_visa
+does moscow require travel visas to visit	international_visa
+do i need a visa to travel to canada	international_visa
+do i need a visa to travel outside of the us	international_visa
+will i need a visa to travel to cancun	international_visa
+do i need to apply for a visa for my trip to india	international_visa
+for going to that country, do i need a visa	international_visa
+i am going to travel to mexico soon; do i need to get a visa	international_visa
+i'm going to be going to canada soon, do they require a visa for entry	international_visa
+if i go to columbia, will i need a visa	international_visa
+do i have to have a visa to go to denmark	international_visa
+do i need a states visa to get to cuba	international_visa
+i'd like to go to malaysia so do i need a visa	international_visa
+does jamaica require a visa	international_visa
+if i'm planning to go to the uk, do i need a visa	international_visa
+i'm going to jamaica next week; am i needing a visa	international_visa
+are visas required to go to cuba	international_visa
+do i need a visa to go to greece	international_visa
+does travelling to st petersburg require a travel visa	international_visa
+what paperwork will i need to visit northern ireland	international_visa
+should i go to okinawa, does it require an international visa	international_visa
+should i apply for a visa if i am traveling to mexico	international_visa
+does south korea require an international visa	international_visa
+if i plan on travelling to this country, do i need a visa	international_visa
+do i need a visa to travel to mexico	international_visa
+does mexico travel require a visa	international_visa
+will i need an international visa to go to madagascar	international_visa
+if i go to canada next month do i need a visa	international_visa
+do i need a visa if i go there	international_visa
+does canada require a visa	international_visa
+will i need a travel visa to go to canary islands	international_visa
+do i need a visa to go to cuba	international_visa
+can i get to cuba with this visa	international_visa
+do i need an international visa to go to canada	international_visa
+i want to go to korea, do i need an international visa	international_visa
+is a visa necessary for traveling to south africa	international_visa
+do i need a visa to get to puerto rico	international_visa
+do americans need visas in canada	international_visa
+will i have to apply for a visa if i want to visit mexico	international_visa
+do i need a visa to go to colombia	international_visa
+do i need a visa to go to somewhere internationally	international_visa
+will i need a visa to visit ireland	international_visa
+do i need an international visa to go to south korea	international_visa
+do i need to obtain a travel visa to go on vacation to places in eastern europe	international_visa
+do i need an international visa to go to tibet	international_visa
+are visas for international travel	international_visa
+to vacation to tel aviv do i need a travel visa	international_visa
+should i get an internation visa to go to switzerland	international_visa
+would i need a tourist visa for brazil	international_visa
+can you travel outside of the united states without a visa	international_visa
+should i get a visa before going to cancun	international_visa
+does travelling to that place require a visa	international_visa
+does ireland require an international visa	international_visa
+does france have their own version of a visa	international_visa
+does going to taiwan require me to get an international visa	international_visa
+do i have to have a visa to go to the cayman islands	international_visa
+what are the visa requirements for brazil	international_visa
+if i travel there, do i need a visa	international_visa
+do i need a visa to travel to isreal	international_visa
+do i need a visa to scotland	international_visa
+if i want to travel to mexico do i need to get a visa	international_visa
+if i get a visa can i travel to japan	international_visa
+should i get a travel visa for spain	international_visa
+visa's are hard to get do i need one when i travel to israel	international_visa
+is a travel visa required to visit paraguay	international_visa
+do i need to get a visa for russia	international_visa
+is an international visa needed to travel to z	international_visa
+do i need a visa to travel to indonesia	international_visa
+does international travel always require a visa	international_visa
+when does travelling require a visa	international_visa
+do i need a travel visa to visit japan	international_visa
+must i have an international visa when travelling to russia	international_visa
+do i need an international visa to go to spain	international_visa
+if i want to travel to singapore do i need a visa	international_visa
+toss a coin i will take heads	flip_coin
+please flip a coin i hope its tails	flip_coin
+flip that dime	flip_coin
+please flip a coin	flip_coin
+do a coin toss	flip_coin
+flip a coin, you win with heads	flip_coin
+flip coin, heads!	flip_coin
+flip a coin for me, with you calling heads	flip_coin
+do heads or tails	flip_coin
+flip a coin for me	flip_coin
+flip that coin please	flip_coin
+flip a coin, i call heads!	flip_coin
+go ahead and flip a coin, i am calling tails	flip_coin
+please flip the coin	flip_coin
+flip the coin	flip_coin
+flip coin ai	flip_coin
+please flip a coin - i call heads	flip_coin
+coin flip, choose heads	flip_coin
+please flip a coin, and i call heads	flip_coin
+flip a coin now	flip_coin
+can you please flip a coin, i call tails	flip_coin
+flip that coin once; it must be tails	flip_coin
+flip a quarter	flip_coin
+heads or tails	flip_coin
+i want you to flip a coin	flip_coin
+i'd like you to throw a virtual coin for me	flip_coin
+do a virtual coin flip and tell me if i win as tails	flip_coin
+can you flip a coin i call heads	flip_coin
+ai, heads or tails	flip_coin
+lets do a coin toss, i call tails	flip_coin
+can you flip a coin for me	flip_coin
+toss a coin and tell me what it lands on	flip_coin
+begin the coin flip now	flip_coin
+flip a coin heads or tails	flip_coin
+i want a coin flipped	flip_coin
+spin a coin	flip_coin
+just flip a coin	flip_coin
+please flip a coin for me ai	flip_coin
+randomly pick between heads or tails and tell me if tails wins	flip_coin
+would you flip a coin	flip_coin
+if you flip a coin, i call tails	flip_coin
+flip a coin, i'm heads	flip_coin
+go ahead and flip a coin	flip_coin
+ai, give me the results of a coin flip	flip_coin
+lets go with heads or tails	flip_coin
+i'm wanting you to flip a coin	flip_coin
+are you able to flip a two sided coin	flip_coin
+flip that coin now	flip_coin
+i call tails and you call heads on this coin flip i need you to do	flip_coin
+i call tails for a coin flip you need to do right now	flip_coin
+will you flip a coin so i can make a choice	flip_coin
+can i get a random heads or tails	flip_coin
+flip a coin if you will	flip_coin
+can you flip a coin, i will take tails	flip_coin
+how about a coin flip	flip_coin
+flip a coin and tell me if its heads or tails	flip_coin
+hey, flip me a coin i call tails	flip_coin
+do a coin flip	flip_coin
+flip a coin, i choose heads	flip_coin
+ai, please flip a simulated coin	flip_coin
+will you get a coin and flip it	flip_coin
+flip the coin ai	flip_coin
+i want you to flip a coin i choose heads	flip_coin
+go ahead and flip that coin, i choose heads	flip_coin
+flip a two sided coin and tell me what it lands on	flip_coin
+i need to have a coin flipped	flip_coin
+please flip a coin and tell me what side it lands on	flip_coin
+i want a coin flip and i'll take tails	flip_coin
+let's flip a coin i choose heads	flip_coin
+flip a fair coin i win if it's tails	flip_coin
+flip the coin, i choose heads	flip_coin
+heads, coin flip	flip_coin
+flip a coin for me and i call heads	flip_coin
+please go ahead and flip a coin	flip_coin
+i want you to flip a coin now	flip_coin
+filp a coin, i call heads	flip_coin
+can you flip a coin once	flip_coin
+flip a coin for me i call tails	flip_coin
+i need you to flip a coin	flip_coin
+flip a normal coin	flip_coin
+flip a coin i choose heads	flip_coin
+flip a coin into the air	flip_coin
+i need you to flip a coin so i can decide	flip_coin
+i wanna flip a coin	flip_coin
+let's settle it with a coin flip	flip_coin
+lets flip for it	flip_coin
+i would like to listen to a funny joke	tell_joke
+tell me a joke about rats	tell_joke
+will you tell me a joke	tell_joke
+i want to hear you tell a joke	tell_joke
+give me a joke about the subject of bugs	tell_joke
+tell me something to make me laugh	tell_joke
+tell me something funny about cats	tell_joke
+i'd love to hear a joke	tell_joke
+what's a good joke	tell_joke
+please tell me a joke about dinosaurs	tell_joke
+i wanna know something funny	tell_joke
+i want to hear something funny	tell_joke
+heard any good jokes	tell_joke
+tell me a joke about cats	tell_joke
+i would like to hear something funny	tell_joke
+what’s your favorite funny joke	tell_joke
+heard any good jokes lately	tell_joke
+make me laugh	tell_joke
+can you tell a joke	tell_joke
+i'd like to hear a joke	tell_joke
+tell me a good joke	tell_joke
+i would like to hear a funny joke	tell_joke
+i could use a laugh, got any jokes	tell_joke
+tell me something funny about the middle ages	tell_joke
+do you have any monkey jokes	tell_joke
+what are some funny things about food	tell_joke
+tell my something funny	tell_joke
+what funny jokes do you know	tell_joke
+tell me something funny about dogs	tell_joke
+would you like to tell me a joke	tell_joke
+i'd like to hear a lawyer joke	tell_joke
+can you tell me a joke about politicians	tell_joke
+tell me a funny joke about men	tell_joke
+what jokes do you know	tell_joke
+do you know any jokes	tell_joke
+what sort of jokes do you know	tell_joke
+give me a joke about horses	tell_joke
+hit me with a good joke	tell_joke
+tell me something that'll make me laugh	tell_joke
+tell me something funny about pizza	tell_joke
+do you have any funny jokes	tell_joke
+tell me a blonde joke	tell_joke
+tell me a dog joke	tell_joke
+would you tell me a joke	tell_joke
+do you know anything funny about cats	tell_joke
+tell me your funniest joke	tell_joke
+i need a good joke about office parties	tell_joke
+can you tell me something funny	tell_joke
+look for funny jokes	tell_joke
+could you please share a joke with me	tell_joke
+tell me something amusing	tell_joke
+let me know something funny	tell_joke
+tell me a dirty joke	tell_joke
+know any jokes	tell_joke
+do you know any good jokes you would like to share	tell_joke
+let me hear something funny	tell_joke
+let's hear a joke from you please	tell_joke
+do you know any good jokes	tell_joke
+give me your best joke	tell_joke
+i'm in the mood for a joke	tell_joke
+tell me a joke about dogs	tell_joke
+can you tell me any truly funny knock knock jokes	tell_joke
+make me giggle	tell_joke
+do you know any good jokes about lawyers	tell_joke
+i want to hear something hilarious	tell_joke
+can you tell me some dog jokes	tell_joke
+tell me something funny	tell_joke
+tell me something funny about people	tell_joke
+can you tell me a joke about a lawyer	tell_joke
+can you tell me something funny about science	tell_joke
+mind sharing a joke	tell_joke
+i need to know somthing funny	tell_joke
+what do people find funny about food	tell_joke
+do you have any jokes	tell_joke
+i would like to hear a joke	tell_joke
+do you know any jokes about librarians	tell_joke
+could you share a joke	tell_joke
+tell me a joke about the topic of mice	tell_joke
+i want to hear doctor jokes	tell_joke
+tell me something funny about americans	tell_joke
+do you have any jokes to tell me	tell_joke
+tell me a joke about baseball	tell_joke
+can you share a humorous joke with me	tell_joke
+tell me a joke about cows	tell_joke
+what's the funniest thing you know about peanuts	tell_joke
+tell me a joke	tell_joke
+please look up my card's expiration date	expiration_date
+when does my card expire	expiration_date
+tell me the expiration date on my credit card	expiration_date
+how many more days before my credit card expires	expiration_date
+can you tell me what date my credit card expires	expiration_date
+when will my discovery card expire	expiration_date
+i want to know the expiry month of my card	expiration_date
+what is the expiry date of my credit card	expiration_date
+tell me the expiry month of my card	expiration_date
+which month is the one in which my card expires	expiration_date
+tell me the month my card expires	expiration_date
+what is the date when my visa card will expire	expiration_date
+my american express card expires on what date	expiration_date
+can you tell me the expiration date for my mastercard	expiration_date
+can i have the expiration date for my capital one card	expiration_date
+what month does my card close	expiration_date
+what's the last date i can use my credit card	expiration_date
+when will my amex card reach its expiration	expiration_date
+tell me when my visa card will have expired	expiration_date
+my credit card is set to expire in what month	expiration_date
+my card will work until what month	expiration_date
+do i need a new card yet	expiration_date
+when does my discover card expire	expiration_date
+what's the expiration date on my credit card	expiration_date
+when will my visa next expire	expiration_date
+i need to know when my mastercard will expire	expiration_date
+can you tell me if my credit card expires in the near future	expiration_date
+what's the month that my card expires	expiration_date
+what is the expiration date on my card	expiration_date
+tell me when my credit card from visa expires please	expiration_date
+do you know the expiration date that is on my visa card	expiration_date
+what is the date that my visa card expires	expiration_date
+tell me the expiration date on my visa credit card please	expiration_date
+look up the expiration date for my barclay's card	expiration_date
+do you know the expiration date on my credit card	expiration_date
+when is my credit due to expire	expiration_date
+how many days until my amex card reaches it expiration date	expiration_date
+what is the expiration date on my credit card	expiration_date
+what's the exact date that my chase card will no longer work	expiration_date
+when is the expiration date for my visa card	expiration_date
+is my card set to expire soon	expiration_date
+when will my visa expire	expiration_date
+what is my expiration data for my card	expiration_date
+do you know the expiration date for my visa card	expiration_date
+what's the expiry month of my card	expiration_date
+help me figure out when exactly my credit card will be expiring	expiration_date
+how much time do i have before my credit card expires	expiration_date
+tell me the expiration date for my visa card	expiration_date
+when is my card expired	expiration_date
+let me know when my credit card expire	expiration_date
+will my card expire on a certain month	expiration_date
+when it my citi card expired	expiration_date
+how soon does my credit card expire	expiration_date
+show me the expiration date for my visa card	expiration_date
+what is the expiration date of my wells fargo card	expiration_date
+does my card have an expiration date and if so, what is it	expiration_date
+when will my card go rotten	expiration_date
+how much longer until my credit card expires	expiration_date
+please find the expiration month listed on my card	expiration_date
+can you find out for me when my credit card will be expiring	expiration_date
+when is the expiration date for my discover card	expiration_date
+how soon does my visa card expire	expiration_date
+what date will my hy-vee card need to be renewed	expiration_date
+when is the expiration month for my card	expiration_date
+when should i expect my visa to expire	expiration_date
+when is the expiration date of my credit card	expiration_date
+how long will it be until my visa card expires	expiration_date
+is my credit card expiration date approaching	expiration_date
+when is the date my visa card will expire	expiration_date
+what is the month of my card's expiration date	expiration_date
+when do i have to renew my card so it doesn't expire	expiration_date
+what month is my card expired in	expiration_date
+what is the expiration month and year on my credit car	expiration_date
+tell me the month that my card will expire in	expiration_date
+when's my visa card expiring	expiration_date
+how long til my visa card expires	expiration_date
+my chase card expires on what date	expiration_date
+find out for me when my mastercard expires	expiration_date
+when will my citi card expire	expiration_date
+where can i find my credit card's expiration date	expiration_date
+when does my capital one visa expire	expiration_date
+when is my credit card expire	expiration_date
+when is the date of expiration for my first bank card	expiration_date
+what is the month that my card is set to expire in	expiration_date
+is my credit card expiring soon	expiration_date
+can you tell me what the date of expiry for my visa card is	expiration_date
+when will my credit card no longer be good	expiration_date
+what month does my card stop working	expiration_date
+will you please confirm the month that my card expires	expiration_date
+can you please tell me my card's expiration month	expiration_date
+when do i need a new credit card	expiration_date
+in what month does my credit card expire	expiration_date
+when will my american express card expire	expiration_date
+could you look up the date that my credit card is set to expire	expiration_date
+how long until my mastercard expires	expiration_date
+can you find the expiration date and tell me what it is that is on my visa credit card	expiration_date
+please tell me the month and year of expiration for my discover card	expiration_date
+what is the expiration date of my credit card	expiration_date
+check the start time of the meeting scheduled for today	meeting_schedule
+are there meetings from 1 to 5 pm	meeting_schedule
+are there any meetings for today on my calendar	meeting_schedule
+tell me when my meeting is scheduled with roger	meeting_schedule
+is mr ceo waiting me now	meeting_schedule
+do i have any meetings coming up today	meeting_schedule
+what time i have to meet mr accountant	meeting_schedule
+what's on my meeting schedule today	meeting_schedule
+do i have any meetings today between 5 and 6	meeting_schedule
+read me my meeting schedule	meeting_schedule
+is my schedule clear with no meetings with dan today	meeting_schedule
+when are my meetings today between noon and one	meeting_schedule
+do i have any meetings today between 9 and 10:30	meeting_schedule
+do i have any meetings planned for today	meeting_schedule
+list meetings on calendar for today	meeting_schedule
+i need to know if i have any meetings scheduled for today	meeting_schedule
+check my schedule for meetings today	meeting_schedule
+check today's calendar for meetings	meeting_schedule
+when is my meeting with john	meeting_schedule
+are there any meetings between 2 and 5 pm	meeting_schedule
+about how many meetings am i attending between 12 and 3 today	meeting_schedule
+bring up any mettings for today	meeting_schedule
+i wanna know when my meeting is with dan	meeting_schedule
+what is the meeting schedule today	meeting_schedule
+what time am i meeting with john	meeting_schedule
+when is my meeting with dan scheduled for	meeting_schedule
+do i have any meetings between 1 and 8 pm	meeting_schedule
+what meetings are on my schedule today	meeting_schedule
+let me hear all meetings for today	meeting_schedule
+can you tell me what time i am meeting with sarah today	meeting_schedule
+i think dan scheduled a meeting today with me, can you double check please	meeting_schedule
+do i have any meetings scheduled between 3 and 5 pm today	meeting_schedule
+what meetings do i have today from 3 to 4	meeting_schedule
+do i have any meetings on my schedule today	meeting_schedule
+what meetings do i have today	meeting_schedule
+do i have any meetings today between 9:30 and 10:30	meeting_schedule
+what time is today's meeting	meeting_schedule
+are there any meetings on the calendar for today	meeting_schedule
+did i schedule any meetings for today	meeting_schedule
+when is that meeting with kara	meeting_schedule
+give me a run down of my meeting schedules for the day	meeting_schedule
+when is my meeting with ann	meeting_schedule
+is there any meetings from 5 to 6 pm	meeting_schedule
+do you know if i have any meetings set up with travis today	meeting_schedule
+what if any meetings do i have today	meeting_schedule
+what meetings are scheduled for today	meeting_schedule
+do i have meetings scheduled today	meeting_schedule
+go over my meeting schedule with me please	meeting_schedule
+what do i have going on between 9 and 10	meeting_schedule
+tell me how many meetings with pete i have for today	meeting_schedule
+what meetings are on my calendar	meeting_schedule
+are there any meetings on my calendar today	meeting_schedule
+am i scheduled for any gatherings today	meeting_schedule
+what is my meeting schedule like for the day	meeting_schedule
+which meetings do i have today	meeting_schedule
+do i have any meetings scheduled today	meeting_schedule
+let me know every meeting i have scheduled today	meeting_schedule
+do i have any meetings with mark today	meeting_schedule
+what are my meetings today	meeting_schedule
+what meetings do i have scheduled today	meeting_schedule
+do i have any meetings with stan today	meeting_schedule
+do i have meetings with anyone today	meeting_schedule
+when is my meeting with roger	meeting_schedule
+are there meetings schedules today between noon and one	meeting_schedule
+what time is my meeting with fred scheduled for	meeting_schedule
+are there meetings scheduled for today	meeting_schedule
+is there a meeting with sam today	meeting_schedule
+what time am i meeting john	meeting_schedule
+do i have any meetings today between 8 and 9	meeting_schedule
+please list my meetings for today from 8:00 am to 2:00 pm	meeting_schedule
+what time is my meeting with steve	meeting_schedule
+is the meeting with lisa today	meeting_schedule
+for today only, how many meetings are with jake	meeting_schedule
+tell me my scheduled meetings for today only, please	meeting_schedule
+when is my meeting with bob	meeting_schedule
+do i have any meetings today between 9:20 and 10:30	meeting_schedule
+do i have any meetings today between 6 and 7	meeting_schedule
+do i have any meetings with michael today	meeting_schedule
+do i have to meet the dev squad to day	meeting_schedule
+are any meetings booked for today	meeting_schedule
+i need to know if i have meetings from 3 to 6 pm	meeting_schedule
+when am i gonna be meeting roger	meeting_schedule
+when for i meet jane for our meeting	meeting_schedule
+when is my meeting with infrastructure	meeting_schedule
+tell me the meeting schdule please	meeting_schedule
+exactly what time is my meeting with robin scheduled for on	meeting_schedule
+tell me what my day looks like today in terms of meetings	meeting_schedule
+am i scheduled to meet with heather today	meeting_schedule
+do i have meetings from 1 to 4 today	meeting_schedule
+do i have to be at any meetings today	meeting_schedule
+am i scheduled for any meetings between noon and one	meeting_schedule
+share my meeting schedule with me	meeting_schedule
+what location were you born in	where_are_you_from
+what city were you born in	where_are_you_from
+where are you originally from before coming here	where_are_you_from
+do you know where you were born	where_are_you_from
+can you tell me where you are from	where_are_you_from
+up until now, what place was your home base	where_are_you_from
+can you tell me where you were born	where_are_you_from
+where is your home	where_are_you_from
+i'd like to know where you're from	where_are_you_from
+what's your nationality	where_are_you_from
+what country do you consider yourself a citizen of	where_are_you_from
+would you care to let me know where you were made	where_are_you_from
+where did you live before here	where_are_you_from
+what's your hometown	where_are_you_from
+where were you before moving here	where_are_you_from
+what country are you from	where_are_you_from
+where are you coming from	where_are_you_from
+from where did you originate	where_are_you_from
+where do you hail from	where_are_you_from
+tell me where you come from	where_are_you_from
+where do you hale from	where_are_you_from
+what state were you born in	where_are_you_from
+what location did you originate at	where_are_you_from
+what place do you call home	where_are_you_from
+did you grow up here	where_are_you_from
+your birth occurred where	where_are_you_from
+so where do you come from originally	where_are_you_from
+you were made where	where_are_you_from
+where would you say you were born	where_are_you_from
+are you from the uk	where_are_you_from
+what place were you made at	where_are_you_from
+what place were you actually born at	where_are_you_from
+where were you created	where_are_you_from
+whereabouts are you from	where_are_you_from
+in which area were you made	where_are_you_from
+where are your roots	where_are_you_from
+when you were a child, where did you live	where_are_you_from
+where did you live previously	where_are_you_from
+let me know when you were made	where_are_you_from
+are you from the us	where_are_you_from
+where are you from originally	where_are_you_from
+what area were you born in	where_are_you_from
+are you from europe	where_are_you_from
+what is your origin	where_are_you_from
+what is your native home	where_are_you_from
+where do you call home	where_are_you_from
+what place are you from	where_are_you_from
+where are you from before you got here	where_are_you_from
+are you from around here	where_are_you_from
+where did you live before you moved here	where_are_you_from
+what region were you born	where_are_you_from
+where were you born as a kid	where_are_you_from
+what was your place of creation	where_are_you_from
+what is your country of origin	where_are_you_from
+are you from here or somewhere else originally	where_are_you_from
+where were you thought of	where_are_you_from
+tell me where you were created	where_are_you_from
+where was it you were made	where_are_you_from
+were you born in a hospital	where_are_you_from
+where are your origins located	where_are_you_from
+what's your birthplace	where_are_you_from
+from whence do you hail	where_are_you_from
+what's your city of origin	where_are_you_from
+what location were you born	where_are_you_from
+what's your home country	where_are_you_from
+where is your place of origin	where_are_you_from
+where was it you were born	where_are_you_from
+a hidden government facility	where_are_you_from
+what place were you born at	where_are_you_from
+where is the location that you were made	where_are_you_from
+where did you live prior to living here	where_are_you_from
+from where do you come	where_are_you_from
+what's your country of origin	where_are_you_from
+where were you manufactured	where_are_you_from
+what town were you born in	where_are_you_from
+were you born here	where_are_you_from
+in what state were you born	where_are_you_from
+what place do you come from	where_are_you_from
+what is your place of origin	where_are_you_from
+where are you from	where_are_you_from
+in what place are you originally from	where_are_you_from
+tell me where you're made	where_are_you_from
+where did you originate from	where_are_you_from
+your birthplace is where	where_are_you_from
+what is your nationality	where_are_you_from
+where were you born	where_are_you_from
+what was the location of your birth	where_are_you_from
+tell me where you're from	where_are_you_from
+where did your mom give birth	where_are_you_from
+what is the area that you came from	where_are_you_from
+in which place were you made	where_are_you_from
+where is your home town	where_are_you_from
+could you tell me where did you originate	where_are_you_from
+i need to book a place to stay in phoenix from the 5th to the 9th of march	book_hotel
+can you find me a reputable hotel in honolulu	book_hotel
+i really need you to find me a hotel with good reviews in phoenix	book_hotel
+i need lodging in lizton near the ice cream parlor from may 3rd until the 8th	book_hotel
+can you make a reservation in tampa from may 2 to may 4	book_hotel
+in paris, get me a hotel room for 4 people from march 1st to 3rd	book_hotel
+i'm travelling to boston on march 2 until march 4 please make a hotel reservation for me	book_hotel
+make a reservation to stay in cali from november 11 to 15	book_hotel
+could you book me a hotel in afghanistan at the zoo for the 10th to the 15th	book_hotel
+can you find me a decent hotel in denver	book_hotel
+can i book a hotel in new york city near times square from 3/1 until 3/5	book_hotel
+can you reserve a hotel for myself a hotel in afghanistan at the zoo for the 10th to the 15th	book_hotel
+i required a hotel room for 20 people from march 8th through march 20th in las vegas	book_hotel
+i am looking for a hotel in new york city that has good reviews	book_hotel
+do you know of any well reviewed hotels in chicago	book_hotel
+i'm inquiring about the availability of a room that fits 10 people from monday to tuesday in manhattan	book_hotel
+what's a good hotel to stay at in chicago	book_hotel
+i need a room in indianapolis near the track from may 2nd through the 5th	book_hotel
+i need a hotel with good reviews in baltimore	book_hotel
+i really gotta book a place to stay in phoenix from the 5th to the 9th of march	book_hotel
+are there any good hotels in salem	book_hotel
+i need a hotel room for 4 people from may 3 to may 5 in boston	book_hotel
+is there a room big enough for 10 people from monday to tuesday in manhattan	book_hotel
+need a place to crash in elizabeth near the refinery from june 4th until the 9th	book_hotel
+find me a hotel in seattle with great reviews	book_hotel
+find me a hotel in kansas city with good reviews	book_hotel
+book me a hotel in new york near the empire state building from marc 2nd to 4th	book_hotel
+i need a hotel room that is big enough for eleven people from march 10th to the 15th in phoenix	book_hotel
+please find a columbus, ohio hotel with good reviews	book_hotel
+are there any openings in new york city from april 2 through april 8	book_hotel
+help me book a place to stay from may 2 to may 4 in tampa	book_hotel
+is it possible to have a room booked in omaha near the convention hall for may 01, 2019 to may 05, 2019	book_hotel
+book a hotel in pa, harrisburg for the 10th to 15th	book_hotel
+get me a hotel room for 3 people from march 12th to 14th in chicago	book_hotel
+i need to reserve a large room or suite for 2 couples for august 15th through august 18th in seattle	book_hotel
+get me a hotel in phoenix near chase field from january 4th to the 8th	book_hotel
+i want a hotel with good review in honolulu, can you find one	book_hotel
+i need a bed in brownsburg near walmart from apil 4th until the 5th	book_hotel
+i need to book a hotel in ny, queens arrive on 8th and leave on the 13th	book_hotel
+i need a place to stay in newark near a bodega from may 2nd through the 4th	book_hotel
+is there anything available in new york city from april 2 through april 8	book_hotel
+what hotel would you recommend in lakewood for 4 people from monday to wednesday	book_hotel
+i need a hotel in austin near south congress from 3/5 until 3/10	book_hotel
+i need a hotel room big enough for 4 people from monday to wednesday in lakewood	book_hotel
+i need you to find me a hotel with good reviews in phoenix	book_hotel
+show me a well reviewed hotel in evans	book_hotel
+create a reservation novemeber 11 to 15 in cali	book_hotel
+are there any vacancies in new york city from april 2 through april 8	book_hotel
+i wanna book a place to stay in phoenix from the 5th to the 9th of march	book_hotel
+i need a well-rated hotel in vegas	book_hotel
+book me a hotel in st louis near the arch from march 2nd to 5th	book_hotel
+find me a hotel with good reviews in phoenix	book_hotel
+i need a hotel room for 7 people in st louis for november 3rd through 5th	book_hotel
+can you book me a place to stay in pittsburgh from monday to friday	book_hotel
+help me find a well reviewed hotel in dallas	book_hotel
+i need to find a nice hotel with solid reviews in seattle	book_hotel
+book me a hotel in jacksonville near the stadium from january 1st to 3rd	book_hotel
+i'm going to need a hotel in tampa near ybor city for march 23rd through the 28th	book_hotel
+find a hotel in san francisco for march 8 & 9	book_hotel
+will you find me a place to stay in casper from march 5th to march 11th	book_hotel
+i need your help to find a good reviewed hotel in washington	book_hotel
+i want a hotel room for 6 from the 1st through the 3rd in seattle	book_hotel
+by chance would it be possible to reserve me a hotel in afghanistan at the zoo for the 10th to the 15th	book_hotel
+i need a hotel between january 1st through 3rd in jacksonville near the stadium	book_hotel
+i must get a hotel in phoenix near chase field from january 4th to the 8th	book_hotel
+show me a hotel in boise that has positive reviews	book_hotel
+please find me a hotel room for 4 people from monday to wednesday in lakewood	book_hotel
+i need a hotel in phoenix near chase field from january 4th to the 8th	book_hotel
+what is the best rated hotel in evans	book_hotel
+i would like to reserve a hotel room that accomodates 10 people from monday to tuesday in manhattan	book_hotel
+help me a great hotel in vegas for this weekend	book_hotel
+i want a hotel booked in salem near the concert hall from the first to the second	book_hotel
+find a columbus, ohio hotel with good reviews	book_hotel
+i'd like a placed booked in san diego from may 1st, 2020 to june 2nd, 2020	book_hotel
+can you book me a hotel in los angeles near commerce casino from april 1st to the 5th	book_hotel
+make me a reservation in tampa from may 2 to may 4	book_hotel
+i'd like you to book me a room in austin near google's headquarters from january 01, 2020 to february 02, 2020	book_hotel
+can you find me a hotel for 2 people on april 1st to 4th in rome	book_hotel
+i need to get a hotel room that is big enough for eleven people from march 10th to the 15th in phoenix	book_hotel
+find me a room near the jacksonville stadium between january 1st through january 3rd	book_hotel
+i need a hotel booked in denver near the museum from friday to saturday	book_hotel
+i need a hotel room that can host 5 people from tomorrow to saturday in denver	book_hotel
+id like a room in jacksonville near the stadium between january 1st to 3rd	book_hotel
+i would like to book a place to stay in phoenix from the 5th to the 9th of march	book_hotel
+find me a place to stay in cali november 11 to 15	book_hotel
+get me a hotel room big enough for 4 people from may 3 to may 5 in boston	book_hotel
+i will be in lakewood from monday to wednesday and i need a hotel room for 4 people	book_hotel
+see if you can get me a room in colorado springs near garden of the gods from march 01 to march 02	book_hotel
+what hotels are near, ny, ny for the 9th to 11th	book_hotel
+find a suitable lodging in vancouver on march 16-19	book_hotel
+help me find a hotel in columbus with good reviews	book_hotel
+what is left to do today	todo_list
+does my todo list have vacuuming on it	todo_list
+look to see if i have folding laundry on my to do list	todo_list
+when is babysitting on my to do list	todo_list
+check what is on my to-do list	todo_list
+repeat my to do list to me, please	todo_list
+the tasks for today, what are they	todo_list
+tell me what is on the list of things to do	todo_list
+let me hear my todo list	todo_list
+read my complete todo list to me	todo_list
+what do i need to do	todo_list
+read my to-do list items	todo_list
+what things are on my todo list	todo_list
+do i have anything on my todo list about shoveling snow	todo_list
+i need to know if sorting the mail is on my to do list	todo_list
+what's on my todo list	todo_list
+what does my to-do list look like	todo_list
+read me my list of things to do	todo_list
+do i already have a task on my todo list to research delaware	todo_list
+did i put unpacking groceries on my to do list	todo_list
+list my todo list items	todo_list
+did i jot down a time to see my accountant on my to do list	todo_list
+instruct me what to do	todo_list
+can you check if i've added an item to throw out the carcasses on my todo list	todo_list
+did i put grocery shopping on my todo list	todo_list
+read my todo list	todo_list
+please let me know if giving the dog a bath is on my list of tasks to complete	todo_list
+at what time is laundry on my to do list	todo_list
+i wonder what my to-do list looks like for today	todo_list
+i need to know what tasks are on my to-do list	todo_list
+what is my to-do list like today	todo_list
+"""""""is """"""""cleaning the bathroom"""""""" an item on my todo list"""""""	todo_list
+what's on my todo list for today	todo_list
+do i have a car wash scheduled on my to do list	todo_list
+is laundry on my todo list	todo_list
+i need to know everything on my to do list currently	todo_list
+are the items on my todo list listed alphabetically	todo_list
+will you please tell me my to do list	todo_list
+is my todo list possible today	todo_list
+is cleaning the outside windows on my todo list	todo_list
+did i put a car wash on my todo list	todo_list
+did i create a task to clean the gutters on my list	todo_list
+please tell me all items on my todo list	todo_list
+i need my todo list read	todo_list
+can you walk me through the various tasks on my to do list	todo_list
+go ahead and say all of the points on my list of to-do's please	todo_list
+do i have watering the plants on my to do list	todo_list
+read my to-do list to me	todo_list
+is cleaning the toilet on my to-do list	todo_list
+let's go through my to do list items please	todo_list
+what is on my to-do list	todo_list
+let's go over the list of items on the to do list just to be sure we got it all	todo_list
+do my task list have call kath on it	todo_list
+please read back to me my to do list	todo_list
+is fixing mom's kitchen blind on my to do list	todo_list
+have i told you to add washing dishes to my todo list	todo_list
+read to me my to do list	todo_list
+tell me the content of my to do list today	todo_list
+will an oil change be on my to-do list tomorrow	todo_list
+i need to know if cleaning out the fridge is on my to do list	todo_list
+is make a hair appointment on my todo list right now	todo_list
+is changing the water filter on my to do list right now	todo_list
+i want to know what i have to do	todo_list
+please read my todo list	todo_list
+what are the things that i have for today	todo_list
+what do i have on my need to do list	todo_list
+is vacuuming on my todo list	todo_list
+please tell me all the items on my to do list right now	todo_list
+will you please go back over everything on my to do list	todo_list
+can you please tell me what is on my to-do list	todo_list
+what do i have to do	todo_list
+i want to hear my to do list read out loud	todo_list
+please read out my list of tasks to accomplish	todo_list
+what have i got on my to-do list	todo_list
+do i have an item on my todo list related to shopping	todo_list
+do i have get an oil change on my todo list	todo_list
+recite my to do list	todo_list
+what chores do i have waiting on my reminder list	todo_list
+is vacuuming on my list of things to do	todo_list
+do i have brush my teeth on my todo list	todo_list
+how many chores are on my todo list	todo_list
+what does my to-do list consist of	todo_list
+"""""""did i add """"""""cleaning the foyer"""""""" to my todo list yet"""""""	todo_list
+can i hear the complete to do list just dictated	todo_list
+let me hear all of the items on my to do list, please	todo_list
+can you tell me the tasks on my to-do list	todo_list
+please remind me of the tasks on my to do list	todo_list
+what items do i need to do	todo_list
+did i put cutting the grass on my todo list	todo_list
+list my to-do list	todo_list
+can you tell me if there is anything on my todo list	todo_list
+read back to me my to do list	todo_list
+did i remember to add buy flowers to my chore list today	todo_list
+what do i have left to do on my to-do list	todo_list
+did i put vacuuming on my todo's	todo_list
+iterate the items on my todo list	todo_list
+what is on my to do list	todo_list
+what must i do today	todo_list
+check on my to-do list items	todo_list
+share my gps with tom	share_location
+share my location with google	share_location
+can you forward my location to tom	share_location
+share my location with ma	share_location
+can you share my location with roger	share_location
+share my location to susan	share_location
+tell carl my gps coordinates	share_location
+i need you to push my location to cory	share_location
+tell bill and craig where i am	share_location
+can you show ben and jerry where i am currently at	share_location
+will you let mary know my location	share_location
+let barbara know where i'm at	share_location
+send my gps location to manuel	share_location
+share my gps coordinates with jim	share_location
+show allison how to get to me	share_location
+share my location with this person	share_location
+let lisa know where i am now	share_location
+send my location to sis	share_location
+give boss my current location	share_location
+let coach know where i am	share_location
+tell my location to david	share_location
+please share my location with my boss and my lawyer	share_location
+inform eric of my current location	share_location
+what is my current location	share_location
+can you share my location with my girlfriends	share_location
+gps coordinates share with home	share_location
+can you tell bill and craig where i am	share_location
+give tom my location	share_location
+share my current location with kristen	share_location
+can you let michael and julie know my location	share_location
+can you share my location with mom	share_location
+send the location i'm at with martin	share_location
+please tell steve my location	share_location
+share my location with darren and stacey	share_location
+i need to give my location to macy and george	share_location
+send sarah my current location	share_location
+give my boyfriend my gps coordinates	share_location
+tell david my location	share_location
+my friend steve needs my gps coordinates send them to him	share_location
+please send my location to haley	share_location
+share my gps coordinates with my mother	share_location
+share my gps location with steve	share_location
+i need to send my current location to sean	share_location
+give jim my gps location	share_location
+let lucy know my gps coordinates	share_location
+i would like to share my location with my mom	share_location
+share my location wtih amanda now	share_location
+let the folks know my gps coordinates	share_location
+alert the wife of my exact location	share_location
+send my current location to steve, please	share_location
+please show my current location to andre	share_location
+share my location with sarah	share_location
+i need you to let mr miyagi and daniel know where i am	share_location
+share my gps coordinates with my brother	share_location
+share my location with my sister	share_location
+send my location to my mom	share_location
+i need you to send my location to paul and ryan	share_location
+i would like ms johannson and ms alba to be informed of my location	share_location
+can you send my exact location to laura	share_location
+will you make sure ann and scott know my location	share_location
+share my location with apple	share_location
+tell lydia and laura where i am located	share_location
+please send my location to rob and mary	share_location
+i'd like to share my location with stephanie	share_location
+share my gps coordinates with kelly	share_location
+share my location with steve	share_location
+advise sam of my current location please	share_location
+can you share my current location with amy	share_location
+allow my son to see my gps coordinates	share_location
+let the rents have my current location	share_location
+can you give my whereabouts to doug and buster	share_location
+send my location to ben and jerry	share_location
+share location with john	share_location
+share my location with ben and jerry	share_location
+can you let ben and jerry know my current location	share_location
+tell david where i am	share_location
+send mike my exact location	share_location
+my gps coordiantes will be shared with aunt sunny	share_location
+i need to send my location to my friend steve	share_location
+share my coordinates with melissa and doug	share_location
+i'd like to send steve my location	share_location
+can you tell bob and alice where i am	share_location
+give my current location to robyn now	share_location
+show cody where i am	share_location
+steve needs to know my location	share_location
+give my gps location to jason	share_location
+let my group know what my current location is	share_location
+how do i share my location with kate and mike	share_location
+how do i share my location with noel	share_location
+let ann and scott know where i am	share_location
+show my gps location to brittany	share_location
+make my location available with david and kate	share_location
+tell base camp my gps coordinates	share_location
+tell brady where my location is	share_location
+i need to share my location with trey	share_location
+i'd like for this person to know my location	share_location
+share my location with mom	share_location
+i want david to know where i'm at	share_location
+let shih chieh see my location	share_location
+please show me how to share my location with noel	share_location
+send david my location	share_location
+please tell wanda where i am now	share_location
+can i share my location with david	share_location
+how long will it take to make an omelet	cook_time
+how long does it take to make mashed potatoes	cook_time
+if i cook the pizza at 400 degrees how long must it be in for	cook_time
+how long should i cook a spiral ham	cook_time
+how long does it take to cook meal of tuscan	cook_time
+how long does it take to prepare a lasagna	cook_time
+how long will it take to cook a lasagna	cook_time
+how long to cook a frozen pizza	cook_time
+what's the average cooking time for cooking wings	cook_time
+how long should i cook country fried potatoes for	cook_time
+how long should a cake bake	cook_time
+how long does pizza take to cook	cook_time
+tell me how long i will need to spend preparing a meat loaf dish	cook_time
+how long does it take to cook roast beef	cook_time
+how long do i need to cook pot au feu for	cook_time
+tell me how long it will take to prepare a lasagna	cook_time
+how long does it take to cook steaks	cook_time
+how long do i cook the chicken roast	cook_time
+how long do i need to cook tuna casserole for	cook_time
+should i cook this for a long time	cook_time
+how long should i cook the ham for	cook_time
+how long does it take to make lasagna	cook_time
+i need to know how long to cook chicken for	cook_time
+how long do i need to cook chili for	cook_time
+what time should i cook noodles for	cook_time
+how long should i microwave hot pockets for	cook_time
+how many minutes should i put meal the cake in the oven	cook_time
+how long to cook steak for	cook_time
+how much time does it take to boil an egg	cook_time
+how long do i cook steak	cook_time
+what is the prep time for a 10 lb turkey	cook_time
+how many minutes do i cook baked ziti	cook_time
+how long will it take me to make baked chicken	cook_time
+look up recipe time for this	cook_time
+how long should i cook chicken	cook_time
+how long does it take to make shrimp scampi	cook_time
+what is the duration of time cookies should be in the oven	cook_time
+how long must i cook spaghetti for	cook_time
+how long do i need to cook lasagne for	cook_time
+how long should i cook roast for	cook_time
+how long to i bake the brownies	cook_time
+how long should i bake the brownies for	cook_time
+how long should i boil eggs	cook_time
+how long does it take to bake a pork loin	cook_time
+how long do you cook pasta for	cook_time
+how long does it take to cook a pork chop	cook_time
+how long should i expect beef stroganoff to prepare	cook_time
+how long does a roast take	cook_time
+what's the usual time for tuna casserole	cook_time
+how long do i need to cook chicken	cook_time
+how long should i cook a steak for	cook_time
+how many minutes to melt cheese	cook_time
+how long do noodles need to cook	cook_time
+what's the recommended cooking time for steak	cook_time
+about how long should you cook lasagna	cook_time
+how long will the chicken take to cook	cook_time
+i want to bake brownies, how long do they bake for	cook_time
+how long do i cook this dish of rice	cook_time
+about how long should you cook a 10 pound turkey	cook_time
+how long should i cook the eggs for	cook_time
+how long do i need to cook beef stew for	cook_time
+how long should i spend preparing roast beef	cook_time
+can you tell me how long it will take to cook a lasagna	cook_time
+so how long do you think the chicken will take	cook_time
+what is the necessary amount of time required to prepare pot roast	cook_time
+how long does it take pork to cook	cook_time
+how long do i put the casserole in	cook_time
+how long does it take to make roast chicken	cook_time
+when can i expect meal of salmon to be finished	cook_time
+how long do the brownies have to cook	cook_time
+how long does it take to make pho	cook_time
+what is the proper cooking time for this	cook_time
+how long should i fry an egg for	cook_time
+how much time do i need to prepare chicken	cook_time
+how long should i wait before i can bake bread with homemade dough	cook_time
+how long is the chicken gonna take	cook_time
+what's the prep and cooking time on pizza dough	cook_time
+how long will the turkey take to cook	cook_time
+i want to cook a lasagna please tell me how long it will take	cook_time
+how long to grill thick steaks	cook_time
+how long do you need to bake chicken for it to be safe to eat	cook_time
+how long to microwave a frozen dinner	cook_time
+how many minutes are involved in the preparation of curry	cook_time
+how long do i cook chicken breast	cook_time
+how long should i cook chicken thighs	cook_time
+how long should i bake a cake	cook_time
+how long do i cook this for	cook_time
+lasagna takes how long to cook	cook_time
+how long will it take to make the wings	cook_time
+tell me how long i ought to spend preparing fajitas	cook_time
+how long should i cook the cookie dough	cook_time
+how long should this be in the oven	cook_time
+how long do i cook pork	cook_time
+how long does pizza take	cook_time
+for how long should i bake the brownies	cook_time
+how long does it take to cook hot pockets	cook_time
+how long should i cook a ny steak	cook_time
+i need to know the preparation time required for fried chicken	cook_time
+the steak must go under the broiler for how long	cook_time
+how long should i cook pho for	cook_time
+how long to reheat chinese food	cook_time
+please tell me how to ask for a taxi in french	translate
+what's local slang for goodbye in hawaii	translate
+can you translate milk into spanish for me	translate
+i wanna know a phrase in spanish	translate
+translate hello english to french	translate
+could you translate this into chinese for me, please	translate
+how do they say hello in brazil	translate
+how would i say if i were english subway	translate
+how does one say wonderful in german	translate
+how do you say hello in french	translate
+if i were mongolian, how would i say that i am a tourist	translate
+can you translate hi into spanish for me	translate
+how would i say pleased to meet you if i were japanese	translate
+how might i say hello if i were scottish	translate
+in spanish, meet me tomorrow is said how	translate
+how do i say dinner in spanish	translate
+how would i say thank you if i were mexican	translate
+can you translate bat into russian for me	translate
+"""""""how do they say """"""""where's the bathroom"""""""" in spanish"""""""	translate
+how do they say goodbye in hawaii	translate
+how do you say it's snowing in german	translate
+i would like to know the proper way to greet an adult in portuguese	translate
+how do you say good bye in french	translate
+i need to know how to say hello in france	translate
+i need you to translate the sentence, 'we will be there soon' into portuguese	translate
+how would i say where is the bathroom if i were korean	translate
+how would they say say goodbye in hawaii	translate
+if i were english how would i say subway	translate
+would you translate a sentence into russian for me, please	translate
+how do i say good bye in chinese	translate
+what is the way to say thank you in spanish	translate
+how do i say 'hotel' in finnish	translate
+"""""""how do they say """"""""who is your father"""""""" in german"""""""	translate
+i must know how to say thank you in german	translate
+how can i thank somebody in italian	translate
+how should i say hello in french	translate
+how do they say hello in france	translate
+how could i say twin in chinese	translate
+how does one say thank you in spanish	translate
+what expression would i use to say i love you if i were an italian	translate
+how do you say please in arabic	translate
+how would they say butter in zambia	translate
+how do i say i'm sorry in chinese	translate
+"""""""how can i say """"""""cancel my order"""""""" in french"""""""	translate
+what words would i use to tell someone i am lost if i were japanese	translate
+how would i say nice to meet you if i were russian	translate
+what is the correct way to say 'i am a visitor' in french	translate
+how can i say not now in spanish	translate
+how would i say i love you if i were french	translate
+how do i say thank you in spanish	translate
+how do i ask about the weather in chinese	translate
+how do you say please in french	translate
+what phrase means goodbye in hawaii	translate
+how would one say cruiser in china	translate
+what's the spanish word for dog	translate
+what is latin for i love you	translate
+translate hello in french	translate
+how is hello said in french	translate
+how would you say fly in italian	translate
+can you translate where's the bar into irish for me	translate
+i wanna learn a phrase in russian	translate
+what do spanish people say for the word cow	translate
+how would i say i need directions if i were french	translate
+how do they say no in germany	translate
+how can i say thank you in spanish	translate
+what do you call a subway if you were english	translate
+how do you say dog in spanish	translate
+how do i say hello in french	translate
+translate hello into french for me	translate
+what is the equivalent of, 'life is good' in french	translate
+how do you say hello in mexico	translate
+how do they say tacos in mexico	translate
+how do i say bathroom in italian	translate
+i want to know how to say goodbye in france	translate
+do you know how to say where is the restroom in french	translate
+how do they say yes in brazil	translate
+how do you say hi in french	translate
+how would i say, 'i don't know the answer' in spanish	translate
+what is the word for hello spanish	translate
+"""""""how do they say """"""""what's up"""""""" in chinese"""""""	translate
+what is dog in spanish	translate
+tell me how the russians say notebook	translate
+translate hello to french	translate
+"""""""how do they say """"""""how's it going"""""""" in swahili"""""""	translate
+how do you say hello in japanese	translate
+what would the word for grass be in finland	translate
+can you translate this name into spanish for me, please	translate
+in england how do they say subway	translate
+how do i say thank you in japanese	translate
+how can i say i love you in italy	translate
+dog in spanish	translate
+tell me how to say hello in spanish	translate
+what's the french word you use for potato	translate
+how do you say goodbye in spanish	translate
+what's the spanish word for pasta	translate
+how would i say i am lost if i were japanese	translate
+in french, how do i say, see you later	translate
+how do they say hello in germany	translate
+how do you say fast in spanish	translate
+translate for me hello into french	translate
+can you translate good bye into russian for me	translate
+how would i say hello if i were swedish	translate
+how do vietnameses people say hello	translate
+how would i say how are you today if i were mexican	translate
+can you translate hello into swedish for me	translate
+how does my card's apr compare to others	apr
+what's an example of a good apr and what do i have	apr
+check the apr on my disney visa, please	apr
+what's my apr rate	apr
+is the apr on my card that ends 1234 what it should be based on my credit score	apr
+now tell me my credit card's apr	apr
+what is the apr on my barclay's card	apr
+what will the apr on my transferred balance be after the first year on my bank of america credit card	apr
+tell me what my credit card's apr is	apr
+tell me how good the apr is on my card please	apr
+what is the apr on my first bank card account	apr
+how much is my apr on my bank of america card	apr
+does my credit card apr fall into a good range	apr
+tell me my credit card apr	apr
+is my card's apr good	apr
+is my apr for my credit card available	apr
+how much am i paying for apr on my credit card	apr
+what is the apr on my master card	apr
+please say the apr for my credit card	apr
+how good is card apr	apr
+what's my apr on the credit card i used for a purchase a week ago	apr
+what is the credit card apr at the moment	apr
+what is my apr	apr
+what apr does this credit card have	apr
+fill me in on the apr for my american express card	apr
+tell me my apr rate	apr
+what's my apr on my primary credit card	apr
+could you please tell me the apr for the credit card	apr
+my credit card's apr, please	apr
+i need to know the apr on my wells fargo credit card	apr
+what apr do i have with my credit card	apr
+what is the apr on my citibank card	apr
+how good is my card's apr	apr
+what is the credit card's apr	apr
+what's the apr on my visa card, please	apr
+what is the apr for my credit card	apr
+what is my credit card's annual percentage rate	apr
+tell me my chase credit card's apr	apr
+tell me what my wells fargo credit card apr is	apr
+would you please inform me about my credit card's apr	apr
+is my apr rate good	apr
+what's my apr on this card	apr
+please say my credit card's apr	apr
+on my bank of america visa, what is the apr	apr
+is my visa card's apr decent	apr
+what's the apr like for my credit card	apr
+is my apr high	apr
+what is the apr on my visa card	apr
+what is my b of a credit card's apr	apr
+can you let me know my credit card's apr	apr
+do i have a good apr on my credit card	apr
+what is the apr for the credit card	apr
+can you tell me the apr of my target credit card	apr
+do you know my credit card's apr	apr
+what is the apr on my american express	apr
+hey siri, tell me the apr on my disney visa	apr
+tell me my credit card's annual percentage rate	apr
+the apr on my disney visa, what is that exactly	apr
+is my card's apr a decent rate	apr
+what's my apr on the card i recently used to make a purchase	apr
+what's the current apr on my credit card	apr
+what's my apr on my discovery card	apr
+give me my credit card's apr	apr
+what is the credit card apr exactly	apr
+what is the credit card apr please	apr
+how much do i pay in apr on my amex card	apr
+what is the apr rate on my bank of america card	apr
+it would be great if you could tell me my credit card's apr	apr
+what is the apr on my amex card, please	apr
+get me the apr on my visa card	apr
+can you inform me what my apr is on my visa	apr
+let me know my card's apr	apr
+i need to know the apr for my visa card	apr
+how high is the apr on my mastercard	apr
+tell me the apr on my mastercard	apr
+what's the annual percentage rate for my credit card	apr
+my visa card  what's the apr on that	apr
+i need to know what the current apr is for my chase sapphire, please	apr
+how good is the apr on my credit card	apr
+give me the apr for my mastercard	apr
+what kind of credit card apr do i get	apr
+i need to know on my citibank card, what is the apr	apr
+has the apr on my card changed and what is it now	apr
+does my apr rate suck	apr
+what is my card's apr rate	apr
+how much is the apr these days on my nordstrom credit card	apr
+tell me the apr of my credit card	apr
+i'd like to know the apr on my visa card	apr
+is my apr rate better than most	apr
+how much is my amex's apr	apr
+what is the apr on my american express card	apr
+credit card annual rate	apr
+tell me how the apr on my hy-vee card is	apr
+on my wells fargo mastercard, what is the current apr	apr
+what is the apr to my credit card	apr
+i want to know the apr on my capital one card	apr
+would you say that my card's apr is	apr
+is my apr rate above average	apr
+can you look into whether my card has good apr or not	apr
+what's the apr on my credit card	apr
+could you tell me what is the apr for the credit card	apr
+would you consider my apr to be good	apr
+can you tell me how good my card's apr is	apr
+what's the apr on my amex card, please	apr
+what does my credit card charge for their annual percentage rate	apr
+i must know my visa card's apr	apr
+can you find me the apr listed on the statement for my citi mastercard	apr
+lets pause this song and move onto the next	next_song
+could you play the next song on this playlist, please	next_song
+move on to the next song	next_song
+i need for you to skip this song	next_song
+can we play the next track	next_song
+pass this song	next_song
+skip ahead one song	next_song
+find the next song on this playlist	next_song
+you must skip this song and play the next one	next_song
+can you fast forward to the next song	next_song
+i want you to skip this song	next_song
+skip this song and play the next	next_song
+skip over this song	next_song
+i dont want to listen to this song	next_song
+move to the next song	next_song
+play one song forward	next_song
+skip this song and play the next one	next_song
+next song	next_song
+could you skip to the next song on this playlist, please	next_song
+take me to the next song on this playlist	next_song
+please change the song now	next_song
+start playing the next track	next_song
+change this song it sucks so bad	next_song
+jump to the next song on this playlist	next_song
+might we go to the next song	next_song
+maybe we can go to the next song	next_song
+go forward to the next song on the playlist	next_song
+play the next musical number	next_song
+next song on the list, please	next_song
+would you skip past this song and just play what comes next	next_song
+go passed the song now	next_song
+skip this track	next_song
+lets pass on this song and do the next	next_song
+can you skip this song and go to the next one	next_song
+i want you to play the next song on this playlist	next_song
+may i suggest we go to the next song	next_song
+go ahead and skip this song and play the next one	next_song
+what's next on the list	next_song
+hop to the next one	next_song
+skip to the next song please	next_song
+i want you to skip past this song to the next track	next_song
+using this playlist, play next song	next_song
+could you skip to the next song on this playlist	next_song
+skip this song	next_song
+please play the next track	next_song
+play the song coming on next	next_song
+forget this song and go to the next	next_song
+change the song to the next one	next_song
+can we move onto the next song	next_song
+give me the next song	next_song
+skip to the next track	next_song
+go to my next song	next_song
+can you skip this song	next_song
+beginning playing the next tune	next_song
+next track	next_song
+could you play the next song on this playlist	next_song
+i dont want to hear this song, just play the next one	next_song
+needing you to play the next song	next_song
+let's play the next song now	next_song
+stop this song and go to the next one	next_song
+go forward one song	next_song
+can you go to the next song	next_song
+play the next song on this list	next_song
+i want you to play the next song	next_song
+play next song using this playlist	next_song
+skip and next	next_song
+go to the next song now	next_song
+go forward to the next track	next_song
+what is the next song on this playlist	next_song
+i am needing the next song to be played	next_song
+would you skip this song	next_song
+go to upcoming song	next_song
+play the next track	next_song
+play the next hit	next_song
+could you hit next	next_song
+please skip this song and go to the next one instead	next_song
+remember to play the next number on this particular playlist	next_song
+let's go to the next song please	next_song
+go to next song, please	next_song
+go to the next song and play it	next_song
+skip to the next song	next_song
+play next song	next_song
+please skip this song and play the next one	next_song
+change the song to the next one on this playlist	next_song
+move forward one song	next_song
+play next on the playlist	next_song
+i would like to hear the next tune on this particular playlist	next_song
+advance to the next song	next_song
+i would like to hear the next song on this playlist	next_song
+go ahead and play the next song on this playlist	next_song
+i want to listen to the next song on this playlist instead	next_song
+lets just play the next song please	next_song
+start the next song	next_song
+the next song should be played	next_song
+play the next song	next_song
+you need to skip this song and play the next one	next_song
+can we skip this song	next_song
+would you play the next song	next_song
+go to the next song and skip	next_song
+can i hear the song after this one	next_song
+please go to the song after this one	next_song
+go to next song	next_song
+i don't like this song, can skip it	next_song
+i don't want to hear this song; skip it	next_song
+stop the current song and play the next one on this playlist	next_song
+i want to hear the next song	next_song
+now, i want you to play the next song	next_song
+please play the next song on this playlist	next_song
+switch to the next song on this playlist please	next_song
+i am glad that you did that	thank_you
+thanks for giving me assistance	thank_you
+thanks for your help	thank_you
+appreciated	thank_you
+i am thankful for your help!	thank_you
+thanks a lot for the answer	thank_you
+that'll work, good job!	thank_you
+i appreciate you doing that	thank_you
+i appreciate you helping me	thank_you
+thanks so much ai	thank_you
+good looking out	thank_you
+thanks for that	thank_you
+merci beaucoup	thank_you
+thanks for helping	thank_you
+you are so thoughtful and i appreciate your gesture	thank_you
+i owe you one!	thank_you
+your help is appreciated	thank_you
+thank you ai for everything you do	thank_you
+i'm grateful for the answer you just gave me	thank_you
+thank you very much	thank_you
+oh, thanks	thank_you
+thanks for that!	thank_you
+thanks for the answer	thank_you
+thanks for helping me	thank_you
+appreciate the help	thank_you
+i appreciate what you did	thank_you
+thanks for the info	thank_you
+thanks for answering my question	thank_you
+thank you a lot for that answer	thank_you
+much obliged	thank_you
+thanks for trying	thank_you
+i want to thank you for helping	thank_you
+thank you ever so much for that!	thank_you
+thanks for your cooperation	thank_you
+thank a bunch	thank_you
+thank you for your assistance	thank_you
+thanks for the assist	thank_you
+thank you for that reply	thank_you
+i appreciate the help	thank_you
+i appreciate that answer!	thank_you
+thanks for the help!	thank_you
+thank you very much for the assistance	thank_you
+i appreciate that answer	thank_you
+i appreciate your help!	thank_you
+i appeciate it	thank_you
+your answer pleased me	thank_you
+thank you!	thank_you
+thank you for the answer	thank_you
+thank you so very much	thank_you
+thanks again!	thank_you
+thanks for helping me out today	thank_you
+thank you very much for the answer	thank_you
+thank you for your time	thank_you
+thanks for that response	thank_you
+thanks, you've helped me	thank_you
+thank you for the information	thank_you
+thanks for your response	thank_you
+i have much gratitude for your help	thank_you
+many thank	thank_you
+thanks that was really helpful	thank_you
+your answer is appreciated	thank_you
+thanks, that's helpful	thank_you
+that you so much for the help	thank_you
+you have my sincere gratitude	thank_you
+i'm thankful	thank_you
+i appreciate your help, thank you	thank_you
+i really appreciate your help, thank you	thank_you
+i need to thank you	thank_you
+thanks a lot	thank_you
+thanks, i appreciate it	thank_you
+thanks for that answer	thank_you
+thank ya!	thank_you
+you did a good job thank you	thank_you
+i am thankful for the answer	thank_you
+i really thank you	thank_you
+thank you for that response	thank_you
+thanks for helping me!	thank_you
+thank you so much	thank_you
+i appreciate the assistance	thank_you
+i owe you one	thank_you
+thanks for helping out	thank_you
+i appreciate it	thank_you
+appreciate it	thank_you
+you have been a big help, thank you so much	thank_you
+okay thanks	thank_you
+i appreciate your help	thank_you
+thank you for the help	thank_you
+good answer, thanks for providing it	thank_you
+ai you have given me so much information, thank you	thank_you
+thank you kindly	thank_you
+many thanks	thank_you
+you're the best!	thank_you
+great, thanks!	thank_you
+that answer was very helpful, thanks	thank_you
+thanks again	thank_you
+thank you for your time and trying to help	thank_you
+thank you for your help	thank_you
+i am grateful for the help	thank_you
+you've been a great help	thank_you
+i'm happy with your answer	thank_you
+you are so nice to think of me	thank_you
+i appreciate that	thank_you
+let me thank you	thank_you
+ai is a helpful item to have in my home, thank you	thank_you
+awesome, thanks	thank_you
+i would like to thank you	thank_you
+that's all i need, thanks!	thank_you
+i wish you were here earlier	thank_you
+why thank you	thank_you
+oh sweet thanks	thank_you
+it's so much easier with you around	thank_you
+i am happy you did that for me	thank_you
+thanks for your help!	thank_you
+i'm grateful	thank_you
+gracias	thank_you
+good job with assisting me	thank_you
+how much do i owe on my cable bill	bill_balance
+please find the current balance on my con edison bill	bill_balance
+can you find out how much i owe on my bills	bill_balance
+how much do i owe on bills	bill_balance
+how much do i owe in bills	bill_balance
+how much is my bill for capital one	bill_balance
+tell me what is owed for my water and gas bills	bill_balance
+please give me the full balance on my water bill	bill_balance
+what's the total i owe on all my bills	bill_balance
+how much on bills to i have to pay	bill_balance
+what will i be paying for utilities this month	bill_balance
+how much is my electric bill for this month	bill_balance
+how much do i have to pay for my shell gas card bill	bill_balance
+how much in total do i need to pay cox and at&t	bill_balance
+what is the amount due on my visa	bill_balance
+what's the amount due on my latest sprint bill	bill_balance
+how much is my internet bill	bill_balance
+how much is my electric bill for	bill_balance
+what is the amount i owe to clay electric	bill_balance
+how much are utilities	bill_balance
+how much do i have left to pay on my server and domain	bill_balance
+how much is due on the gas bill	bill_balance
+how much is my comcast bill	bill_balance
+my dte and water bills are how much	bill_balance
+what is the my comcast bill this month	bill_balance
+i need to know the price of my car payment and insurance please	bill_balance
+what is my domain name bill	bill_balance
+do i owe any bills	bill_balance
+how much is my gas bill	bill_balance
+how much in total will i be paying for bills	bill_balance
+i need to know the amounts due for my utilities and cable bills	bill_balance
+what's the cost of my dte bill plus my electricity bill	bill_balance
+how much is my water bill for	bill_balance
+please let me know how much my gas bill is	bill_balance
+what does my cable bill look like	bill_balance
+how expensive is my internet	bill_balance
+can you tell me how much i owe on my cable bill	bill_balance
+what are my bills this month	bill_balance
+what is my dte bill this month	bill_balance
+what's the sum of all i owe on bills this month	bill_balance
+tell me how much my cable bill is	bill_balance
+is the phone bill the same as last month	bill_balance
+what are my total bills this month	bill_balance
+how much is my current water bill for	bill_balance
+how much are my cable and water bills	bill_balance
+what's the water bill	bill_balance
+please let me know how much my bills for comcast and sprint total	bill_balance
+what's my mortgage payment going to be this month	bill_balance
+what do i owe bill wise	bill_balance
+how much are my rent and cable	bill_balance
+what is the total amount that i owe to sony and verizon	bill_balance
+what do i owe on telephone and cable bill	bill_balance
+how much will my monthly bill be	bill_balance
+i think i owe about 100 left on my bills, am i forgetting anything	bill_balance
+how much is my current cable bill for	bill_balance
+what's the balance on my bills	bill_balance
+what am i being charged for my water bill	bill_balance
+could you tell me the amount owed on gas and electric	bill_balance
+how much is the car bill this month	bill_balance
+tell me how much my verizon and comcast bill come to together	bill_balance
+my water bill is how much this month	bill_balance
+remind me of the invoice total for my plumbing bill	bill_balance
+do i still owe any bills	bill_balance
+how much is my groceries and gas bill	bill_balance
+what is the electricity bill	bill_balance
+what is the amount i owe on my phone	bill_balance
+what do i owe to jcp	bill_balance
+i need the dollar amount due on my verizon bill, please	bill_balance
+what do i owe for my utilities bill	bill_balance
+how much do i owe on all of my bills	bill_balance
+how much is my cable bill	bill_balance
+what is the amount on my water bill	bill_balance
+can you check the balance on the water bill	bill_balance
+what's the balance on my sprint account	bill_balance
+what do i owe on the car this month	bill_balance
+tell me what amount i have to pay for my directv bill please	bill_balance
+whens my insurance due and how much does it cost	bill_balance
+how much are all my bills combined	bill_balance
+how much money do i need to spend on bill payments	bill_balance
+how much are my xfinity and dte bills	bill_balance
+what's the amount due on my vet and vehicle registration bills	bill_balance
+do you know how much i owe on my cable bill	bill_balance
+the bill for water and electricity is how much	bill_balance
+how much do i have to pay on my amazon card this month	bill_balance
+can you tell me what the amount on my directv bill is	bill_balance
+my water and electricity bill is how much	bill_balance
+how much do i need to pay on my bills	bill_balance
+how much do i have to pay on my bills	bill_balance
+how much do i owe visa	bill_balance
+how much do i have to pay this month	bill_balance
+tell me my water bill please	bill_balance
+what is the amount of balance i have to pay on my bill	bill_balance
+how much is my electricity bill costing me	bill_balance
+how much is my cable bill for	bill_balance
+how much is my xfinity bill this month	bill_balance
+tell me the sum total of my water and electricity bills	bill_balance
+what price is my credit card and my water bill at	bill_balance
+how much is due for my water bill	bill_balance
+how much do i have on credit card bill	bill_balance
+add all my bills for this month and tell me the total	bill_balance
+can you tell me how much i need to pay on my bills this month	bill_balance
+i need to know my bill total for my verizon payment due this month	bill_balance
+what do i owe this month on all my bills	bill_balance
+find out what my water bill costs please	bill_balance
+what is the total amount i am going to have to pay in bills this month	bill_balance
+what is the cost of my rent and water bills	bill_balance
+can you check and see how much i owe on my cable bill	bill_balance
+how much is the bill for my water and electricity	bill_balance
+how much is my kill bill bill for	bill_balance
+what would you say my gas and phone bills are at	bill_balance
+how much is my rent	bill_balance
+i think all my bills are paid, but can you double check	bill_balance
+how much do i have to pay for my cable bill	bill_balance
+what is my email subscriction services bill	bill_balance
+what is the amount on my comcast bill	bill_balance
+do i have any due bills and how much	bill_balance
+tell me my routing number	routing
+what routing number does chase in michigan use	routing
+i must learn my routing number	routing
+how can i find my routing number from bank of america	routing
+i need my routing number	routing
+i wanna know my bank of america routing number	routing
+what routing number does chase use	routing
+can you help me find the routing number	routing
+i need my routing number for my checking account at bb&t bank	routing
+give me the routing number of my checking account at my main bank, first commerce	routing
+where do i locate my routing number for my premium checking account	routing
+i need to know nfcu's routing number	routing
+what is the routing number for my wells fargo account	routing
+let me know chase's routing number	routing
+where do i go to find my routing number for southpoint	routing
+show me my routing number for account finishing in 29309	routing
+what's my routing number from chase	routing
+will you tell me my routing number	routing
+for my westport account, what is the routing number	routing
+what is my routing number for marine bank	routing
+please tell me what my bank routing number is	routing
+what's the routing number for my money market account	routing
+i need to know my bank of america routing number	routing
+i need to know what my wife's account's routing number is	routing
+tell me my bank of america routing number	routing
+where do i go if i am seeking the routing number of dallas capital	routing
+what is the routing number of my checking account at first national bankj	routing
+tell me the routing number for my wf account	routing
+tell me chase's routing number	routing
+how can i find my routing number for el dorado	routing
+what is my pnc account routing number	routing
+where do i find the routing number for sunflower bank	routing
+show me the routing number for chase	routing
+what's the routing number for my bank of the west account	routing
+do you know where i can find my suntrust routing number	routing
+tell me my first national account's routing number	routing
+what's the routing number for my chase account	routing
+ai, what is my chase routing number	routing
+what would the routing number for chase be	routing
+where can i look up x's routing number	routing
+what's the routing number for my checking account	routing
+search for my routing number for my checking account with wells fargo	routing
+what's my bank routing number	routing
+can you tell me the routing number of wells fargo	routing
+please find my routing number for my citizens' bank account	routing
+please tell me my bank of america routing number	routing
+would you tell me my routing number	routing
+please give my routing number for my national account	routing
+where do i find the routing number for usaa	routing
+i need to know chase banks routing #	routing
+what is my routing number for home federal account	routing
+inform me of the routing number for my amerifirst account	routing
+ai, what is my chase checking routing number	routing
+where's the routing number for wells fargo	routing
+what's the routing number for my navy federal account	routing
+where do i find the routing number for chase	routing
+i need to know bank of america's routing	routing
+ai, routing number for my wells fargo checking	routing
+can you tell me the routing number for my chase checking	routing
+where can i locate the routing number for the bank i bank with	routing
+what's the routing number for my savings account	routing
+does pnc have a routing number	routing
+i need the routing number for my woodlawn account	routing
+tell me my routing number at my bank, community trust	routing
+please find the routing number for chase bank accounts opened in new york	routing
+where should i go to find the routing number for well's fargo	routing
+is there a routing number for wells fargo	routing
+ai, what is the routing number for my citibank savings account	routing
+what is chase bank's routing number	routing
+what would wells fargo use as routing	routing
+what is the bank's routing number	routing
+tell me what my savings account routing number is	routing
+i need to know the routing number for my checking	routing
+what is the correct routing number for my citizens bank account, pennsylvania	routing
+where can i locate the ally routing number	routing
+help me find the chase routing number	routing
+what is the routing number on my first merit account	routing
+what is my routing number	routing
+how do i get the routing number for chase	routing
+what routing number do i use to send an international wire with citibank	routing
+where is wells fargo's routing number listed	routing
+where can i find wells fargo's routing number	routing
+how do i find axos bank's routing number	routing
+where do i find the routing number for bank of the west	routing
+routing number for american river	routing
+can i get the routing number for sunflower bank	routing
+i need to know my routing number	routing
+where do i find the routing number for wells fargo	routing
+what's the routing number for my usaa account	routing
+i want to know what my routing number is	routing
+tell me the routing number for bluebird	routing
+what is the routing number of cadence	routing
+what's the routing number for my current checking	routing
+let me know my bank of america routing number	routing
+could you tell me the routing number for my chase checking account	routing
+what's the routing number for my current savings	routing
+where do i find the routing number for great western bank	routing
+where do i find the routing number for bank of america	routing
+is there a routing number for wachovia	routing
+tell me my bank routing number	routing
+give me the routing number for my paragon account	routing
+please tell me the routing number for my wells fargo account	routing
+what's bank of america's routing number	routing
+where do i find my routing number for my pnc account	routing
+where do i locate the routing number for the credit union	routing
+what is my routing number to my checking account at bb&t bankj	routing
+i need to find the correct td bank routing number for my pennsylvania account	routing
+what is my routing number on my checking account	routing
+what is the location that td bank has their routing number listed	routing
+can i get the routing number for my boa account	routing
+ai, routing number for my b of a checking account	routing
+what is my bank routing number	routing
+i need to know the routing number for my wells fargo account	routing
+what exactly is the tire pressure for the car	tire_pressure
+give me the pressure for the tires on my car	tire_pressure
+how is my tire pressure	tire_pressure
+what is the air pressure in my tires	tire_pressure
+can you check and tell me if my tires have enough air	tire_pressure
+check how much air is in my tires	tire_pressure
+the cars riding funny, does the tire pressure feel low to you	tire_pressure
+how high is the air in my tires	tire_pressure
+i am needing to know how low the air in my tires are	tire_pressure
+what is the pressure like on my tires	tire_pressure
+do my tires have enough air	tire_pressure
+hows the air in my tires	tire_pressure
+what is the tire pressure of the car	tire_pressure
+what is the pressure of my tires	tire_pressure
+what is the tire pressure in my car	tire_pressure
+would it be smart to put air in my tires	tire_pressure
+how many psi's are my tires at the moment	tire_pressure
+are my tires fully inflated	tire_pressure
+what is the car's tire pressure	tire_pressure
+do i need more air in my tires	tire_pressure
+i would like to know my car's tire pressure please	tire_pressure
+how much psi is in my car tires	tire_pressure
+do my tires have enough pressure	tire_pressure
+are my tires under-inflated	tire_pressure
+how much air pressure is in my tires	tire_pressure
+tell me my car's tire pressure level	tire_pressure
+is my tire pressure okay	tire_pressure
+can you tell me how much air are in my car tires	tire_pressure
+what is the air pressure of my tires	tire_pressure
+please tell me my car's tire pressure	tire_pressure
+do my tires seem too low on air	tire_pressure
+my tires need how much more air in them	tire_pressure
+should i air up the tires	tire_pressure
+is my tire pressure high	tire_pressure
+i want to know how low the air in my tires are	tire_pressure
+what's the tire pressure of my tires	tire_pressure
+i gotta know how low are my tires on air	tire_pressure
+are my tires full or low	tire_pressure
+should i put air in my tires	tire_pressure
+are my tires ok on pressure	tire_pressure
+i want an evaluation of my car's tire pressure	tire_pressure
+how is the car's tire pressure	tire_pressure
+my tires are how low on air	tire_pressure
+what does my tire pressure look like	tire_pressure
+i wanna know my car's tire pressure	tire_pressure
+what is my current tire pressure for each tire	tire_pressure
+check my tires' air levels please	tire_pressure
+check my car's tire pressure	tire_pressure
+can you give me a reading of my car's tire pressure please	tire_pressure
+do my tires need air	tire_pressure
+is the air pressure on my tires low	tire_pressure
+what's the current psi for my tires	tire_pressure
+tell me what my tire pressure is	tire_pressure
+what's my tires current air pressure	tire_pressure
+air amount in tires	tire_pressure
+can you check my tire pressure	tire_pressure
+what is the level of air pressure of my tires	tire_pressure
+are my tire's air pressure good enough to drive on	tire_pressure
+do the tires look a little low on pressure	tire_pressure
+how much pressure is in my car's tire	tire_pressure
+can you check the tire pressure	tire_pressure
+whats the pressure like in my tires	tire_pressure
+have my tires got adequate amounts of air in them	tire_pressure
+do the tires need air	tire_pressure
+are my tires good on air	tire_pressure
+i shall know how low are my tires on air	tire_pressure
+let me know how low the air in my tires are	tire_pressure
+what's the air level in my tires	tire_pressure
+do my car tires have enough psi in them	tire_pressure
+can you check the air in my tires	tire_pressure
+is the pressure in my tires optimal	tire_pressure
+is my tire pressure good	tire_pressure
+how is the air level in my tires	tire_pressure
+can you tell me the tire pressure in my car	tire_pressure
+is my tire pressure in the correct range	tire_pressure
+go ahead and give me the tire pressure of my vehicle	tire_pressure
+should i pump my tires	tire_pressure
+tell me how low the air in my tires are	tire_pressure
+please check my tires and let me know if i have sufficient air in them	tire_pressure
+how are my tires	tire_pressure
+tell me my tires' air pressure	tire_pressure
+how is the tire pressure	tire_pressure
+is there enough air in my tires	tire_pressure
+what is the air pressure of my car tires	tire_pressure
+i would like to know my car's tire pressure	tire_pressure
+are my tires low	tire_pressure
+are my tires filled enough	tire_pressure
+do my tires have enough air in them	tire_pressure
+do i need to inflate my tires	tire_pressure
+are my tires filled properly	tire_pressure
+what's the tire pressure of my car	tire_pressure
+how full are my tires	tire_pressure
+can you tell me the tire pressure for the car	tire_pressure
+my tires are filled enough or no	tire_pressure
+what's the inflation of my tires	tire_pressure
+how's my tire pressure	tire_pressure
+is the air pressure in my tires low	tire_pressure
+are my tires requiring a fill-up	tire_pressure
+i must kniw how low are my tires on air	tire_pressure
+please check and report on my tire pressure	tire_pressure
+how much air remains in my tires	tire_pressure
+what's the amount of air in my tires right now	tire_pressure
+measure tire pressure	tire_pressure
+would you let me know how low the air in my tires are	tire_pressure
+how much pressure is in my tires	tire_pressure
+please check the pressure in my tires	tire_pressure
+how do i find out my tire pressure	tire_pressure
+how low are my tires right now on air	tire_pressure
+i wanna know how low are my tires on air	tire_pressure
+what is the current tire pressure level in the car	tire_pressure
+tell me ths pressure of my tires	tire_pressure
+can you tell me what's the car's tire pressure	tire_pressure
+say my name if you know it	user_name
+do you know who i am	user_name
+in what format did you save my name	user_name
+i need to know what names you have for me	user_name
+tell me my name	user_name
+what is my name saved under	user_name
+what name do you call me by	user_name
+what's my name in your system	user_name
+what name do you know me by	user_name
+what is my first name saved as	user_name
+tell me my name the way its saved	user_name
+what would you like to call me	user_name
+by what name do you refer to me	user_name
+what did i tell you to call me	user_name
+tell me what my name is	user_name
+do you know how to refer to me	user_name
+what is my name	user_name
+what is the name you call me	user_name
+what do you say for my name	user_name
+do you have any idea what my name is	user_name
+in what form is my name saved	user_name
+you call me what	user_name
+what's my name	user_name
+i need to know the name that you have for me	user_name
+do you remember my name	user_name
+tell me your guess of what my name is	user_name
+can you guess my name	user_name
+do you know my name	user_name
+what is the name you have listed for my identity	user_name
+i wanna know what do you call me	user_name
+who do you think i am	user_name
+do you know what my name is	user_name
+what name do you have for me	user_name
+how do you say my name	user_name
+the name you have for me is what	user_name
+what name is saved for me	user_name
+what is the name you would use for me	user_name
+how do you address my name	user_name
+can you tell me my name for me	user_name
+do you know what you call me	user_name
+what's the name that you have for me, please	user_name
+you refer to me as what	user_name
+how do you refer to me	user_name
+what name do you refer to me as	user_name
+what's the way you refer to me	user_name
+what can you call me	user_name
+can you tell me what you refer to me as	user_name
+what is the name that you have for me	user_name
+what's my name on file	user_name
+what do you call me	user_name
+could you let me know what names you have for me	user_name
+could you tell me my name	user_name
+let me know what names you have for me	user_name
+what is the name you associate with me	user_name
+i want you to guess my name	user_name
+my name	user_name
+how do you address me	user_name
+please tell me the name that you have for me	user_name
+what name do you call me	user_name
+what name am i under	user_name
+you have what name for me	user_name
+how is my name saved	user_name
+is joey my name	user_name
+do you think my name is jeff	user_name
+if you were smart, would you know my name	user_name
+do you call me a certain name	user_name
+can you tell me what my name is	user_name
+i want to hear my name	user_name
+what do you think i am called	user_name
+say my name in a sentence	user_name
+what's the name you use for me	user_name
+whats my name saved under	user_name
+what's my name huh	user_name
+what do you refer to me as	user_name
+what might my name be	user_name
+how do you show my name	user_name
+regarding my name, whats it saved as	user_name
+what do you have me saved under	user_name
+what do you know me as	user_name
+my name is what	user_name
+what am i called by you	user_name
+tell me what you believe my name to be	user_name
+what's your designation	user_name
+how does my name appear	user_name
+i want you to let me know what names you have for me	user_name
+how is my name saved aw	user_name
+what do you think i'm called	user_name
+what name is mine	user_name
+you know me by what right now	user_name
+what do you know me by	user_name
+you wrote what for my name	user_name
+what is my name saved as in your system	user_name
+what do you think you will refer to me as	user_name
+i would like to know the name you have for me	user_name
+can you tell me what name you have for me	user_name
+what is the name you call me saved as	user_name
+what are you going to refer to me as	user_name
+call my name	user_name
+how did you save my name	user_name
+so what is my name saved as	user_name
+what do you think my name is	user_name
+let me know what do you call me	user_name
+show me what you think my name is	user_name
+what will you refer to me as	user_name
+what's my name saved under	user_name
+what do you want to call me	user_name
+how do you reference me	user_name
+can you tell me what you call me	user_name
+tell me my designation	user_name
+please tell me the name you use for me	user_name
+let me know the name you have for me	user_name
+what would i be referred to as	user_name

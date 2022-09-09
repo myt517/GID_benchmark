@@ -1,0 +1,451 @@
+text	label
+does tartine in san francisco take reservations	accept_reservations
+do you know if benihana does reservations	accept_reservations
+does the steakhouse on main st take reservations	accept_reservations
+does long horns do reservations	accept_reservations
+can you tell me if zeus does reservations	accept_reservations
+i need to know if capones does reservations in trenton	accept_reservations
+does burger king accept reservations	accept_reservations
+do they take reservations at bar tartine	accept_reservations
+will they take reservations at chillis	accept_reservations
+does the zen garden in la take reservations	accept_reservations
+can you make a reservation at michael's	accept_reservations
+does the new york restaurant take reservations	accept_reservations
+do you know if olive garden does reservations	accept_reservations
+let me know if grub burger takes reservations	accept_reservations
+is it possible to make a reservation at sushi king in virginia beach	accept_reservations
+i'm going to need an uber for 4 people to go to patty's bar	uber
+get me an uber for 4 heading to miam	uber
+i need an uber for 5 people to go to wendys	uber
+i need an uber to times square asap	uber
+is there an uber that drives to the bank on 5th that can hold 3 people	uber
+i need an uber for 6 people to the movies	uber
+schedule me an uber to the mall	uber
+i need an uber to the sears tower	uber
+am i able to get an uber to the movies	uber
+i need an uber reserved to take me to the restaurant	uber
+i need to go to phoenix sky harbor airport using uber	uber
+i need an uber to get to the bank	uber
+call an uber to mcdonalds	uber
+can i get an uber for 2 to go to austin	uber
+i need an uber for 3 passengers to go to madison square garden	uber
+do you know when my next electric bill is due	bill_due
+what day is the cable bill owed on	bill_due
+what date do i have to pay my bill	bill_due
+is my at&t bill do soon	bill_due
+i need the new due date for my pgw gas bill	bill_due
+when is the bill due	bill_due
+when do i have to pay my internet	bill_due
+how do i find when my medical bill is due	bill_due
+when is the electric bill due	bill_due
+what's the due date for spectrum's bill	bill_due
+what is the latest date that i can pay my direct tv bill this month	bill_due
+when is visa due	bill_due
+how do i find when my electric bill is due	bill_due
+i'd like to find the date that my gas bill is due	bill_due
+is the bill due today	bill_due
+what organization created you	who_made_you
+who developed your internal code	who_made_you
+tell me who made you	who_made_you
+let me know who programmed you	who_made_you
+who did the programming on you	who_made_you
+what's the name of the company that designed you	who_made_you
+who was your creator	who_made_you
+who manufactured you	who_made_you
+give me an answer to who made you	who_made_you
+who was your programmer	who_made_you
+what company manufactured you	who_made_you
+who makes the ai	who_made_you
+what company coded you	who_made_you
+i would like to know who programmed this ai	who_made_you
+what company wrote your code	who_made_you
+where can i locate my routing number for chase please	routing
+i need you to tell my what my routing number is for my first county account	routing
+could you tell me what my routing number from first republic is	routing
+what's wells fargo's routing number	routing
+what is the routing number for royal	routing
+i need to know what routing number i should use for ally	routing
+what's my pioneer routing number	routing
+i must know my bank of america routing number	routing
+can you help me find my routing number from wells fargo	routing
+what's my routing number	routing
+can you tell me the routing number for bank of america for domestic accounts	routing
+where would the routing number for first utah be located	routing
+is my routing number on my account page	routing
+can you tell me the routing number to pnc	routing
+where would century bank have their routing number listed	routing
+how much did i spend on gas last week	spending_history
+have i been spending a lot on food lately	spending_history
+how much have i spent on bills recently	spending_history
+have i been spending a lot on shoes lately	spending_history
+what's the total amount i've spent eating out in the last two weeks	spending_history
+how much total have i spent on fast food lately	spending_history
+how much did i spend on lunches last week	spending_history
+have i been spending more money at restaurants	spending_history
+what are my finances like lately	spending_history
+what is the total amount i spent last week	spending_history
+about how much did i spend recently	spending_history
+did i spend too much dough on donuts last week	spending_history
+how much money did i use to spend on catering five hours ago	spending_history
+how much have i lately spent on eating out	spending_history
+i have been spending a lot on food out lately	spending_history
+tell me how to convert grams into ounces	measurement_conversion
+how many kilos are in 20 pounds	measurement_conversion
+can you convert 2 inches into meters	measurement_conversion
+how many ounces in a liter	measurement_conversion
+what's 12 feet in meters	measurement_conversion
+what is 22 meters in inches	measurement_conversion
+convert cm to inch	measurement_conversion
+what is 10 ounces in grams, please	measurement_conversion
+how many kilos are in 25 pounds	measurement_conversion
+tell me the conversion between tablespoons and cups	measurement_conversion
+how are yards converted to inches	measurement_conversion
+how many millimeters are in 21 centimeters	measurement_conversion
+how many inches are in 36 feet	measurement_conversion
+how many meters are in 10 millimeters	measurement_conversion
+how many kilos are in 10 pounds	measurement_conversion
+please place this track on my driving mix	update_playlist
+god's plan will be added to my new playlist	update_playlist
+please add roar by katy perry to my playlist	update_playlist
+add this song to shared playlist	update_playlist
+please add the immigrant song by led zeppelin to my playlist	update_playlist
+put this in my workout playlist	update_playlist
+put this song on my edm playlist	update_playlist
+this song needs to be added to my country music playlist	update_playlist
+add ruby soho by rancid to my playlist	update_playlist
+i want the current song added to my pregame playlist	update_playlist
+can you add that to my chillwave playlist	update_playlist
+i want to put thank you on my playlist called relaxing jams	update_playlist
+include rap god on the motivational playlist	update_playlist
+my new playlist well be having god's plan adding to it	update_playlist
+add what's playing on my favorite playlist	update_playlist
+can you tell me denver's timezone	timezone
+what's london's timezone	timezone
+las vegas is in what timezone	timezone
+what timezone is boston in	timezone
+i need la's time zone	timezone
+does denver reside in the eastern timezones	timezone
+what time is it in phoenix	timezone
+reno's timezone is what	timezone
+what timezone is japan in	timezone
+i would like to know the timezone for britain	timezone
+can you tell my what france's timezone is	timezone
+if i am in reno, what would the timezone be	timezone
+what timezone is milan in	timezone
+give me the timezone where vancouver is	timezone
+what's the timezone for london	timezone
+how can i make chicken pot pie	recipe
+find a good recipe for meatloaf	recipe
+how do you make blue cheese dressing	recipe
+how do you create pork chili	recipe
+can you get me recipes for eggs please	recipe
+what do i need to do to make blackberry pie	recipe
+i need to know how to make philly cheesesteaks	recipe
+i need a recipe for chicken cordon bleu	recipe
+i would like you to help me find a chow mein recipe	recipe
+give me a tuna salad recipe	recipe
+how do you make dumplings	recipe
+how do i make chicken alfredo	recipe
+where is a beef recipe	recipe
+what do i need to do to cook a chicken	recipe
+you know procedure to cook apple pie	recipe
+lower your volume	change_volume
+decrease volume to 4	change_volume
+i want the speaker to be louder please	change_volume
+volume to 4	change_volume
+put volume at 4	change_volume
+you must increase the volume to 4 please	change_volume
+i want your volume louder	change_volume
+increase your voice box	change_volume
+please raise the volume to 4	change_volume
+turn the volume to level 4	change_volume
+volume should be set at 4	change_volume
+can you rise the volume of this please	change_volume
+speak up	change_volume
+keep volume at 4 all the time	change_volume
+bring the volume up overall	change_volume
+clear my calendar for may 3rd	calendar_update
+please scratch my march 1st meeting off my calendar	calendar_update
+i have to add farm trip to my calendar for friday	calendar_update
+add meeting with carla to my schedule for july 4	calendar_update
+you can remove the field trip from my calendar for march 12, 2019	calendar_update
+what is the best way to remove this appointment	calendar_update
+i need to add something to my calendar for next tuesday	calendar_update
+march 3rd needs to be cleared on my calendar	calendar_update
+i need trip to the zoo on the calendar for june 4	calendar_update
+keep april 2nd wide open on my calendar please	calendar_update
+please add to my calendar for the staff meeting that is scheduled on march 1, 2019 at 10 am	calendar_update
+i need to add my doctor's appointment to my calendar for the first	calendar_update
+i need to add farm trip to my calendar for friday	calendar_update
+put cancel abc on my calendar for next thursday	calendar_update
+add staff meeting to my calendar for march 1 at 10:00 in the morning	calendar_update
+i would like to know more about getting a new credit card	new_card
+what's the procedure to apply for a new credit card	new_card
+i would like to get a new credt card	new_card
+does bank of america give credit cards to people like me	new_card
+i need to know how to apply for a mastercard	new_card
+help me apply for a visa card	new_card
+how does one apply for a master card	new_card
+i would like to apply for a bank of america travel rewards credit card	new_card
+hey what do i do to apply for a visa card	new_card
+what do i need to do to apply for a visa card	new_card
+what is the process to apply for a visa card	new_card
+help me apply for an american express card	new_card
+how do i go about applying for a new credit card	new_card
+i want to submit an application for a barclay's card	new_card
+i wanna apply for a bank of america travel rewards credit card	new_card
+how much money do i make from work	income
+how much do i make per day	income
+how much money was deposited to my bank account from my employer this month	income
+look up how much i earn annually	income
+what do i usually earn in a day	income
+how much money am i earning	income
+can you please tell me my income	income
+how much have i earned this week	income
+please tell me about my income	income
+i need to know my salary	income
+what are they paying me at work right now	income
+what amount do i make	income
+what're my wages for the week	income
+what is the exact number of my salary	income
+i need to know how much i make at my job	income
+get me my slow sounds	play_music
+start playing my black metal playlist	play_music
+play the song god's plan	play_music
+let me hear the song sympathy for the devil	play_music
+"can you play the song that goes like, ""starships were meant to fly"	play_music
+can i hear my smooth jazz playlist	play_music
+can you play the song amazing grace and it goes like this, amazing grace how sweet the sound	play_music
+i want to play my maroon 5 playlist	play_music
+play the song called tiny dancer	play_music
+pull up the songs under slow	play_music
+play help! by the beatles	play_music
+"will you play the song that goes like, ""starships were meant to fly"	play_music
+i am in the mood to listen to mack the knife	play_music
+play the song called wreckless love	play_music
+is it okay to listen to elvis' music	play_music
+what are the recommended shots to get before i travel to south korea	vaccines
+are more shots needed to travel to argentina	vaccines
+if i travel here, do i need vaccinations	vaccines
+what shots do i need to get in order to travel to khartoum	vaccines
+which vaccines will i need for cuba	vaccines
+are there any required shots in indonesia	vaccines
+are shots required before traveling to china	vaccines
+do i need a vaccine for the congo	vaccines
+please tell me what shots i am required to get to travel to india	vaccines
+do i need a vaccination for spain	vaccines
+do i need vaccinations to travel overseas	vaccines
+if you were traveling to indonesia, as i am, would you have your shots updated before your visit	vaccines
+what shots are recommended before traveling to kenya	vaccines
+will i need immunization for a trip to turkey	vaccines
+if i am going to the uk are any specific shots needed	vaccines
+what date is tomorrow	date
+what is the full date after today	date
+would you let me know what date it will be in 3 days	date
+i need information on today's date	date
+can you tell me the current date	date
+what will the date be in 64 days	date
+i'd like to know what the date is	date
+tell me the date today	date
+tell me the date 650 days from now	date
+what date will it be 5 days from now	date
+show me the date	date
+what is tomorrow's date	date
+what's the day today	date
+in 4 days, what date will it be	date
+what will tomorrow be on the calendar	date
+where should i look for my credit card expiration day	expiration_date
+how long is it going to be until my card expires	expiration_date
+how long before my amex card expires	expiration_date
+when is my cards end month	expiration_date
+during which month will my card expire	expiration_date
+does my credit card expire soon	expiration_date
+what is the expiration date of my current card	expiration_date
+when my credit card is going to expire	expiration_date
+i need to know the date of expiration for my credit card	expiration_date
+tell me the month that my credit card will expire	expiration_date
+please find out the expiration date for my credit card	expiration_date
+will i need to renew my credit card soon	expiration_date
+i need to know when my credit card is going to expire	expiration_date
+tell me when my credit card expires	expiration_date
+give me my credit card expiration date	expiration_date
+are my tires good on pressure	tire_pressure
+what's my current tire pressure	tire_pressure
+how's the air pressure in my tires	tire_pressure
+are my tires in need of air	tire_pressure
+what's my tires' air pressure	tire_pressure
+please give me the amount of pressure in my car tires	tire_pressure
+tell me my car's tire pressure	tire_pressure
+what's my car's tire pressure	tire_pressure
+how is the car tire pressure doing	tire_pressure
+i need to know how low are my tires on air	tire_pressure
+please measure my tire pressure	tire_pressure
+do i need to fill my tires	tire_pressure
+how much air is in my tires	tire_pressure
+how much air are in my tires	tire_pressure
+what is my tire pressure	tire_pressure
+set the oven temperature to 350	smart_home
+what is the temperature the ac display is showing	smart_home
+can you look who is at the door	smart_home
+turn on the microwave for 3 minutes	smart_home
+will you please turn the tv on	smart_home
+i want you to turn the fans on	smart_home
+please make sure the temperature is set to 68	smart_home
+did i lock the doors	smart_home
+can you please help me start the car	smart_home
+remember to lock the doors	smart_home
+to 350, set the oven	smart_home
+warm up my car for me	smart_home
+put the lights on low	smart_home
+350 set the oven	smart_home
+start my vehicle	smart_home
+how can i go about jump starting my car	jump_start
+can you help me with the steps to jump start my car	jump_start
+find auto store that tests dead car batteries for free	jump_start
+my car battery died and i need help	jump_start
+number for aaa to help with dead car battery	jump_start
+how do i fix a dead car battery	jump_start
+my car battery is dead what do i do	jump_start
+how do i jump start the car	jump_start
+what should i do to get my car jump started	jump_start
+how do you jump start a car	jump_start
+guide me through jump starting a car	jump_start
+what steps should i take if i think my car battery is dead	jump_start
+closest auto parts store to find replace for dead car battery	jump_start
+can you tell me how to jump start the car	jump_start
+how do i jump start my car	jump_start
+please cancel what you are doing, i've changed my mind	cancel
+can you cancel that request	cancel
+please stop	cancel
+can you please cancel	cancel
+abort the current action	cancel
+nevermind, cancel that	cancel
+please don't talk any further	cancel
+terminate	cancel
+ai stop talking	cancel
+cancel it	cancel
+would you stop talking please	cancel
+rescind	cancel
+you can cancel the task	cancel
+destroy process	cancel
+stop talking please	cancel
+what is the year to date total on my vacation days	pto_balance
+what's the status on my vacation days	pto_balance
+provide me the number of vacation days i have	pto_balance
+how many days on holiday do i have	pto_balance
+how much pto have i accrued	pto_balance
+can you tell me how many pto days do i have left	pto_balance
+please calculate my vacation time	pto_balance
+what is the saved vacation time i have left	pto_balance
+i would like to know my vacation days balance	pto_balance
+what do my pto days amount to	pto_balance
+do i have enough vacation to take a european trip	pto_balance
+how many days of vacation time do i have saved	pto_balance
+could you let me know how many pto days do i have left	pto_balance
+what number of vacation days do i have	pto_balance
+how many pto days are available	pto_balance
+i want to cancel my reservation for network to xaga such	cancel_reservation
+scrap reservation at 4 for red robin	cancel_reservation
+cancel my reservation for chris at jp field's	cancel_reservation
+cancel my reservation for 3 at carlos jr	cancel_reservation
+i need to cancel my reservations	cancel_reservation
+im not gonna need the dinner reservation	cancel_reservation
+cancel my reservation for dinner this saturday, please	cancel_reservation
+can you cancel my 5:30 pm table reservation at parc	cancel_reservation
+call the restaurant and cancel my reservation	cancel_reservation
+scrap that dinner reservation	cancel_reservation
+please cancel my reservation for 5 at red robin	cancel_reservation
+cancel my reservation for 4 at red robin	cancel_reservation
+please delete the reservation for roberts at village tavern	cancel_reservation
+please cancel my reservation for dinner	cancel_reservation
+forget reservation at longhorn for 4	cancel_reservation
+i want to set a timer	timer
+set the timer for me please	timer
+i'll need you to set a timer for 10 minutes	timer
+"""can u set a timer for 5 minutes"	timer
+set a timer for 10 minutes	timer
+set a timer for 30 minutes	timer
+give me a 10 minute countdown	timer
+let me know in 15 minutes please	timer
+tell me when ninety minutes have passed	timer
+please set a timer to go off in 45 minutes	timer
+remind me in (x) hours	timer
+can you set a timer	timer
+10 minutes is what the timer should be set at	timer
+can you set the timer to 20 minutes	timer
+please set a timer for me	timer
+why is my luggage not here	lost_luggage
+what step should i take next if i lost my luggage	lost_luggage
+where are my bags, not here at the airport	lost_luggage
+what steps should i follow if i lost my luggage	lost_luggage
+it looks as though my luggage has been lost	lost_luggage
+can you please help me find my lost luggage	lost_luggage
+i lost my luggage, what now	lost_luggage
+i lost my luggage	lost_luggage
+i think my luggage was misplaced or has been lost	lost_luggage
+my luggage is lost,what do i do now	lost_luggage
+i need to find my luggage	lost_luggage
+who do i go to to find lost luggage	lost_luggage
+what should i do if i lost my luggage	lost_luggage
+who can i call about my luggage	lost_luggage
+i'm here at dia but my luggage isn't!	lost_luggage
+reset the factory settings please	reset_settings
+alter back to your orginal settings	reset_settings
+i want you to reset to factory settings	reset_settings
+change all setting to original ones	reset_settings
+revert back to your factory settings	reset_settings
+restore the factory settings	reset_settings
+i would like you to change the settings back to factory default now, please	reset_settings
+restore your original settings now	reset_settings
+restore your original settings, please	reset_settings
+can you return to the factory fresh settings	reset_settings
+you should reset your factory settings	reset_settings
+restart your actions with the original settings you came with	reset_settings
+can you reset your factory settings	reset_settings
+change back to the factory set up	reset_settings
+go back to the original settings now	reset_settings
+what's the nutritional info for a cheeseburger	nutrition_info
+i want to know how nutritious an avocado typically is	nutrition_info
+do you know the nutritional info for macaroni and cheese	nutrition_info
+share the nutrition info for brownies with me	nutrition_info
+can you read to me the nutritional info for macaroni and cheese	nutrition_info
+tell me nutritional info for burger	nutrition_info
+is chocolate healthy	nutrition_info
+where are the nutrition facts for cheerios	nutrition_info
+read me the nutrional info of a bag of lay's potato chips	nutrition_info
+i need to see the chicken salad's nutritional info	nutrition_info
+what are the nutrition facts for macaroni and cheese	nutrition_info
+how healthy is shepard's pie	nutrition_info
+can you give me information about the nutrition facts for celery	nutrition_info
+i would like you to share with me the nutrition info for chicken nuggets	nutrition_info
+can you tell me how healthy apples are	nutrition_info
+can you tell me your place of origin	where_are_you_from
+where did you used to live	where_are_you_from
+what country were you born in	where_are_you_from
+where were you processed	where_are_you_from
+where was your home before here	where_are_you_from
+where you from the usa	where_are_you_from
+where are you originally from	where_are_you_from
+what location did you live at before	where_are_you_from
+where were your born	where_are_you_from
+where is your original location	where_are_you_from
+where are you from if i may ask	where_are_you_from
+so, where do you come from	where_are_you_from
+where is your family from	where_are_you_from
+so where did you live when you were a baby	where_are_you_from
+where did they make you	where_are_you_from
+can you find me a round trip flight from denver international to new york international on the 3rd through the 7th	book_flight
+what roundtrip flights from orlando to vegas are available from thursday to monday	book_flight
+find me a flight from seattle to detroit for less than 200 dollars	book_flight
+could you make a flight reservation with air emirates from orlando to london	book_flight
+buy a flight from phoenix to el paso on august 30 that returns on labor day	book_flight
+i want to find a roundtrip flight from philadelphia to sioux falls from august 3rd through august 25th	book_flight
+for the dates april 1st to the 7th, find me round trip air tickets from la to sfo	book_flight
+book a flight from new york to la for less than 200 dollars	book_flight
+i want to find a round trip flight from denver international to new york international on the 8th to the 16th	book_flight
+i'm going to boston from bangor on july 25th through the 29th, and need you to find me a roundtrip flight	book_flight
+i want to book a flight from hawaii to new york on july 8th and returning on july 10th	book_flight
+get me roundtrip flight information for flights from dallas to houston for june 8 and june 17	book_flight
+show me roundtrip flights from dallas to houston for march 7 and march 10	book_flight
+i want a flight booked from new york to san francisco with continental	book_flight
+i need to take a flight from florida to alabama on january 25th and i need to get back by the 30th	book_flight
