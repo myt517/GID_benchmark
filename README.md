@@ -53,3 +53,7 @@ python main_pretrain.py \
     --comment 60_90 \
     --offline \
  ```
+ 
+### Generalized Intent Discovery
+You can use the ./run_discovery.sh script for end-to-end generalized intent discovery. For different settings, you need to slightly modify the parameters of the script.
+ 
