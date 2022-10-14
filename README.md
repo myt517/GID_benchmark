@@ -59,6 +59,23 @@ You can use the ./run_discovery.sh script for end-to-end generalized intent disc
  
 Running generalized intent discovery on **GID-SD** (take GID-SD-60% as an example):
 ```
+for s in 0
+do
+    python main_discover.py \
+      --dataset GID-SD \
+      --data_dir dataset/GID_benchmark/ \
+      --OOD_ratio 20 \
+      --batch_size 512 \
+      --gpus 1 \
+      --seed $s \
+      --max_epochs 200 \
+      --num_labeled_classes 62 \
+      --num_unlabeled_classes 15 \
+      --pretrained pretrain_checkpoints/pretrain-bert-base-uncased-GID-SD-62_15.cp \
+      --num_heads 4 \
+      --comment 62_15 \
+      --precision 16 \
+      --offline \
 
-
+done
 ```
