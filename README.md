@@ -37,3 +37,19 @@ python main_pretrain.py \
     --comment 60_90 \
     --offline \
  ```
+ 
+ Running pretraining on **GID-CD** (take GID-CD-60% as an example):
+ ```
+ python main_pretrain.py \
+    --dataset GID-CD \
+    --data_dir dataset/GID_benchmark/ \
+    --OOD_ratio 60 \
+    --batch_size 256 \
+    --gpus 1 \
+    --precision 16 \
+    --max_epochs 200 \
+    --num_labeled_classes 60 \
+    --num_unlabeled_classes 90 \
+    --comment 60_90 \
+    --offline \
+ ```
