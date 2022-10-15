@@ -117,7 +117,7 @@ do
       --max_epochs 200 \
       --num_labeled_classes 120 \
       --num_unlabeled_classes 30 \
-      --pretrained pretrain_checkpoints/pretrain-bert-base-uncased-GID-MD-120_30.cp \
+      --pretrained pretrain_checkpoints/pretrain-bert-base-uncased-GID-CD-120_30.cp \
       --num_heads 4 \
       --comment 120_30 \
       --precision 16 \
