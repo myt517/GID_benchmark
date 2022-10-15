@@ -1,0 +1,451 @@
+text	label
+does tartine in san francisco take reservations	accept_reservations
+do you know if benihana does reservations	accept_reservations
+does the steakhouse on main st take reservations	accept_reservations
+does long horns do reservations	accept_reservations
+can you tell me if zeus does reservations	accept_reservations
+i need to know if capones does reservations in trenton	accept_reservations
+does burger king accept reservations	accept_reservations
+do they take reservations at bar tartine	accept_reservations
+will they take reservations at chillis	accept_reservations
+does the zen garden in la take reservations	accept_reservations
+can you make a reservation at michael's	accept_reservations
+does the new york restaurant take reservations	accept_reservations
+do you know if olive garden does reservations	accept_reservations
+let me know if grub burger takes reservations	accept_reservations
+is it possible to make a reservation at sushi king in virginia beach	accept_reservations
+is the friday's full after 4	how_busy
+does ihop have a lot of business around 7 am	how_busy
+is the restaurant busy at lunchtime	how_busy
+is that restaurant crowded during dinner	how_busy
+find out how busy ihop usually is around 5 pm	how_busy
+do you know how long of a wait it will be	how_busy
+how long would i have to wait if i want to go to golden corral	how_busy
+what is the wait supposed to be at zippys	how_busy
+when will the restaurant be busiest	how_busy
+how busy do you expect olive garden to be at 6	how_busy
+how long to be seated at carrabas	how_busy
+i need to know about how much time i'd have to wait to get a table at dibruno's	how_busy
+how long does it take to get a table at chili's	how_busy
+how busy is zippy around 12 for lunch	how_busy
+how busy is imanas at 6	how_busy
+does chili's have good reviews	restaurant_reviews
+how are people liking the sushi at yakamoto	restaurant_reviews
+how good are the ratings for papa john's	restaurant_reviews
+what are the reviews like for l'auberge aubergine	restaurant_reviews
+how are the donuts reviews at tgi	restaurant_reviews
+how many stars does brasserie les halles have	restaurant_reviews
+how good are the ratings for olive garden	restaurant_reviews
+does ihop have positive reviews	restaurant_reviews
+look up the ratings for olive garden	restaurant_reviews
+is the review ned's have good	restaurant_reviews
+do people like the food at wendy's	restaurant_reviews
+how good are the ratings for chic-fil-a	restaurant_reviews
+what are the reviews like for khin khao	restaurant_reviews
+does outback steakhouse have good reviews	restaurant_reviews
+does cielo have good reviews	restaurant_reviews
+do you know when my next electric bill is due	bill_due
+what day is the cable bill owed on	bill_due
+what date do i have to pay my bill	bill_due
+is my at&t bill do soon	bill_due
+i need the new due date for my pgw gas bill	bill_due
+when is the bill due	bill_due
+when do i have to pay my internet	bill_due
+how do i find when my medical bill is due	bill_due
+when is the electric bill due	bill_due
+what's the due date for spectrum's bill	bill_due
+what is the latest date that i can pay my direct tv bill this month	bill_due
+when is visa due	bill_due
+how do i find when my electric bill is due	bill_due
+i'd like to find the date that my gas bill is due	bill_due
+is the bill due today	bill_due
+i need to make sure there is a reservation for george at connor oneil's	confirm_reservation
+i'd like for you to make sure my reservation is there for charlie's under jack	confirm_reservation
+can you confirm my reservation for jaime at red lobster	confirm_reservation
+can you check and see i have a reservation under alex for bon apetite	confirm_reservation
+i need you to confirm that there is a reservation under the name david kramer for 7:00 pm at pietro's	confirm_reservation
+i need to confirm my reservation for red lobster for frank	confirm_reservation
+can you confirm my reservation for 6 pm on the 13th of february	confirm_reservation
+check on my reservation for umami at 6pm	confirm_reservation
+will you make sure robert has a reservation at ruth's steakhouse	confirm_reservation
+confirm that there is a reservation at bellagio for thomas	confirm_reservation
+i want my reservation for march 1 at 8 pm confirmed	confirm_reservation
+i would like to try and confirm that i have a reservation at chili's for bart	confirm_reservation
+please tell me if i still have a reservation at acero for susie	confirm_reservation
+do i have a reservation for may 1st, 2019 at 4 pm	confirm_reservation
+can you confirm my reservation for 6 at the outback	confirm_reservation
+where can i locate my routing number for chase please	routing
+i need you to tell my what my routing number is for my first county account	routing
+could you tell me what my routing number from first republic is	routing
+what's wells fargo's routing number	routing
+what is the routing number for royal	routing
+i need to know what routing number i should use for ally	routing
+what's my pioneer routing number	routing
+i must know my bank of america routing number	routing
+can you help me find my routing number from wells fargo	routing
+what's my routing number	routing
+can you tell me the routing number for bank of america for domestic accounts	routing
+where would the routing number for first utah be located	routing
+is my routing number on my account page	routing
+can you tell me the routing number to pnc	routing
+where would century bank have their routing number listed	routing
+how much did i spend on gas last week	spending_history
+have i been spending a lot on food lately	spending_history
+how much have i spent on bills recently	spending_history
+have i been spending a lot on shoes lately	spending_history
+what's the total amount i've spent eating out in the last two weeks	spending_history
+how much total have i spent on fast food lately	spending_history
+how much did i spend on lunches last week	spending_history
+have i been spending more money at restaurants	spending_history
+what are my finances like lately	spending_history
+what is the total amount i spent last week	spending_history
+about how much did i spend recently	spending_history
+did i spend too much dough on donuts last week	spending_history
+how much money did i use to spend on catering five hours ago	spending_history
+how much have i lately spent on eating out	spending_history
+i have been spending a lot on food out lately	spending_history
+the sauce must simmer then go in the oven but for how long	cook_time
+for how long does this need to cook	cook_time
+how long does it take to bake a cake	cook_time
+what's the preparation time for this dish	cook_time
+how long should i cook steak for	cook_time
+how long should i cook my turkey	cook_time
+what do i set the timer for if i'm making gyoza	cook_time
+what are the minutes needed to cook the meal	cook_time
+how long should i cook the pasta for	cook_time
+i need the cooking length for a turkey	cook_time
+how long do cheeseburgers take to make	cook_time
+how long to microwave a pizza	cook_time
+how long do i need to cook roast for	cook_time
+how long does this dish need to be in the oven	cook_time
+how long does it take to cook ham	cook_time
+how do i freeze my bank account	freeze_account
+freeze my account	freeze_account
+i want my account frozen	freeze_account
+please put a hold on my retirement account right now	freeze_account
+stop my account activity	freeze_account
+could you please put a stop on my bank account	freeze_account
+can you please freeze my account	freeze_account
+put a hold on my chase account right away please	freeze_account
+please force my account to freeze	freeze_account
+can you put a stop on my bank account now	freeze_account
+can you place a stop on my account	freeze_account
+i need to put a stop on my bank account	freeze_account
+do you mind putting a stop on my bank account	freeze_account
+place a block on my capital one account right now	freeze_account
+i need you to freeze my account	freeze_account
+what interest rate is us bank giving me on my acount	interest_rate
+is there somewhere my personal loan displays the interest rate i'm paying on it	interest_rate
+what interest rate am i getting from wells fargo	interest_rate
+could you help me find the interest on my chase account	interest_rate
+tell me what the interest rate is on my personal loan through chase	interest_rate
+what amount of interest does my checking account earn	interest_rate
+x has given me an interest rate, what is it	interest_rate
+how much interest am i getting on my savings	interest_rate
+let me know my ally interest rate	interest_rate
+can you tell me what my interest rate from first federal is	interest_rate
+what's my interest rate	interest_rate
+find my interest rate	interest_rate
+can you tell me my current interest rate	interest_rate
+what interest rate am i getting from sunflower bank	interest_rate
+can i get the interest rate for my checking account	interest_rate
+how many calories are found in bagels	calories
+how many calories are in a piece of bacon	calories
+what's the expected calorie load of a peanut butter and jelly sandwich	calories
+what is the calorie count in a cookie	calories
+what is the calorie content in peanut butter	calories
+tell me the calorie content for an apple	calories
+what is the caloric value of a cookie	calories
+how many calories can i expect to be in fries	calories
+can you tell me the number of calories in one serving of whole cashews	calories
+what's the number of calories in a coke	calories
+how many calories does a kitkat have	calories
+do cheetos have a lot of calories	calories
+how many calories does a scoop of chocolate ice cream contain	calories
+how many calories are in chocolate ice cream	calories
+what's the caloric content of an apple	calories
+how can i make chicken pot pie	recipe
+find a good recipe for meatloaf	recipe
+how do you make blue cheese dressing	recipe
+how do you create pork chili	recipe
+can you get me recipes for eggs please	recipe
+what do i need to do to make blackberry pie	recipe
+i need to know how to make philly cheesesteaks	recipe
+i need a recipe for chicken cordon bleu	recipe
+i would like you to help me find a chow mein recipe	recipe
+give me a tuna salad recipe	recipe
+how do you make dumplings	recipe
+how do i make chicken alfredo	recipe
+where is a beef recipe	recipe
+what do i need to do to cook a chicken	recipe
+you know procedure to cook apple pie	recipe
+i gotta change my pin number for my debit account	pin_change
+i need to know the pin number to my card	pin_change
+i'd like to change my pin number for my savings account	pin_change
+i want the pin on my wells fargo account to be changed	pin_change
+i would like to change the pin on my checking account	pin_change
+i'm having trouble remembering the pin number to my card	pin_change
+i cannot remember what my pin is for my bank of america checking account this moment	pin_change
+i want my savings account pin to be 1234 from now on	pin_change
+switch the pin on my chase account	pin_change
+access my checking account and update my pin to 1234	pin_change
+i would like to change the name on my credit card account	pin_change
+change my amex account pin to 1234	pin_change
+i need to know the pin number	pin_change
+help me change my pin number	pin_change
+i would like to change my pin number for my chase account	pin_change
+turns out i made a fraudulent transaction	report_fraud
+report fraudulent activity on my credit card now	report_fraud
+"""disable my card account and contact company to report fraudulent activty"	report_fraud
+my account is showing a charge to venmo that i did not make	report_fraud
+i'm pretty sure this charge from sam's club is fraudulent	report_fraud
+there seems to be fraudulent activity	report_fraud
+i have a bs transaction from ebay on my account	report_fraud
+there's a shady charge from comcast on my account	report_fraud
+i spotted a fraudulent transaction from microsoft on my account	report_fraud
+i may have had fraud committed on my account	report_fraud
+i'm pretty sure i have a fraudulent transaction on my account	report_fraud
+i'm pretty sure this charge is fraudulent	report_fraud
+i think someone stole my card and used it	report_fraud
+i believe that there is some fraudulent activity on my capital one account	report_fraud
+i have to report fraudulent activity on my bank of the west card	report_fraud
+what is the minimum i can pay for my electric bill	min_payment
+i want you to tell me the minimum i can pay on my rent bill	min_payment
+what is the minimum i can pay on my insurance bill	min_payment
+what is the minimum payment for comcast	min_payment
+what's the least payment i can make on my cable bill	min_payment
+how much is the least i can pay for power bill	min_payment
+i need to pay the smallest amount on my phone bill	min_payment
+what is my minimum verizon bill payment	min_payment
+what's the least i can pay this month	min_payment
+what is the minimum payment on my water bill	min_payment
+i need to know my cards minimum payment	min_payment
+what's the minimum payment on my phone bill	min_payment
+what is the lowest amount i can pay for my medical bill	min_payment
+what's the minimum payment on my bill	min_payment
+what is the minimum payment	min_payment
+why is my checking account not working	account_blocked
+find out for me why is my bank account frozen	account_blocked
+do you know why my account appears to be blocked	account_blocked
+check with my bank to see why my account is frozen	account_blocked
+can you help me unblock my account	account_blocked
+figure out why there is a block on my account please	account_blocked
+was my bank account frozen for a specific reason	account_blocked
+my account has a hold on it and i can't access my funds, why	account_blocked
+can you please unlock my bank account	account_blocked
+how come my chase account has a hold on it	account_blocked
+what's with the block on my bank account	account_blocked
+call my bank and ask them why my account is frozen	account_blocked
+why does us bank have a hold on my account	account_blocked
+i am nost sure why my account is blocked	account_blocked
+find out the reason why am i locked out of my bank account	account_blocked
+how do i order some more checks for my navy federal account	order_checks
+how do i order more checkbooks for my well's fargo account	order_checks
+will you order more checkbooks for my silvergate account	order_checks
+can i get some more checkbooks sent to me	order_checks
+is is possible to order more checkbooks for account ending in sequence 939392	order_checks
+can you order me more checks, please	order_checks
+how do you order new checks	order_checks
+is it possible to get more checkbooks for my navy fed account	order_checks
+i need to order new checks	order_checks
+can you order new checks for my citizens checking	order_checks
+i ran out of checks and need more asap	order_checks
+make an order for new checbooks on my td checking please	order_checks
+how do i order some more checks for my bank of america account	order_checks
+does my great western bank account allow me to order more checkbooks	order_checks
+what is the process to get some more checkbooks mailed to me	order_checks
+how much do my bills cost this month	bill_balance
+for my water and electricity, how much is the bill	bill_balance
+what is the balance on my bills	bill_balance
+what is the total of my repair bill	bill_balance
+what's my bill for water and electricity	bill_balance
+how much do i need to pay for my electricity and water bills	bill_balance
+what do my bills look like for amazon and netflix	bill_balance
+please tell me how much i owe sprint and how much i owe hsn	bill_balance
+how much do i have to pay for my bills this month	bill_balance
+how much do i owe for my gas and phone bills	bill_balance
+what's the final amount of all the money i need to pay in bills this month	bill_balance
+how much do i have to pay on taxes and cable	bill_balance
+my dte bill is how much	bill_balance
+how much does my water and electricity cost	bill_balance
+find out the cost of my bill payments	bill_balance
+will you tell me my bank balance	balance
+can the funds in my wells fargo account cover my lift tickets	balance
+what is the balance on my visa	balance
+would you tell me my bank balance	balance
+how much cash do i have in my bank accounts	balance
+could you tell me what my checking account balance is	balance
+i'd like to know the balance of my bank of american account	balance
+savings account balance at chase bank please	balance
+will the amount in my chase bank account right now cover the cost of a new dryer	balance
+is there enough money in my discover account for a new pair of jeans	balance
+is there enough money in my account for expenses	balance
+can you tell me how much cash i have	balance
+what do i have in my bank accounts right now	balance
+how much money is there in my bank accounts	balance
+tell me what i have in my money market account	balance
+what is the most time i can keep a burrito frozen for before it's no good to eat	food_last
+how long are eggs good for	food_last
+how long can i keep pork in the freezer for before it gets freezer burnt	food_last
+is it okay to eat chicken that i put in the fridge on monday	food_last
+i've got some chips from monday, will they still be ok to eat	food_last
+how long can i keep deer meat in the freezer before it's unedible	food_last
+what's the shelf life for eggs in the fridge	food_last
+tell me how long can i keep pizza in the freezer for before it goes bad	food_last
+what is the expiration date for those eg	food_last
+is there a time limit on leaving pork in the fridge	food_last
+when does the honey expire	food_last
+what is the fridge life of spahghetti	food_last
+what is the expiration date for honey	food_last
+if i have garlic from sunday is it still fine to use	food_last
+when will my milk be no good	food_last
+i want to cancel my reservation for network to xaga such	cancel_reservation
+scrap reservation at 4 for red robin	cancel_reservation
+cancel my reservation for chris at jp field's	cancel_reservation
+cancel my reservation for 3 at carlos jr	cancel_reservation
+i need to cancel my reservations	cancel_reservation
+im not gonna need the dinner reservation	cancel_reservation
+cancel my reservation for dinner this saturday, please	cancel_reservation
+can you cancel my 5:30 pm table reservation at parc	cancel_reservation
+call the restaurant and cancel my reservation	cancel_reservation
+scrap that dinner reservation	cancel_reservation
+please cancel my reservation for 5 at red robin	cancel_reservation
+cancel my reservation for 4 at red robin	cancel_reservation
+please delete the reservation for roberts at village tavern	cancel_reservation
+please cancel my reservation for dinner	cancel_reservation
+forget reservation at longhorn for 4	cancel_reservation
+transfer seventy dollars between national and citizens accounts	transfer
+i need $360 transfered from savings to checking account	transfer
+can you please provide me with assistance in moving money from one account to another	transfer
+can we wire some money over to the other account i have	transfer
+i need 200 dollars transferred from my long island savings account to my chase checking	transfer
+move my money to the other account	transfer
+move $40 from account b to account a	transfer
+transfer 50 dollars from my checking account to my money market account	transfer
+i need to transfer one thousand dollars to my savings account from my checking	transfer
+send $20 from debit to steve's account	transfer
+can you assist me in moving money from one account to another	transfer
+go ahead and move $200 from amazon to my bank account	transfer
+send 50 dollars between bank of america and chase accounts	transfer
+transfer $100 from my checking to saving account	transfer
+send money to another account	transfer
+can you give me a vietnamese dinner suggestion	meal_suggestion
+i would like you to give me a suggestion for a mexican meal	meal_suggestion
+what do you think would be a good dinner	meal_suggestion
+look up a recipe for dinner to suggest to me	meal_suggestion
+what would you suggest having for dinner	meal_suggestion
+suggest a meal from india to me	meal_suggestion
+what would you suggest for dinner	meal_suggestion
+i need dinner ideas	meal_suggestion
+what kind of mexican meal should i get	meal_suggestion
+suggest an italian meal for me	meal_suggestion
+do you have any ideas for a mexican meal	meal_suggestion
+suggest an italian meal to me	meal_suggestion
+can you suggest a mexican dish	meal_suggestion
+can you give me a burmese dinner suggestion	meal_suggestion
+would you provide me with italian cuisine dinner suggestions	meal_suggestion
+what's the nutritional info for a cheeseburger	nutrition_info
+i want to know how nutritious an avocado typically is	nutrition_info
+do you know the nutritional info for macaroni and cheese	nutrition_info
+share the nutrition info for brownies with me	nutrition_info
+can you read to me the nutritional info for macaroni and cheese	nutrition_info
+tell me nutritional info for burger	nutrition_info
+is chocolate healthy	nutrition_info
+where are the nutrition facts for cheerios	nutrition_info
+read me the nutrional info of a bag of lay's potato chips	nutrition_info
+i need to see the chicken salad's nutritional info	nutrition_info
+what are the nutrition facts for macaroni and cheese	nutrition_info
+how healthy is shepard's pie	nutrition_info
+can you give me information about the nutrition facts for celery	nutrition_info
+i would like you to share with me the nutrition info for chicken nuggets	nutrition_info
+can you tell me how healthy apples are	nutrition_info
+view my transactions for the last week	transactions
+was my last transaction at walmart	transactions
+i want to see my recent transaction	transactions
+retrieve my recent transactions	transactions
+i would like to see the transactions i made last week	transactions
+how much was my last transaction for	transactions
+open yesterday's last payment	transactions
+pull up my recent transactions on my mastercard	transactions
+what transactions have i accrued buying dog food	transactions
+i spent what dollar amount last month on mastercard	transactions
+i want to see the list of transaction on my bank of hawaii	transactions
+on my card what have been my recent purchases	transactions
+show me all video games purchased	transactions
+bring up all purchases from target	transactions
+i need to see all visa purchases for march	transactions
+where should we eat tonight	restaurant_suggestion
+what decent restaurants around here are italian	restaurant_suggestion
+what are some good vegan restaurants in broadripple	restaurant_suggestion
+what are good restaurants in reno that serve sushi	restaurant_suggestion
+i'm hungry, where should i go	restaurant_suggestion
+i would love to find a few vegan restaurants in back bay	restaurant_suggestion
+where's a good place to get some grub	restaurant_suggestion
+which restaurants in reno are good for sushi	restaurant_suggestion
+where are the best places to eat	restaurant_suggestion
+can you find a keto friendly restaurant	restaurant_suggestion
+can you suggest a thai restaurant	restaurant_suggestion
+where would you eat italian in chicago	restaurant_suggestion
+can you suggest a french restaurant, please	restaurant_suggestion
+i want to eat out, where should i go	restaurant_suggestion
+is there a good fish place in salem	restaurant_suggestion
+listen i need to get a reservation for , me and teresa at georgetown cafe on tuesday at 7:00 pm	restaurant_reservation
+can you get me a table for 5 at mcdonalds at 5pm	restaurant_reservation
+make a reservation for chik-fil-a at 3 o' clock please	restaurant_reservation
+could you make reservations for 2 at olive garden for 5 pm today	restaurant_reservation
+get me a table for five at itta bena at three	restaurant_reservation
+can i make a reservation for 2 at state bird for 8:30, please	restaurant_reservation
+please reserve me a table for 2 pm at maxwell's on the 14th	restaurant_reservation
+i need a table for 3 at olive garden for 7	restaurant_reservation
+make a reservation at 5 pm today for 2 at olive garden	restaurant_reservation
+give me a table for 3 at o'reilly's bar for 7 please	restaurant_reservation
+can i reserve a table for 2 at the olive garden at 8	restaurant_reservation
+please make a reservation for us at joy bar for 4 adults	restaurant_reservation
+will you reserve a table at olive garden for 3 people at 7	restaurant_reservation
+book a reservation for 6 at shakey's under the name jason	restaurant_reservation
+check reservation availability for 2 at red lobster at 8pm	restaurant_reservation
+i need your help to pay my gas bill	pay_bill
+pay my light bill	pay_bill
+pay the cable bill with my visa card	pay_bill
+pay the red cross the monthly donation	pay_bill
+do a car payment from my savings account	pay_bill
+my electric bill should be paid today	pay_bill
+i need to make a bill payment	pay_bill
+i want to pay off my student loan	pay_bill
+i'd like to make a payment on my credit card bill	pay_bill
+i need to pay my water bill	pay_bill
+pay my cable bill from my checking account	pay_bill
+pay my insurance bill	pay_bill
+can you assist with my utility bill payment	pay_bill
+make a payment on the electric bill	pay_bill
+use my boa account to pay the cable bill	pay_bill
+what is needed to cook lasagna	ingredients_list
+what will i need to make lasagna	ingredients_list
+what ingredients do i need to make potato skins	ingredients_list
+what goes in broccoli cheddar soup	ingredients_list
+i need to know the ingredients in a hamburger	ingredients_list
+in making an omelette, what ingredients do i need	ingredients_list
+what ingredients do i need for chicken breast	ingredients_list
+what do i need to buy to make a spaghetti	ingredients_list
+what ingredients are in antipasto salad	ingredients_list
+what should i buy to make burritos tonight	ingredients_list
+let me know the ingredients i will need for pasta making	ingredients_list
+what ingredients go in spaghetti	ingredients_list
+what foods do i buy to put into a korean dinner	ingredients_list
+what all is in gumbo	ingredients_list
+what ingredients are in tortillas	ingredients_list
+is it acceptable to swap rice for quinoa	ingredient_substitution
+can i substitute cream for milk	ingredient_substitution
+can i use lettuce instead of rice	ingredient_substitution
+are you able to sub white sugar for brown sugar	ingredient_substitution
+would it be a problem to sub chips instead of fries	ingredient_substitution
+can i use normal flour if i don't have bread flour	ingredient_substitution
+would it be possible to replace the salt with baking soda	ingredient_substitution
+do you know if i can use pepper and not salt	ingredient_substitution
+i don't have sour cream, can i use yogurt instead	ingredient_substitution
+can i use flour instead of cornstarch to make gravy	ingredient_substitution
+could i use olive oil instead of grape seed oil	ingredient_substitution
+is it possible to use starch instead of flour	ingredient_substitution
+i need to swap salt for baking soda	ingredient_substitution
+can i use sour cream instead of milk	ingredient_substitution
+can i use regular olive oil instead of virgin	ingredient_substitution
