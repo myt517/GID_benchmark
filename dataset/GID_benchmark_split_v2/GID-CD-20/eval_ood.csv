@@ -1,0 +1,451 @@
+text	label
+do i have any meetings today between 2 and 3	meeting_schedule
+what meetings do i have today between noon and one	meeting_schedule
+when is my meeting with jack for	meeting_schedule
+how many total meetings will i have between 2 and 5	meeting_schedule
+do i have many meetings today between 2 and 4	meeting_schedule
+do i have any meetings today between 4 and 5	meeting_schedule
+how many meetings do i have today	meeting_schedule
+what kind of meetings do i have today	meeting_schedule
+is dan aware of any meetings with me today	meeting_schedule
+when is my meeting with invoicing scheduled	meeting_schedule
+please tell me my meeting schedule	meeting_schedule
+what meetings do i have on my agenda today	meeting_schedule
+do i have any meetings with dave today	meeting_schedule
+am i supposed to attend any meetings today	meeting_schedule
+tell me the meeting schedule for the day	meeting_schedule
+how much vacation time have i accrued	pto_balance
+how many sick days do i have	pto_balance
+what is the number of pto days i have left	pto_balance
+how many days do i have left of pto	pto_balance
+how many vacation days are available to me	pto_balance
+i've saved what number of days of vacation	pto_balance
+how many vacation days have i saved up	pto_balance
+how many weeks of vacation do i have	pto_balance
+how many vacation days do i have saved	pto_balance
+what number of vacation days do i have available	pto_balance
+check how much pto i have left	pto_balance
+how much pto do i have	pto_balance
+how many vacation days do i have saved up, please	pto_balance
+so i have any vacation days left	pto_balance
+how many days of vacation do i have left	pto_balance
+put in a pto request for march 4 to march 6	pto_request
+can i take pto from the end of the month to the 5th of the next month	pto_request
+is it ok if i use some of my pto on may 24th to may 29th	pto_request
+i'm intereted in requesting pto from april 1-5	pto_request
+if i want to make a vacation request, how do i do it	pto_request
+for march 1 to 2 make a pto request for me	pto_request
+how is a vacation request made	pto_request
+i want to request pto from november 7 to 11	pto_request
+how is a vacation request done	pto_request
+can you help me plan a vacation	pto_request
+i need a pto request put in for the weekend of june 1st to june 2nd	pto_request
+what are the steps required for making a vacation request	pto_request
+how do i plan a vacation	pto_request
+what do i do to request a vacation	pto_request
+i would like to know if i can put a pto request in for march 19 to march 20	pto_request
+when do i get my paycheck	payday
+what date is another paycheck due	payday
+when is my next paycheck	payday
+can you confirm the date my last paycheck was received	payday
+i need to know when to expect my next paycheck	payday
+day that i get paid	payday
+when should i expect my next paycheck	payday
+when did i get paid the last time	payday
+when is payday	payday
+when will i get my next paycheck	payday
+what is my pay	payday
+tell me when my next paycheck will be here	payday
+how long until my paycheck shows up	payday
+when am i paid or how often	payday
+when is my next paycheck due	payday
+help me make changes to my insurance policy	insurance_change
+can you help me switch insurance plans	insurance_change
+can i update my insurance policy	insurance_change
+i need to get a new motorcycle insurance plan	insurance_change
+tell me how to get new insurance	insurance_change
+my insurance policy needs to be adjusted	insurance_change
+help me change my insurance	insurance_change
+i need to make changes to my insurance policy	insurance_change
+can you switch me to a new insurance plan	insurance_change
+i am hoping to switch insurance plans	insurance_change
+can you help me get on a new united healthcare insurance plan	insurance_change
+can you tell me how changes on my insurance policy can be made	insurance_change
+i would like to alter my insurance plan	insurance_change
+is new this a good insurance plan for me	insurance_change
+how do i change my current insurance to a new plan with lower co-pay	insurance_change
+is there traffic on bramble lane	traffic
+how bad is traffic at 8 on the way to burger king	traffic
+i need to know what traffic is going to be like at 3:00 pm on the new jersey turnpike heading into camden from north jersey	traffic
+what is the traffic like on the way to north shore	traffic
+at around noon what is the traffic typically like on the route to the hopsital	traffic
+what is the traffic situation at the olive garden restaurant	traffic
+what kind of traffic can i expect at 9:00 on the route to detroit	traffic
+how is the traffic on my way to the venue	traffic
+can you give me a traffic update for a trip to the grocery store	traffic
+is the traffic bad at 5:00 if i'm going to the mall	traffic
+going to work, will there be traffic	traffic
+will i be able to get to the mall at 5:00, or will there be a lot of traffic	traffic
+will traffic be light on the way to orlando	traffic
+what's traffic usually like around 5pm going to the bank	traffic
+is traffic good or bad at 9:00 on the way to detroit	traffic
+where can i find information on oil changes for my car	oil_change_when
+how many miles can i drive before i need to change my oil	oil_change_when
+when does my oil need some changing	oil_change_when
+when can i get oil changed	oil_change_when
+it's been 3 years since i changed my oil, how long until i have to deal with it	oil_change_when
+how long is an oil change good for	oil_change_when
+when is my next oil change due	oil_change_when
+how long until my oil needs to be changed	oil_change_when
+when do you think i ought to change the oil in my car next	oil_change_when
+when will my car need new oil	oil_change_when
+when is the next time i should change my oil	oil_change_when
+when will i need another oil change	oil_change_when
+can you make a note for my next oil change	oil_change_when
+when should i change this oil	oil_change_when
+how do you know if your oil needs changed	oil_change_when
+how do i go about changing the oil in my car	oil_change_how
+i can't change my oil and don't know what kind i need	oil_change_how
+i need to change my oil and have no idea how to do it	oil_change_how
+where can i find a page showing my how to change my oil	oil_change_how
+how do you change car oil	oil_change_how
+please tell me how to change the oil in my car	oil_change_how
+i want a step by step explanation of how to change the oil in my car	oil_change_how
+i want to change the oil in my car	oil_change_how
+i want a lesson on changing my oil	oil_change_how
+how do i change the oil in my car	oil_change_how
+what oil should i use and how do i change it	oil_change_how
+i want to learn to change oil	oil_change_how
+give me instructions for changing the oil in a 2015 passat	oil_change_how
+how would i replace my oil and what sort of oil should i use	oil_change_how
+can you show me how to change the oil in my car	oil_change_how
+i need to set a meeting with tom at 6pm	schedule_meeting
+add a meeting with tom at 6pm	schedule_meeting
+what is your availability for conference rooms between one and two today	schedule_meeting
+please tell me if there are meeting rooms available between 9:00 am and 11:00 am	schedule_meeting
+can you schedule a meeting with james at the office	schedule_meeting
+i need to schedule a meeting	schedule_meeting
+are there any meetings room available between 8:00 and 9:00 am	schedule_meeting
+can you schedule a meeting with john for 12	schedule_meeting
+one and three pm are there meeting rooms open	schedule_meeting
+is there a meeting room available between one and two	schedule_meeting
+schedule a meeting room for friday at 3pm	schedule_meeting
+are there meeting rooms available between 4-8	schedule_meeting
+meeting room availability at 8:00 please	schedule_meeting
+get me a meeting room for 9am on friday	schedule_meeting
+set up a meeting with frank at 2pm	schedule_meeting
+could you inform me of when i last got my car checked	last_maintenance
+i need to know the date of my car's last visit to the shop please	last_maintenance
+when did i get my car inspected last	last_maintenance
+when did i last have a mechanic check out my car	last_maintenance
+when was my car in the shop	last_maintenance
+what day did i last have the oil in my car changed	last_maintenance
+how long since i swapped oil	last_maintenance
+how long has it been since my oil was changed	last_maintenance
+when was my car in the shop last	last_maintenance
+tell me when my last oil change was	last_maintenance
+when did i last get my car tuned up	last_maintenance
+when did i get my last oil change	last_maintenance
+what was the date of the last time i took my car to the shop	last_maintenance
+what is the last date of service on my car	last_maintenance
+when did my car get serviced last	last_maintenance
+how long do tires last for	tire_change
+in september i changed my tires are they in need of changing	tire_change
+when should my car's tires be changed	tire_change
+when must i get my tires changed	tire_change
+when should my tires be changed next	tire_change
+when do i take my car in for a tire change	tire_change
+when should i replace my tires sense i last replaced them on 3/21/17	tire_change
+tell me how i can tell if my tires need to be changed	tire_change
+i replaced my tires on may 2, so when should i replace them next	tire_change
+if i replaced my tires on christmas eve, when will i need to replace them again	tire_change
+on feb 3rd i changed my tires are they still good	tire_change
+do my tires need to be changed	tire_change
+how often do you change your tires	tire_change
+how many miles before i need my tires changed	tire_change
+how often should i replace my tires sense i replaced them on 2/21/17	tire_change
+where can i find the mall closest to here	directions
+what's the closest mcdonalds	directions
+how do i get to the train by foot	directions
+can i take a bus to the grand canyon	directions
+where is the closest target	directions
+how do i get to the college by bus	directions
+would you tell me how to get to walmart by bus	directions
+i need to get to a church immediately, please take me to one!	directions
+find the closest cvs near galleria mall	directions
+search for the nearest expressway to the airport	directions
+where is the nearest arco gas station to macdonalds	directions
+where is the nearest papa john's	directions
+where is the nearest k mart	directions
+how do i get to the leaning tower by bus	directions
+what's the nearest starbucks	directions
+has my manager at mcdonald's confirmed i can take vacation	pto_request_status
+has my day off request been approved or denied yet	pto_request_status
+i sent in a request for vacation time off and am wondering if its been approved yet	pto_request_status
+the status of my day off request, please	pto_request_status
+on my vacation request, what is the latest information	pto_request_status
+do you know if my vacation request went through	pto_request_status
+could you tell me what the status of my day off request is	pto_request_status
+please let me know what the status of my day off request is	pto_request_status
+has my supervisor approved my vacation	pto_request_status
+tell me the status of my day off request	pto_request_status
+i want to know if my vacation request has been approved	pto_request_status
+what's my vacation status	pto_request_status
+what is the status of my vacation request	pto_request_status
+is vacation a go	pto_request_status
+i haven't heard if my request for time off for vacation has been approved , can you get an update for me	pto_request_status
+can you tell me how to jump start a car	jump_start
+what do i do for a dead car battery	jump_start
+will a jump start work if my batter is dead	jump_start
+what are the steps to jump start my car	jump_start
+how do i jump start a bad battery	jump_start
+what steps do i need to follow to jump start my car	jump_start
+how do you jump a car	jump_start
+how do i jump start a fiat	jump_start
+i gotta jump start my car	jump_start
+how do you use jumper cables	jump_start
+i don't know how to jump start my car, help!	jump_start
+i need to know how to jump start my car	jump_start
+how can i jump start my car if my battery is dead	jump_start
+could you teach me how to jump start a car	jump_start
+what should i do if my car battery is dead	jump_start
+how much in taxes will i owe	taxes
+what is the amount of money that i have to pay in taxes	taxes
+how are my federal taxes looking this year	taxes
+about how much will my federal taxes be	taxes
+whats the total of my taxes	taxes
+how much state taxes do i owe	taxes
+what's my irs bill going to look like	taxes
+how much do i pay in income tax	taxes
+what kind of tax do i pay	taxes
+what's the amount of taxes for my income	taxes
+what percentage do i pay in taxes	taxes
+how much am i going to have to pay in federal taxes this year	taxes
+how are my state taxes looking	taxes
+give me the specifics on my federal taxes	taxes
+do i have to file a tax form	taxes
+when is the next office holiday	next_holiday
+when's the next time my job'll give me a day to myself	next_holiday
+please look up the next holiday for me	next_holiday
+how many days until the next holiday arrives	next_holiday
+does march have a holiday	next_holiday
+what is my next day off	next_holiday
+how soon is my next day off	next_holiday
+i need to know when i will next have the day off	next_holiday
+do i have a day off coming up soon	next_holiday
+the next holiday is when	next_holiday
+can you tell me when our next day off is	next_holiday
+please tell me when is the next holiday here	next_holiday
+how much longer until my next day off	next_holiday
+tell me the next holiday	next_holiday
+on what day is our next day off	next_holiday
+i'm wondering what health plan i'm on	insurance
+what plan am i paying for	insurance
+what's my current health care plan	insurance
+what is the name of my health insurance	insurance
+what's my insurance benefits like	insurance
+where is the list of my insurance benefits	insurance
+what is the name of my insurance plan	insurance
+what benefits do i have for insurance	insurance
+do you know what my health benefits are	insurance
+insurance benefit details	insurance
+insurance benefits	insurance
+what are the benefits associated with my insurance	insurance
+will you summarize my health benefits	insurance
+what health benefits do i have	insurance
+what benefits do i get from insurance	insurance
+i will rollover my 401k	rollover_401k
+i need help to transfer my 401k	rollover_401k
+can i transfer my 401k somewhere	rollover_401k
+can my 401k rollover or not	rollover_401k
+i want help rolling over my 401k	rollover_401k
+is there a way to roll over my 401k	rollover_401k
+where do i go the transfer my 401k	rollover_401k
+let me know how to rollover my 401k	rollover_401k
+is it possible to rollover my 401k	rollover_401k
+please walk me through the steps necessary to rollover my 401k	rollover_401k
+tell me if i am able to rollover my 401k	rollover_401k
+tell me how to transfer my 401k	rollover_401k
+can the 401k i have be rolled over	rollover_401k
+i have to roll over my 401k to a new account and i don't know how	rollover_401k
+how do i relocate my 401k	rollover_401k
+what percentage full is my gas tank	gas
+how much gas do you have will you make it to jackson	gas
+do i have the gas to get to orlando	gas
+tell me how much gas i have	gas
+does my car have enough gas to get to atlantic city	gas
+how full or empty is my tank of gas	gas
+how much gas do i have here	gas
+how much farther can i drive on the gas i have	gas
+where can i get gas to get to sioux falls	gas
+how much gas do i currently have	gas
+let me know how much gas i have in total	gas
+how many gallons do i have left in my gas tank	gas
+do i have enough gas to get home	gas
+what is my current fuel level	gas
+how many gallons do i have left	gas
+can you find me an uber and have it here at 7pm	uber
+send me an uber now for four people and we are going to appleby's downtown	uber
+contact uber and have them pick me up	uber
+i need an uber please	uber
+help me get an uber	uber
+i need to uber somewhere	uber
+connect me with an uber	uber
+get me an uber for 3 people uptown	uber
+i want to get an uber for one person to go to the library	uber
+i need an uber for 7 people to go to safire restaurant	uber
+i need an uber to the movies for me and 5 other people	uber
+i want an uber	uber
+call me an uber please, and make it for four people to go downtown	uber
+find an uber xl to take me to the kroger near me	uber
+is it possible to take an uber to burger king	uber
+what type of gas do i use in this car	gas_type
+what fuel do i need for my car	gas_type
+i need to know the gas type for this vehicle	gas_type
+tell me the right kind of gas for this car	gas_type
+what fuel do i put in this car	gas_type
+what's the correct fuel type for my car	gas_type
+tell me what cas is needed for this car	gas_type
+i need gas so what should i get	gas_type
+what's the required fuel type for my car	gas_type
+what kind of fuel does my vehicle run on	gas_type
+i need to know what kind of gas to put in this car	gas_type
+gas type needed for this car	gas_type
+what kind of gas do i put in my car	gas_type
+what gas does that car currently use	gas_type
+which type of gas should i get	gas_type
+at this location what are my gps coordinates	current_location
+tell me where i am on a map	current_location
+please locate me on the map and show me	current_location
+please tell me my current location	current_location
+show me where i am on a map	current_location
+please tell me my current gps coordinates	current_location
+how do i find my present location right now, please	current_location
+i wanna know my current location	current_location
+current location please	current_location
+bring up my location	current_location
+how can i know my current location	current_location
+please give me my gps coordinates	current_location
+i'm lost, can you tell me where i am	current_location
+what is my current location that you see right now	current_location
+what are my gps coordinates right now	current_location
+how do i get a personal w2 form	w2
+where could i find forms to get my w2	w2
+a w2 form is obtainable where	w2
+so where do i get the w2 form	w2
+help - i can't find my w-2	w2
+i need my earned income form for paying taxes	w2
+who has the tax form that has my wage informaton	w2
+i must get the w-2 form	w2
+where is my w-2	w2
+how and where are my w2 forms given	w2
+where can i get my w2 forms from	w2
+where do i get the tax form that i have to report to the irs	w2
+what is the location of my w2 that is needed for taxes	w2
+where do i get the tax form that shows my wages	w2
+what is that tax form that shows my wages and where do i get it	w2
+how many days off have i taken so far this year	pto_used
+how many days so far have i taken off	pto_used
+how many vacation days have i used so far	pto_used
+i want to know how many vacation days i have used	pto_used
+look up how many of my days off i have used so far	pto_used
+whats my count of vacation days used thus far	pto_used
+i have used how much pto so far	pto_used
+what is the total day off have i taken	pto_used
+how many times have i used my annual leave	pto_used
+please find out how many days off i have used by this point	pto_used
+check how many days off i've taken	pto_used
+tell me my usage of vacation days	pto_used
+what is the total number of days that i have taken off work since january	pto_used
+what's the total vacation days i've gone through	pto_used
+how much pto do i have used up	pto_used
+y check engine light currently came on and i need assistance with it	schedule_maintenance
+i need to arrange an appointment to have my car's tires examined	schedule_maintenance
+i need to get an appointment for car maintenance	schedule_maintenance
+i need to make an appointment for an oil change, please	schedule_maintenance
+will someone please look at my check engine light that is on	schedule_maintenance
+my car needs to be brought for maintenance	schedule_maintenance
+the check engine light is on and i need a mechanic	schedule_maintenance
+i want to to schedule maintenance on my vehicle	schedule_maintenance
+my check engine light is on so is anyone available to check it out for me	schedule_maintenance
+can you make an appointment for an oil change	schedule_maintenance
+can someone look at my check engine light	schedule_maintenance
+i need help cause my check engine light came on	schedule_maintenance
+can i make an appointment for an oil change	schedule_maintenance
+can you help me find someone to look at my car's engine because the light is on	schedule_maintenance
+my car's tires are due to be looked at, can you help me get an appointment for that	schedule_maintenance
+what amount is my income	income
+how much do i make	income
+i need more information about my income	income
+please tell me what amount i'm earning	income
+what's my salary for this year	income
+what is my pay grade at work	income
+how much am i paid	income
+calculate how much i earn from my job	income
+how much money did i make	income
+how much am i getting back from work	income
+i would like to know what my income is	income
+i would like to know what my salary is at this time	income
+what's the amount of my income	income
+what do i earn from my job	income
+give me my income	income
+i need a direct deposit	direct_deposit
+help me get my pay check deposited directly to my home checking account	direct_deposit
+i need to get direct deposit on my bofa account	direct_deposit
+how do i get my check directly deposited	direct_deposit
+tell me the easiest way to set up direct deposit of my paycheck to my chase account	direct_deposit
+assist me to set up direct deposit	direct_deposit
+how do i set up direct deposit for my paycheck	direct_deposit
+direct deposit instructions	direct_deposit
+i'd like to set up a direct deposit for my paycheck	direct_deposit
+i'd like to set up direct deposit	direct_deposit
+how do i get my paycheck direct deposited to my chase account	direct_deposit
+i'd like to have my paycheck direct deposited to my chase account	direct_deposit
+how do i set up direct deposit to my bank of hawaii account	direct_deposit
+how do i set up direct deposit for my first national account	direct_deposit
+set up direct deposit	direct_deposit
+do you know the fuel economy of this car	mpg
+what's the gas mileage on a juke	mpg
+i would like to know the mpg for this car	mpg
+for city driving, what's the car's mpg	mpg
+please look up the this cars mpg	mpg
+how many mpg does this car get	mpg
+what's the mpg of this car	mpg
+what is the mpg on this car	mpg
+what kind of gas mileage do i get	mpg
+how well is the gas mileage while i'm in the city	mpg
+what's the mpg for the car when it's on the highway	mpg
+does this car get good mpg on the highway	mpg
+retrieve my current mpg on my car	mpg
+how's the mpg for this on the freeway	mpg
+can you tell me the mpg of this car	mpg
+how much time is left until we get there	distance
+how long will it take the bus to get to stop 23	distance
+how long does it take to get to the park in detroit	distance
+if i take this bus, how long until i get to brooklyn	distance
+how long would a bus to the empire state building take	distance
+how miles does it take to get to red lobster from my current location	distance
+how long does it take to get to houston by bus	distance
+how long is a bus ride to staples	distance
+how many miles until i get to the beach	distance
+what's the estimated travel time to get to dc via bus	distance
+how long to washington dc on a bus	distance
+how far from our destination are we	distance
+how long before i get to dallas , in time, not miles	distance
+how much time will riding the bus to downtown take	distance
+what is the distance to austin city limits from my hotel , the holiday inn at austin	distance
+what is my car's tire pressure	tire_pressure
+i need you to check the air levels in my tires and let me know if i have enough in them	tire_pressure
+is my tire pressure okay on my car	tire_pressure
+give me the tire pressure for the car	tire_pressure
+i gotta know my car;s tire pressure	tire_pressure
+should i be concerned about the air in my tires	tire_pressure
+how are the tires on air pressure	tire_pressure
+tell me my car's tires' air pressure	tire_pressure
+how much air do i have in my tires	tire_pressure
+are my tires low on air	tire_pressure
+are my tires properly inflated with air	tire_pressure
+can you tell me what my tire pressure is	tire_pressure
+what's the current tire pressure of my tires	tire_pressure
+how can i find out what my tire pressure is	tire_pressure
+tire pressure please	tire_pressure

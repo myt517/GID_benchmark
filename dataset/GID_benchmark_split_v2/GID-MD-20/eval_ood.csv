@@ -1,0 +1,451 @@
+text	label
+roll a 6 sided die and tell me the result	roll_dice
+please roll a 7 sided die	roll_dice
+please roll a 10 sided die and tell me what number it is	roll_dice
+roll a fourteen sided dice exactly	roll_dice
+roll a 6 sided dice for me	roll_dice
+ai toss the dice	roll_dice
+go ahead and roll that 9 sided dice	roll_dice
+how much do you get when you roll an eight sided die	roll_dice
+i need you to roll a dice that has six sides and tell me what it lands on	roll_dice
+please roll dice	roll_dice
+can you roll a die for me	roll_dice
+i need to roll a 10 sided die	roll_dice
+roll a pair of eight sided dice	roll_dice
+roll a dice and give me a number from 1 to 6	roll_dice
+can i have a 2 sided dice	roll_dice
+raise the volume to 4 please	change_volume
+can my volume be increased	change_volume
+i can't hear you and need you to turn up the volume	change_volume
+turn down your speaker	change_volume
+set volume higher	change_volume
+limit your volume	change_volume
+the sound is too low	change_volume
+volume 4 set	change_volume
+can i have my volume increased	change_volume
+please increase your volume	change_volume
+quieter please	change_volume
+be more quiet	change_volume
+adjust the volume to level 4	change_volume
+could you please raise your volume	change_volume
+a volume of 4 is ideal please	change_volume
+how much total cash do i have in the bank	balance
+what is the balance on my bank accounts	balance
+do i have money in my wells fargo account for nike's	balance
+i want to view my balance	balance
+can you tell me my current bank accounts balance	balance
+please find my balance on my chase mastercard	balance
+i hope i have enough money in my chase account to buy new clothes	balance
+could be there be a good amount of money in my checking account to go on a vacation	balance
+i wanna know the balance of my bank of american account	balance
+what what kind money is available in my bank accounts	balance
+check my visa account and see if i have enough money for dinner tonight	balance
+how much is the current balance in my td bank savings account	balance
+whats my bank accounts look like	balance
+do i have more than $100 in my pnc account	balance
+how much money do i have in my account	balance
+add god's plan by drake to my playlist	update_playlist
+put this song in vibes playlist	update_playlist
+please add this song to my study playlist	update_playlist
+i'd like to augment my workout playlist with this tune	update_playlist
+put the song that's playing to my techno playlist	update_playlist
+i'd like to add this song to my relaxation playlist	update_playlist
+new playlist that i will add god's plan to	update_playlist
+can you add passionfruit by yaeji to my playlist	update_playlist
+append my playlist with smooth operator by sade	update_playlist
+please add this song to my jazz playlist	update_playlist
+add the current song to my favorite playlist	update_playlist
+add song to media playlist	update_playlist
+will you be sure to add this current song to my sleep playlist	update_playlist
+i really would like to add hey jude by the beatles to my playlist	update_playlist
+could you insert broken by evanescence to my music	update_playlist
+tell me whether i need an international visa to go to mexico	international_visa
+israel has strict restrictions do i need a visa to travel there	international_visa
+do i need a visa to travel to jamaica	international_visa
+is a visa required to visit cancun	international_visa
+i want to know if i shouldget a tourist visa for italy	international_visa
+let me know if i need an international visa to go to sudan	international_visa
+for travel to argentina, do i need to get a travel visa	international_visa
+do i need an international visa to go to mexico	international_visa
+if i go to uganda, do i need an international visa	international_visa
+would i need to get a visa to go to ireland	international_visa
+might i need to get a visa to travel to venezuela	international_visa
+am i in need of an international visa to go to france	international_visa
+do i need a visa to spain	international_visa
+do i need a us visa for cuba	international_visa
+to visit cambodia, do i need an international visa	international_visa
+skip to next song	next_song
+put on the next song	next_song
+change this song please	next_song
+play the next song queued up	next_song
+please can we go to the next song	next_song
+i need you to play the next song on this playlist	next_song
+please jump to the song that follows this one	next_song
+will you play the next song on this playlist	next_song
+play the next song instead	next_song
+skip to next track	next_song
+play the song after this	next_song
+i need you to skip this song and play the next one	next_song
+next song please	next_song
+i want to listen to another song	next_song
+go to the next song on the playlist	next_song
+i need my reservation to be cancelled for nugget to xiomara's restaurant	cancel_reservation
+the reservation i have isn't needed any more	cancel_reservation
+can you cancel my reservation tonight for chris at smith and wollensky	cancel_reservation
+change my reservation with carl at umami to canceled	cancel_reservation
+cancel my reservations for joe's at zepher right now	cancel_reservation
+please delete the reservation for 3 people at outback	cancel_reservation
+the reservation i made is not required anymore	cancel_reservation
+please cancel my dinner reservation	cancel_reservation
+can i cancel my reservation for 4 at red robin	cancel_reservation
+go ahead and close the reservation	cancel_reservation
+cancel my 6:00 reservation at the cheesecake factory	cancel_reservation
+cancel my reservation for me	cancel_reservation
+cancel the dinner reservation i made, okay	cancel_reservation
+i need you to cancel my reservation for smith's at 6:15	cancel_reservation
+i would like to cancel my reservations	cancel_reservation
+i'd like to hear a joke about donkeys	tell_joke
+what's the funniest thing you've got	tell_joke
+i wanna hear something funny	tell_joke
+have you heard any great jokes lately	tell_joke
+i want to hear jokes about toddlers	tell_joke
+let's hear a joke!	tell_joke
+tell me a non-offensive joke	tell_joke
+tell me a joke about politicians	tell_joke
+tell me a joke if you'd like to	tell_joke
+tell me something funny about love	tell_joke
+give me a joke about the topic of television	tell_joke
+tell me a joke about elephants	tell_joke
+show me something funny about food	tell_joke
+how about you tell me a joke	tell_joke
+tell me something funny about adulthood	tell_joke
+can you tell me my cards minimum payment	min_payment
+what's the minimum payment on my gas bill	min_payment
+what is the minimum i can pay for my telephone bill	min_payment
+what do i have to pay on my amex that is the minimum	min_payment
+tell me the least i can pay	min_payment
+i would like to know my water bill minimum payment	min_payment
+how much is the minimum payment for power bill	min_payment
+what is the smallest payment i can make toward my xfinity bill	min_payment
+what is my bill's minimum payment	min_payment
+i must know my water bill minimum payment	min_payment
+what is the smallest amount i can pay on my tmobile bill	min_payment
+show my my minimum payment for youtube	min_payment
+what is the least i can pay on my mortgage bill	min_payment
+what's the minimum payment on my credit card bill	min_payment
+please tell me the minimum amount i can pay on my wells fargo credit card	min_payment
+cancel that last thing	cancel
+command cancel	cancel
+ai, stop!	cancel
+how do i make you stop talking	cancel
+halt	cancel
+hush	cancel
+quit talking	cancel
+i repeat cancel	cancel
+please abort the current task	cancel
+negate last command	cancel
+stop speaking	cancel
+can you cancel that, please	cancel
+scrap	cancel
+do not complete the task that i gave you	cancel
+please cancel your present task	cancel
+switch to whisper please	whisper_mode
+whisper mode, stop	whisper_mode
+take me out of whisper mode	whisper_mode
+change from whisper mode	whisper_mode
+if you don't mind, please switch to whisper mode	whisper_mode
+go into whisper mode	whisper_mode
+can you use the whisper voice	whisper_mode
+turn on the whisper voice	whisper_mode
+set up whisper mode	whisper_mode
+make saound function operate in whisper mode	whisper_mode
+turn to whisper mode	whisper_mode
+i decide to switch out of whisper mode	whisper_mode
+could you please get out of whisper mode	whisper_mode
+please start whisper mode	whisper_mode
+please use whisper mode	whisper_mode
+can you tell me the total cost of my bills please	bill_balance
+read my bill balances	bill_balance
+what is the total amount due on my electricity bill	bill_balance
+what is the total of all my bills combined	bill_balance
+what is the total for my utilities bill this month	bill_balance
+how much is my telephone bill this month	bill_balance
+let me know how much money i will need to spend on paying bills	bill_balance
+let me know the amounts i owe for my utilities and tuition bills	bill_balance
+can you tell me what i owe for this month's phone bill	bill_balance
+how much is my xfinity cable bill	bill_balance
+how much are my electric and heating bills	bill_balance
+how much do you think my rent and electric bills are	bill_balance
+how much is my water and sewer	bill_balance
+has my electricity bill increased this month how much	bill_balance
+how much is the total due for my pgw gas bill	bill_balance
+i want to know what the routing is for chase	routing
+where do i find the routing number for nfcu	routing
+what's the routing number for my bank of america account	routing
+can you tell me my routing number	routing
+i want to know the bofa routing number	routing
+what is the routing number for pnc	routing
+can you please read me the routing number to pnc	routing
+let me know what the routing number for my civista account is	routing
+where can i find routing number for pnc	routing
+where can i see the routing number for bmo	routing
+display the routing number for account huntington	routing
+can you tell me my routing number for summit	routing
+i need a routing number	routing
+provide me the routing number for my fed account	routing
+i want to know my routing number please	routing
+your answer was enjoyable	thank_you
+i'm thankful for your help	thank_you
+you were so kind to do that	thank_you
+thanks for all your help	thank_you
+i'm so glad you helped me!	thank_you
+thank you for answering that	thank_you
+thanks	thank_you
+your answer was good	thank_you
+really great!	thank_you
+thanks please	thank_you
+thank you	thank_you
+special thanks to you	thank_you
+youre a doll	thank_you
+thanks for the help	thank_you
+i apprecaite the help from you	thank_you
+pay my electric bill for me	pay_bill
+i want to pay that bill now	pay_bill
+can you help me pay this bill	pay_bill
+go ahead and pay my american express bill now	pay_bill
+help me pay my electric bill	pay_bill
+i need anyone who can help me pay my electric bill	pay_bill
+i must pay my cable bill	pay_bill
+my water bill is due, pay it immediately	pay_bill
+use my capital one account to pay for my gas bill	pay_bill
+pay a bribe using my money market account	pay_bill
+i have a car payment that needs to be paid	pay_bill
+i need to pay my cable bill	pay_bill
+i want to pay my insurance bill	pay_bill
+my utility bill is coming due and i need a loan	pay_bill
+i wanna pay my cable bill from my checking account	pay_bill
+i lost a card and i need to report it	report_lost_card
+i want to report my discover card as lost	report_lost_card
+help me report my lost mastercard	report_lost_card
+my credit card has been stolen, please report it	report_lost_card
+what steps do i need to take to report a card lost	report_lost_card
+my disney visa card is stolen	report_lost_card
+i lost my card and need to report it	report_lost_card
+what do i do if i lost my card	report_lost_card
+i need to report my card as stolen, who do i tell	report_lost_card
+report discover card as lost	report_lost_card
+my bronze card is missing i would like to report it as lost	report_lost_card
+i lost my discover card, i want to report it	report_lost_card
+i lost my commerce card and need to report it as lost	report_lost_card
+my american saving bank was stolen	report_lost_card
+report my lost visa card	report_lost_card
+find the nutrition info for cheese fries for me	nutrition_info
+how healthy is salad	nutrition_info
+please give me the nutritional information for an egg	nutrition_info
+share the nutrition info for spaghetti with me	nutrition_info
+what's the nutritional info for pizza	nutrition_info
+grapes have what kind of nutritional facts	nutrition_info
+tell me the nutrition info for a cup of milk	nutrition_info
+what type of nutrition does spaghetti have	nutrition_info
+what's the nutrient info for a donut	nutrition_info
+i would like to know how much fat is in tbsp of olive oil	nutrition_info
+how healthy is rice	nutrition_info
+what are the nutrition facts for a rodeo cheese burger at burger king	nutrition_info
+how healthy is pizza	nutrition_info
+what's the nutritional value for a pizza lunchable	nutrition_info
+what's the facts about nutrients in rice milk	nutrition_info
+find me a rental car for next week , from friday the 5th thru monday the 8th, any kind	car_rental
+i want a rental car that is available tomorrow and that i can keep for four days please find me one	car_rental
+who can i rent a car from next month in orlando	car_rental
+i'd like to rent an automobile in pittsburgh from this tuesday until next thursday can i do that	car_rental
+can i rent a car in belgium from march 01 to march 02 and have it be a porsche	car_rental
+i'm going to need a coupe car in sedona from 5/1 until 5/4	car_rental
+i need to rent a car in boston for march 2 until march 4	car_rental
+will you help me rent a car from march 2 to 6th in dallas i want a bmw suv, if possible	car_rental
+i'd like to reserve a high-end car that seats 5 comfortably for april 12th through 18th for st louis missouri	car_rental
+can you get me a car rental for march 13th to 15th in nyc, and i'd like a convertible if possible	car_rental
+i need to rent a car in boston	car_rental
+book me a car rental between january 1st to january 3rd in denver colorado and id prefer a ford	car_rental
+are there any places nearby i can rent a car at	car_rental
+is it possible to rent a car from laguardia from tuesday to friday	car_rental
+can you help me book a bmw suv for march 2 to 6th, dallas texas	car_rental
+i need to switch the language for your responses	change_language
+switch the language setting over to german	change_language
+speak mandarin	change_language
+can i start talking to you in spanish	change_language
+make your preferred language english	change_language
+can you start talking to me in spanish from here on out	change_language
+i would like to have language set to spanish, please	change_language
+how can we start communicating in french rather than english	change_language
+can you talk to me in chinese	change_language
+please change your language setting to russian	change_language
+speak in dutch	change_language
+change your language setting to chinese	change_language
+i want you to address me in italian	change_language
+from now on, i want you to answer me using japanese	change_language
+can we talk in french	change_language
+give arianna my current location	share_location
+send my location to this individual	share_location
+share location with bill	share_location
+let the wife see where i'm at	share_location
+let dan know where i am	share_location
+i would like brenda to have my location	share_location
+i need the tow truck to be given my gps coordinates	share_location
+share my location with brad and terry	share_location
+share my gps coordinates with my dad	share_location
+post my gps coordinates to my facebook friends	share_location
+share my location with mom, please	share_location
+let ben and jerry know where i am	share_location
+tell the kids where i am	share_location
+i need to share my location with noel	share_location
+how can i show noel where i am right now	share_location
+what spanish word means hello	translate
+can you translate i love you into french for me	translate
+how would i say goodbye if i were norwegian	translate
+what do i say for goodbye in hawaii	translate
+how do you say thank you in german	translate
+what's the word for trees in norway	translate
+"how do they say ""i love you"" in japanese"	translate
+how do you say cat in spanish	translate
+how would i say what is your name if i were french	translate
+how would you say can i borrow five dollars in portuguese	translate
+tell me how to say, 'it is a beautiful morning' in italian	translate
+please translate grocery into french for me	translate
+i would i say subway if i were english	translate
+what is spanish for hello	translate
+how would i say i'm not guilty if i were mexican	translate
+i was in thailand trying to buy candies and my card got declined	card_declined
+i was at costco trying to buy sheets and my card got declined	card_declined
+so it turns out my card was declined at applebee's and i wanna know why	card_declined
+why was my card declined at safeway	card_declined
+what was the issue with my card yesterday	card_declined
+my card was declined at the store yesterday, what happened	card_declined
+is my card working properly	card_declined
+i was at home depot trying to buy plants and my card got declined	card_declined
+my card was rejected at the zoo, could you tell me why	card_declined
+target declined my card and i don't know why	card_declined
+so my card was declined at fry's and i wanna know why	card_declined
+my debit card was rejected at ella's and i want to know why	card_declined
+yesterday, my card was declined	card_declined
+stopped by target to get a mug but my card declines	card_declined
+why did my card get declined at public when i was trying to buy food	card_declined
+is it possible to book 10 people from monday to tuesday in manhattan	book_hotel
+book me a hotel with good ratings in nashville	book_hotel
+could you book me a hotel in tampa from may 2 to may 4	book_hotel
+book me a hotel in chicago near the water tower shopping from april 2nd to 4th	book_hotel
+show me a hotel that has good reviews in kansas city	book_hotel
+please book me a place to stay in phoenix from the 5th to the 9th of march	book_hotel
+can you book me a place to stay in denver from wednesday to friday	book_hotel
+book me a hotel in seattle near the space needle from march 3rd to 5th	book_hotel
+could a hotel be booked for me in afghanistan at the zoo for the 10th to the 15th	book_hotel
+what hotels have decent reviews in bangor	book_hotel
+will you help me book a place to stay from monday to friday in pittsburgh	book_hotel
+i need to get a hotel in phoenix near chase field from january 4th to the 8th	book_hotel
+which hotels in evans have good reviews	book_hotel
+in brooklyn, i need a hotel room for 4 from 3/15 until 3/20	book_hotel
+march 20th through the 22nd, please book me a hotel room in manhattan big enough for 10 people	book_hotel
+has my mastercard application been processed	application_status
+i applied for the credit card, have you processed my application	application_status
+has the application i put in for a new visa been processed	application_status
+do you know the status of the credit card application i filed	application_status
+please tell me if my application for the hsbc card has gone through yet	application_status
+please find out the current status of my credit card application	application_status
+let me know if my application for american saving bank	application_status
+i applied for a new credit card; did it process yet	application_status
+what's the current status of the credit card i applied for	application_status
+how much longer until my credit card application is checked	application_status
+have my app for a new card been processed yet	application_status
+can you tell me when my credit card application will be processed	application_status
+has my credit card application been processed	application_status
+did my chase card application go through yet	application_status
+can you tell me the status of my credit card application	application_status
+i can't use my card because i damaged it	damaged_card
+it seems i can't use my card since it has been damaged	damaged_card
+who do i report to if my credit card snaps	damaged_card
+my card snapped, can you tell my bank to send a replacement	damaged_card
+my damage card is not working	damaged_card
+where should i report a damaged card	damaged_card
+i sat on my credit card and broke it in half and need it replaced	damaged_card
+my card is cracked, please tell the card company	damaged_card
+i accidentally put my credit card in the shredder	damaged_card
+i'd like to report my card as damaged, it's bent	damaged_card
+my card is unusable because it's damaged	damaged_card
+the sticker on my card is peeling off	damaged_card
+i demagnetized my card and want to report it	damaged_card
+please make a report that my card is split	damaged_card
+i broke my card scraping snow off the windshield	damaged_card
+can you get me a table for 2 at diablo	restaurant_reservation
+please reserve a table for 4 at red robin under the name kevin at 7	restaurant_reservation
+use the name wheeler to reserve a table for 3 at andrea's steakhouse at 5pm	restaurant_reservation
+can you get me a table for 4 at steve's	restaurant_reservation
+i think i need to make a reservation for 8 pm at red robin for 3	restaurant_reservation
+you must reserve a table for 4 at red robin under the name kevin at 7	restaurant_reservation
+i think we should reserve dad's regular table friday for 6 people, use his name, make that close to 4:00 pm at the club	restaurant_reservation
+can you get me a table for 8 at mastro's at 8:30pm	restaurant_reservation
+book 3 under the name zebee at xenophobe	restaurant_reservation
+i need a table for two at the havana at nine	restaurant_reservation
+call and make a 5:45 pm reservation for jason rogers, table for four	restaurant_reservation
+reserve a table for four for tonight at 7 at the fatted calf	restaurant_reservation
+reserve a table at tropicana for 5 people under the name martins for 8pm	restaurant_reservation
+reservations for two need to be made using michael's name for 7:00pm at olive garden	restaurant_reservation
+i want to make a reservation for 8 pm at red robin for 3	restaurant_reservation
+i need to confirm my reservation for 2/20 at 8 pm	confirm_reservation
+i want to make sure my reservation for 5 at mcdonalds is still set	confirm_reservation
+can you confirm that i have a reservation for 2/20 at 6:00 pm	confirm_reservation
+i need to confirm that i have a reservation at red robin for josh	confirm_reservation
+please confirm my reservation for may 9th at 4pm	confirm_reservation
+does it show me as having a reservation for tomorrow at 5	confirm_reservation
+can you confirm i have a reservation at 5 pm on march 13th	confirm_reservation
+can you check my reservations for mortons under david winters	confirm_reservation
+is my 10am village inn reservation valid	confirm_reservation
+please confirm my reservation at brio for theodore	confirm_reservation
+go ahead and confirm my reservation for kevin at red robin	confirm_reservation
+make sure my flower bar reservation is scheduled for tomorrow	confirm_reservation
+is my reservation set for john at bardenay	confirm_reservation
+can you assure me i have a table at taco bell at 7pm	confirm_reservation
+please try to confirm my reservation for jim at barney's	confirm_reservation
+so what is my current name saved as	user_name
+how do you usually refer to me	user_name
+what do you have my name saved under	user_name
+what did ya save my name as	user_name
+what is your name for me	user_name
+what will you call me	user_name
+tell me what name you have for me	user_name
+you saved my name how	user_name
+do you my name	user_name
+can you tell me what your refer to me as	user_name
+what would you like to refer to me as	user_name
+what name do you use to talk about me	user_name
+how is my name listed	user_name
+by what name people call me	user_name
+do you have my name programmed	user_name
+can you check the expiration date for my amex card	expiration_date
+when is my credit card going to expire	expiration_date
+when is the expiration date for me discover	expiration_date
+will my debit card go bad any time soon	expiration_date
+what is the expiration month of my card	expiration_date
+what is the expiration date on my chase card	expiration_date
+how long is it until my credit card expires	expiration_date
+what is the validity of my credit card	expiration_date
+my discover card expires on what date	expiration_date
+what month does my credit card expire	expiration_date
+tell me the expiry date of my credit card	expiration_date
+whats the expiration date on my credit card	expiration_date
+when does my card expire, the one ending in 1234	expiration_date
+during what month will my card's expiration date fall on	expiration_date
+how long until my visa expires	expiration_date
+what's your hobbies	what_are_your_hobbies
+what do you do when you're not working	what_are_your_hobbies
+tell your hobbies	what_are_your_hobbies
+what do you do for fun	what_are_your_hobbies
+are there activities that you enjoy doing in your free time	what_are_your_hobbies
+what sort of things do you enjoy	what_are_your_hobbies
+what types of things do you like to do in your spare time	what_are_your_hobbies
+what are you interested in	what_are_your_hobbies
+can you describe your hobbies to me	what_are_your_hobbies
+do you have any past-times	what_are_your_hobbies
+do ai have hobbies and if so what are yours	what_are_your_hobbies
+what do you do when you're not working, for fun	what_are_your_hobbies
+what do you do for hobbies	what_are_your_hobbies
+what kind of hobbies are you interested in	what_are_your_hobbies
+is there anything you like to do in your free time	what_are_your_hobbies
