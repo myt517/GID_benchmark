@@ -6,7 +6,7 @@ import pytorch_lightning as pl
 from pl_bolts.optimizers.lr_scheduler import LinearWarmupCosineAnnealingLR
 from pytorch_lightning.metrics import Accuracy
 
-from utils.data import get_datamodule
+from utils.data_v2 import get_datamodule
 from utils.nets import MultiHeadBERT
 from utils.callbacks import PretrainCheckpointCallback
 
@@ -23,8 +23,9 @@ from analysis import *
 parser = ArgumentParser()
 parser.add_argument("--dataset", default="banking", type=str, help="dataset")
 parser.add_argument("--data_dir", default="dataset/banking", type=str, help="data directory")
+parser.add_argument("--OOD_ratio", default=1.0, type=float, help="softmax temperature")
 parser.add_argument("--log_dir", default="logs", type=str, help="log directory")
-parser.add_argument("--checkpoint_dir", default="checkpoints_v1", type=str, help="checkpoint dir")
+parser.add_argument("--checkpoint_dir", default="pretrain_checkpoints_v2", type=str, help="checkpoint dir")
 parser.add_argument("--batch_size", default=256, type=int, help="batch size")
 parser.add_argument("--num_workers", default=5, type=int, help="number of workers")
 parser.add_argument("--arch", default="bert-base-uncased", type=str, help="backbone architecture")
@@ -304,7 +305,7 @@ def save_results(args, test_results):
     keys = list(results.keys())
     values = list(results.values())
 
-    file_name = 'results_check_v1.csv'
+    file_name = 'results_check_v3.csv'
     results_path = os.path.join(args.save_results_path, file_name)
 
     if not os.path.exists(results_path):
@@ -328,5 +329,5 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     #main(args)
-    #test(args)
-    analysis(args)
+    test(args)
+    #(args)

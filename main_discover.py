@@ -6,7 +6,7 @@ from pl_bolts.optimizers.lr_scheduler import LinearWarmupCosineAnnealingLR
 from pytorch_lightning.metrics import Accuracy,F1
 from pytorch_lightning.callbacks import EarlyStopping, ModelCheckpoint
 
-from utils.data import get_datamodule
+from utils.data_v2 import get_datamodule
 from utils.nets import MultiHeadBERT
 from utils.eval import ClusterMetrics, classifyMetrics
 from utils.sinkhorn_knopp import SinkhornKnopp
@@ -23,6 +23,7 @@ import pandas as pd
 parser = ArgumentParser()
 parser.add_argument("--dataset", default="banking", type=str, help="dataset")
 parser.add_argument("--data_dir", default="dataset/banking", type=str, help="data directory")
+parser.add_argument("--OOD_ratio", default=1.0, type=float, help="softmax temperature")
 parser.add_argument("--log_dir", default="logs", type=str, help="log directory")
 parser.add_argument("--batch_size", default=256, type=int, help="batch size")
 parser.add_argument("--num_workers", default=10, type=int, help="number of workers")
@@ -401,7 +402,7 @@ def save_results(args, test_results):
     keys = list(results.keys())
     values = list(results.values())
 
-    file_name = 'results_GID_v1.csv'
+    file_name = 'results_GID_v3.csv'
     results_path = os.path.join(args.save_results_path, file_name)
 
     if not os.path.exists(results_path):
@@ -426,7 +427,7 @@ def main(args):
     os.environ["CUDA_VISIBLE_DEVICES"] = "0"
     dm = get_datamodule(args, "discover")
 
-    root_path = "GID_checkpoints/GID_SD_" + args.comment + "_seed" + str(10)
+    root_path = "GID_checkpoints/" + args.dataset + "-" + args.comment + "_split_v" + str(3)
     print(root_path)
 
     checkpoint_callback = ModelCheckpoint(monitor='val_acc', mode='max',
