@@ -1,0 +1,1351 @@
+text	label
+does tartine in san francisco take reservations	accept_reservations
+do you know if benihana does reservations	accept_reservations
+does the steakhouse on main st take reservations	accept_reservations
+does long horns do reservations	accept_reservations
+can you tell me if zeus does reservations	accept_reservations
+i need to know if capones does reservations in trenton	accept_reservations
+does burger king accept reservations	accept_reservations
+do they take reservations at bar tartine	accept_reservations
+will they take reservations at chillis	accept_reservations
+does the zen garden in la take reservations	accept_reservations
+can you make a reservation at michael's	accept_reservations
+does the new york restaurant take reservations	accept_reservations
+do you know if olive garden does reservations	accept_reservations
+let me know if grub burger takes reservations	accept_reservations
+is it possible to make a reservation at sushi king in virginia beach	accept_reservations
+what is the traffic like on the road to downtown dallas	traffic
+what is the traffic like on the way to town	traffic
+is traffic bad on the parkway	traffic
+what will traffic be like nearest the george washington bridge, new york	traffic
+what is the traffic like at the closest safeway grocery store	traffic
+i need ti know the traffic in tempe	traffic
+i have to know what the traffic typically like at 3:30 on the route to phoenix	traffic
+i must know what the traffic typically like at 3:30 on the route to phoenix	traffic
+how clogged are the streets before the stadium	traffic
+tell me the traffic in tempe	traffic
+what's the traffic like on the way to the amusement park	traffic
+give me an idea of traffic on the way to the doctors office at 6	traffic
+will i encounter traffic	traffic
+will there be heavy traffic near downtown philadelphia from lincoln drive in the next two hours	traffic
+is the traffic backed up at the closest circle k	traffic
+what do you think the meaning of life is	meaning_of_life
+whats your take on the meaning of life	meaning_of_life
+is there really an answer to the meaning of life	meaning_of_life
+tell the meaning of life	meaning_of_life
+i need you to tell me the meaning of life	meaning_of_life
+what's the answer to existence	meaning_of_life
+tell me what is the purpose of life	meaning_of_life
+would you let me know what is the point of life	meaning_of_life
+does life have a meaning, according to you	meaning_of_life
+what's life mean to you	meaning_of_life
+what's the point of sentience	meaning_of_life
+what is the meaning of my life	meaning_of_life
+what is life all about	meaning_of_life
+is there a greater purpose in life	meaning_of_life
+can you tell me about the meaning of life	meaning_of_life
+is the friday's full after 4	how_busy
+does ihop have a lot of business around 7 am	how_busy
+is the restaurant busy at lunchtime	how_busy
+is that restaurant crowded during dinner	how_busy
+find out how busy ihop usually is around 5 pm	how_busy
+do you know how long of a wait it will be	how_busy
+how long would i have to wait if i want to go to golden corral	how_busy
+what is the wait supposed to be at zippys	how_busy
+when will the restaurant be busiest	how_busy
+how busy do you expect olive garden to be at 6	how_busy
+how long to be seated at carrabas	how_busy
+i need to know about how much time i'd have to wait to get a table at dibruno's	how_busy
+how long does it take to get a table at chili's	how_busy
+how busy is zippy around 12 for lunch	how_busy
+how busy is imanas at 6	how_busy
+place an order for my entire shopping list	order
+order all of my shopping list	order
+go ahead and order everything on my shoping list	order
+send the order for my entire shopping list	order
+buy all the things on the shopping list	order
+can you order underpants for me	order
+i'm out of razors so will you order me some more	order
+order all items on my shopping list	order
+i am out of ice cream so will you order me some more	order
+i do not have cookies so will you order me some more	order
+i ran out of bread, order more	order
+i do not have pizza so will you order me some more	order
+go shopping and order everything on the list	order
+order dog food from walmart	order
+please go on amazon so i can buy bluetooth speakers	order
+tell my bank i'm in canada the entire week of the 6th to the 13th	travel_notification
+i will be in uruguay from january to august, please let me bank know	travel_notification
+contact bank and let them know about my travel plans	travel_notification
+tell my bank i am traveling out of country	travel_notification
+i am going out of country and need to inform my bank	travel_notification
+alert my bank and tell them that i will be in vermont	travel_notification
+let my bank know i will be on travel to fes	travel_notification
+my bank needs to know i am going to be out of the country	travel_notification
+i'm leaving for montreal tomorrow and need to let my bank know	travel_notification
+i'll be travelling to russia from april 1 through april 20 and need my financial institute apprised of it	travel_notification
+tell my bank that i'm travelling to france in 2 days	travel_notification
+please inform my bank i'll be vacationing in the bahamas in a couple of days	travel_notification
+i need to let my bank know i am visiting asia soon	travel_notification
+alert the bank that i am traveling to tokyo on the 7th until the 21st	travel_notification
+let my bank know i'm going to be in russia for a month	travel_notification
+will my 401k rollover or not	rollover_401k
+walk me through the process of transferring my 401k	rollover_401k
+how can i transfer my 401k	rollover_401k
+how do i transport my 401k	rollover_401k
+how can i roll over my 401k	rollover_401k
+i want to transfer my 401k	rollover_401k
+i need help with my 401k rollover because i just got a new job	rollover_401k
+who do i go to, to transfer my 401k	rollover_401k
+will you help me figure out how to transfer my 401k	rollover_401k
+assistance in rolling over my 401k	rollover_401k
+look up whether my 401k may be rolled over	rollover_401k
+explain to me how transferring my 401k works	rollover_401k
+i wanna transfer my 401k	rollover_401k
+i need to rollover my 401k	rollover_401k
+what are the ways i can transfer my 401k	rollover_401k
+do you know when my next electric bill is due	bill_due
+what day is the cable bill owed on	bill_due
+what date do i have to pay my bill	bill_due
+is my at&t bill do soon	bill_due
+i need the new due date for my pgw gas bill	bill_due
+when is the bill due	bill_due
+when do i have to pay my internet	bill_due
+how do i find when my medical bill is due	bill_due
+when is the electric bill due	bill_due
+what's the due date for spectrum's bill	bill_due
+what is the latest date that i can pay my direct tv bill this month	bill_due
+when is visa due	bill_due
+how do i find when my electric bill is due	bill_due
+i'd like to find the date that my gas bill is due	bill_due
+is the bill due today	bill_due
+lets do a coin toss	flip_coin
+flip me a coin	flip_coin
+flip a coin, i call tails	flip_coin
+flip a heads or tails coin i pick heads	flip_coin
+can you do a coin flip for me	flip_coin
+perform a coin flip	flip_coin
+go ahead and flip that coin, i am choosing heads here	flip_coin
+flip a coin and tell me if it's heads	flip_coin
+ai, please flip a coin	flip_coin
+i am choosing heads, now please flip that coin	flip_coin
+toss a coin i will take tails	flip_coin
+give me the results of a coin flip	flip_coin
+i want a coin flip	flip_coin
+please flip coin ai	flip_coin
+choose heads or tails and tell me what you came up with	flip_coin
+what organization created you	who_made_you
+who developed your internal code	who_made_you
+tell me who made you	who_made_you
+let me know who programmed you	who_made_you
+who did the programming on you	who_made_you
+what's the name of the company that designed you	who_made_you
+who was your creator	who_made_you
+who manufactured you	who_made_you
+give me an answer to who made you	who_made_you
+who was your programmer	who_made_you
+what company manufactured you	who_made_you
+who makes the ai	who_made_you
+what company coded you	who_made_you
+i would like to know who programmed this ai	who_made_you
+what company wrote your code	who_made_you
+i want you to change the ai name	change_ai_name
+i must change your name to amanda	change_ai_name
+change the ai name	change_ai_name
+i wanna change your name to audrey	change_ai_name
+can i start calling you dave	change_ai_name
+how do i change the name you came with to something else	change_ai_name
+i would like you to think of yourself as machine and answer when i say your name as such	change_ai_name
+i want your name to be samantha now	change_ai_name
+i want to start calling you marie	change_ai_name
+can i rename you bob	change_ai_name
+i want your name to be henry	change_ai_name
+i would like to start calling you heath	change_ai_name
+im going to call you xander	change_ai_name
+can you change your name to fred	change_ai_name
+can i change your name please	change_ai_name
+where can i locate my routing number for chase please	routing
+i need you to tell my what my routing number is for my first county account	routing
+could you tell me what my routing number from first republic is	routing
+what's wells fargo's routing number	routing
+what is the routing number for royal	routing
+i need to know what routing number i should use for ally	routing
+what's my pioneer routing number	routing
+i must know my bank of america routing number	routing
+can you help me find my routing number from wells fargo	routing
+what's my routing number	routing
+can you tell me the routing number for bank of america for domestic accounts	routing
+where would the routing number for first utah be located	routing
+is my routing number on my account page	routing
+can you tell me the routing number to pnc	routing
+where would century bank have their routing number listed	routing
+my card is impaired and i can't use it	damaged_card
+i can't use my damaged card	damaged_card
+i can not use my card since it is damaged	damaged_card
+i need to report a bent card	damaged_card
+my card split in half, how do i report it	damaged_card
+my dog ate my credit card and ruined it	damaged_card
+my credit card snapped in half while i was fiddling with it	damaged_card
+i broke my card when i bent my wallet	damaged_card
+my card was in my pocket and bent	damaged_card
+how can i get a new card that got melted in the sun	damaged_card
+my card got damaged and i need to report it, please	damaged_card
+i accidentally caught my card on fire	damaged_card
+what do i do with a damaged credit card	damaged_card
+my card split in half, can i report it	damaged_card
+how to report bent credit card	damaged_card
+was my application approved or not for a credit card at chase bank	application_status
+has the application for my american express been processed yet	application_status
+has there been any notice that my card app has been looked at	application_status
+can you check if my application for a discovery card has been looked over yet	application_status
+has my application for my visa card gone through	application_status
+did my american express card application go through yet	application_status
+i need to know the status of my credit card application	application_status
+can you check the status of my credit card application	application_status
+i need to know if the application been processed	application_status
+update me on the status of my credit card application	application_status
+has my credit card application been approved	application_status
+has visa gotten back to me regarding my card app	application_status
+can you find out the latest on my credit card application, i haven't heard an update in some time	application_status
+can you update me on the status of my american express card application	application_status
+has the application for my visa been processed	application_status
+how much did i spend on gas last week	spending_history
+have i been spending a lot on food lately	spending_history
+how much have i spent on bills recently	spending_history
+have i been spending a lot on shoes lately	spending_history
+what's the total amount i've spent eating out in the last two weeks	spending_history
+how much total have i spent on fast food lately	spending_history
+how much did i spend on lunches last week	spending_history
+have i been spending more money at restaurants	spending_history
+what are my finances like lately	spending_history
+what is the total amount i spent last week	spending_history
+about how much did i spend recently	spending_history
+did i spend too much dough on donuts last week	spending_history
+how much money did i use to spend on catering five hours ago	spending_history
+how much have i lately spent on eating out	spending_history
+i have been spending a lot on food out lately	spending_history
+roll an 8 sided dice	roll_dice
+go ahead and roll the 6 sided dice for me	roll_dice
+ai shake the dice in a cup, then throw dice on table	roll_dice
+roll 6 sided die	roll_dice
+roll the dice now	roll_dice
+what is the result when you roll a four sided die	roll_dice
+play vegas baby roll a dice for mama	roll_dice
+roll the 10 sided dice on time	roll_dice
+please roll the 10 sided dice	roll_dice
+roll a die	roll_dice
+can you roll dice	roll_dice
+can you roll a ten sided die and tell me the number	roll_dice
+could you roll the 8 sided dice	roll_dice
+roll a six sided die for me and tell me the result	roll_dice
+roll die	roll_dice
+please place this track on my driving mix	update_playlist
+god's plan will be added to my new playlist	update_playlist
+please add roar by katy perry to my playlist	update_playlist
+add this song to shared playlist	update_playlist
+please add the immigrant song by led zeppelin to my playlist	update_playlist
+put this in my workout playlist	update_playlist
+put this song on my edm playlist	update_playlist
+this song needs to be added to my country music playlist	update_playlist
+add ruby soho by rancid to my playlist	update_playlist
+i want the current song added to my pregame playlist	update_playlist
+can you add that to my chillwave playlist	update_playlist
+i want to put thank you on my playlist called relaxing jams	update_playlist
+include rap god on the motivational playlist	update_playlist
+my new playlist well be having god's plan adding to it	update_playlist
+add what's playing on my favorite playlist	update_playlist
+i need to know the name of my current location for the tow truck	current_location
+what's the location where i am	current_location
+can you tell me how to figure out my current location	current_location
+open map and pin point my location	current_location
+where am i located currently	current_location
+what are my coordinates	current_location
+pull up the map and show my location	current_location
+where am i right now, location wise	current_location
+my current location	current_location
+place a marker for me where i am on the map	current_location
+i'd like to know my current location	current_location
+tell me what to enter into my gps for my current location	current_location
+i need assistance with my current location	current_location
+i need to know what my gps coordinates are	current_location
+could you pull up my location on the map	current_location
+i wanna know where the w2 is	w2
+where do i go to get my w-2	w2
+where can i get the employment form i need to do my taxes, please	w2
+what location can i get a w2 from	w2
+where will i find my w-2	w2
+i would like to know where i can find my w2 for tax reasons	w2
+where can i find my tax form to report what i earn	w2
+i require my w2 for taxes and need to locate it	w2
+what is the form i need to report my earnings	w2
+where can i locate a form for my w2	w2
+provide me assistance on where to go to get my w2 for tax reasons	w2
+where can i get my w2 from	w2
+locate my w-2 form	w2
+where would i find my w-2	w2
+a w2 form can be gotten from where	w2
+when was the car last services	last_maintenance
+what day did i last take my car to the shop	last_maintenance
+how long has it been since my car was looked at	last_maintenance
+i'd like to know the last time my car got looked at	last_maintenance
+what was the date when my car was in the shop	last_maintenance
+remind me of the last date that i got my car checked	last_maintenance
+give me the date of my last oil change	last_maintenance
+look up the date of my last oil change	last_maintenance
+when was my last visit to the car shop	last_maintenance
+when was my last maintenance on my car in the shop	last_maintenance
+i need to know when i last took my car in for a check up	last_maintenance
+was my car in the shop this past week	last_maintenance
+when did i most recently have my car in the shop	last_maintenance
+when was the last time i took my car in	last_maintenance
+how long's it been since i had my car serviced	last_maintenance
+can you tell me denver's timezone	timezone
+what's london's timezone	timezone
+las vegas is in what timezone	timezone
+what timezone is boston in	timezone
+i need la's time zone	timezone
+does denver reside in the eastern timezones	timezone
+what time is it in phoenix	timezone
+reno's timezone is what	timezone
+what timezone is japan in	timezone
+i would like to know the timezone for britain	timezone
+can you tell my what france's timezone is	timezone
+if i am in reno, what would the timezone be	timezone
+what timezone is milan in	timezone
+give me the timezone where vancouver is	timezone
+what's the timezone for london	timezone
+do you like cat or dogs	do_you_have_pets
+would you call yourself a cat or dog person	do_you_have_pets
+what are the pets you have	do_you_have_pets
+what are the pet types you own	do_you_have_pets
+do you own any animals	do_you_have_pets
+how would you explain the pets you own	do_you_have_pets
+tell me about your pets	do_you_have_pets
+on pets, what kind do you have	do_you_have_pets
+do you have cats or dogs or something else as a pet	do_you_have_pets
+can you tell me if you have any pets	do_you_have_pets
+can you tell me about the pets you have	do_you_have_pets
+what pets do you currently own	do_you_have_pets
+what type of pet is in your home	do_you_have_pets
+would you say you like dogs more or cats more	do_you_have_pets
+you have what types or kinds of pets	do_you_have_pets
+what's the title of this	what_song
+whats the title of this song	what_song
+find out what this song is	what_song
+what's the song currently playing	what_song
+which song is playing	what_song
+whats the title of this	what_song
+tell me this songs name	what_song
+can you name the song on the speakers	what_song
+can you look up the name of this song	what_song
+do you know what this song is	what_song
+what's the name of the song playing right now	what_song
+what song is this one	what_song
+what is the current song	what_song
+can you tell me the song we are listening to	what_song
+can you tell me what song this is	what_song
+what interest rate is us bank giving me on my acount	interest_rate
+is there somewhere my personal loan displays the interest rate i'm paying on it	interest_rate
+what interest rate am i getting from wells fargo	interest_rate
+could you help me find the interest on my chase account	interest_rate
+tell me what the interest rate is on my personal loan through chase	interest_rate
+what amount of interest does my checking account earn	interest_rate
+x has given me an interest rate, what is it	interest_rate
+how much interest am i getting on my savings	interest_rate
+let me know my ally interest rate	interest_rate
+can you tell me what my interest rate from first federal is	interest_rate
+what's my interest rate	interest_rate
+find my interest rate	interest_rate
+can you tell me my current interest rate	interest_rate
+what interest rate am i getting from sunflower bank	interest_rate
+can i get the interest rate for my checking account	interest_rate
+how many calories are found in bagels	calories
+how many calories are in a piece of bacon	calories
+what's the expected calorie load of a peanut butter and jelly sandwich	calories
+what is the calorie count in a cookie	calories
+what is the calorie content in peanut butter	calories
+tell me the calorie content for an apple	calories
+what is the caloric value of a cookie	calories
+how many calories can i expect to be in fries	calories
+can you tell me the number of calories in one serving of whole cashews	calories
+what's the number of calories in a coke	calories
+how many calories does a kitkat have	calories
+do cheetos have a lot of calories	calories
+how many calories does a scoop of chocolate ice cream contain	calories
+how many calories are in chocolate ice cream	calories
+what's the caloric content of an apple	calories
+i want you to add cleaning the toilet to my to do list	todo_list_update
+add clean the bathroom to my task list	todo_list_update
+please delete my todo list	todo_list_update
+please put lawn mowing on my list of to dos	todo_list_update
+i need to do laundry later today	todo_list_update
+add change filters to my to do list	todo_list_update
+i'm finished with my to do list	todo_list_update
+i no longer need to wash dishes; take it of my list	todo_list_update
+i don't want to do anything today so just clear the todo list	todo_list_update
+can you please add take out recycling on my list of chores to complete	todo_list_update
+go ahead and take cleaning the bathroom off my todo list	todo_list_update
+can you delete my todo list please	todo_list_update
+please add cleaning on my list to do	todo_list_update
+can you delete lunch with david from my to do list	todo_list_update
+will you put change the light bulbs on my list of things to do	todo_list_update
+how can i make chicken pot pie	recipe
+find a good recipe for meatloaf	recipe
+how do you make blue cheese dressing	recipe
+how do you create pork chili	recipe
+can you get me recipes for eggs please	recipe
+what do i need to do to make blackberry pie	recipe
+i need to know how to make philly cheesesteaks	recipe
+i need a recipe for chicken cordon bleu	recipe
+i would like you to help me find a chow mein recipe	recipe
+give me a tuna salad recipe	recipe
+how do you make dumplings	recipe
+how do i make chicken alfredo	recipe
+where is a beef recipe	recipe
+what do i need to do to cook a chicken	recipe
+you know procedure to cook apple pie	recipe
+find a hotel with great reviews in san francisco	book_hotel
+is it possible for a hotel to be booked by you for me in afghanistan at the zoo for the 10th to the 15th	book_hotel
+please help me book a place to stay in pittsburgh from monday to friday	book_hotel
+get me a room in cali on november 11 to 15	book_hotel
+i want to book a hotel room for 10 people from monday to tuesday in manhattan	book_hotel
+book me a room on november 11 to 15 in cali	book_hotel
+i'd like to find a hotel in tampa that people liked enough to leave good reviews about	book_hotel
+i want to book a hotel in tampa from may 2 to may 4	book_hotel
+please book me a room in austin from tomorrow to the 2nd	book_hotel
+i'm going to need a hotel room for 8 people in tallahassee from 3/10 until 3/12	book_hotel
+help me find a hotel in that has good reviews in columbus	book_hotel
+can you find me a good reviewed hotel in japan	book_hotel
+help me find a good reviews hotel in la	book_hotel
+can you find me a hotel in columbus with good reviews	book_hotel
+show me all hotels in evans with good reviews	book_hotel
+what day am i off next	next_holiday
+give me the info of when our next day off is	next_holiday
+tell me when my next day off is	next_holiday
+what and when is the next holiday	next_holiday
+do you know the date of my next day off	next_holiday
+i want to know when is the next holiday	next_holiday
+is there a holiday this month	next_holiday
+for the holidays when is the next one we do here	next_holiday
+tell me when i will next have the day off	next_holiday
+do you know when our next day off is	next_holiday
+how many days until i am off	next_holiday
+how long before the next holiday here	next_holiday
+whats the next day that i am off	next_holiday
+when can i expect the next holiday here	next_holiday
+when will our next day off be	next_holiday
+i gotta change my pin number for my debit account	pin_change
+i need to know the pin number to my card	pin_change
+i'd like to change my pin number for my savings account	pin_change
+i want the pin on my wells fargo account to be changed	pin_change
+i would like to change the pin on my checking account	pin_change
+i'm having trouble remembering the pin number to my card	pin_change
+i cannot remember what my pin is for my bank of america checking account this moment	pin_change
+i want my savings account pin to be 1234 from now on	pin_change
+switch the pin on my chase account	pin_change
+access my checking account and update my pin to 1234	pin_change
+i would like to change the name on my credit card account	pin_change
+change my amex account pin to 1234	pin_change
+i need to know the pin number	pin_change
+help me change my pin number	pin_change
+i would like to change my pin number for my chase account	pin_change
+turns out i made a fraudulent transaction	report_fraud
+report fraudulent activity on my credit card now	report_fraud
+"""disable my card account and contact company to report fraudulent activty"	report_fraud
+my account is showing a charge to venmo that i did not make	report_fraud
+i'm pretty sure this charge from sam's club is fraudulent	report_fraud
+there seems to be fraudulent activity	report_fraud
+i have a bs transaction from ebay on my account	report_fraud
+there's a shady charge from comcast on my account	report_fraud
+i spotted a fraudulent transaction from microsoft on my account	report_fraud
+i may have had fraud committed on my account	report_fraud
+i'm pretty sure i have a fraudulent transaction on my account	report_fraud
+i'm pretty sure this charge is fraudulent	report_fraud
+i think someone stole my card and used it	report_fraud
+i believe that there is some fraudulent activity on my capital one account	report_fraud
+i have to report fraudulent activity on my bank of the west card	report_fraud
+where is my delivery order	order_status
+i need to know what the most recent update is on the status of my online purchase	order_status
+i submitted my order is there any updates on it yet	order_status
+track my package	order_status
+did my order ship	order_status
+are you able to track my package	order_status
+when will my order be delivered	order_status
+do you know where my package is	order_status
+tell me all updates about my order's status	order_status
+can you update me on my last amazon orders	order_status
+what is the status of my purchase	order_status
+track the status of my purchase	order_status
+check order number	order_status
+do you know anything about the status of my order	order_status
+give me the status of my order	order_status
+i say negative	no
+that's not true	no
+no, that is invalid	no
+that is not true	no
+nope	no
+what you just said is false	no
+that's not right it's false	no
+that is actually false	no
+that would be a no	no
+no, definitely not	no
+please, no	no
+it is no	no
+no way	no
+no, you are wrong	no
+that's inaccurate	no
+i would like to know more about getting a new credit card	new_card
+what's the procedure to apply for a new credit card	new_card
+i would like to get a new credt card	new_card
+does bank of america give credit cards to people like me	new_card
+i need to know how to apply for a mastercard	new_card
+help me apply for a visa card	new_card
+how does one apply for a master card	new_card
+i would like to apply for a bank of america travel rewards credit card	new_card
+hey what do i do to apply for a visa card	new_card
+what do i need to do to apply for a visa card	new_card
+what is the process to apply for a visa card	new_card
+help me apply for an american express card	new_card
+how do i go about applying for a new credit card	new_card
+i want to submit an application for a barclay's card	new_card
+i wanna apply for a bank of america travel rewards credit card	new_card
+check: car gas mileage	mpg
+tell me my car's gas mileage please	mpg
+how many miles per gallon do i get	mpg
+how many mpg does this rig get when i'm in the city	mpg
+my mpg is how much	mpg
+what kind of miles per gallon do i get while driving through a city	mpg
+what is the highway mpg on this car like	mpg
+what gas mileage does my car get	mpg
+what mpg does my car get	mpg
+how many mpgs does this car get on the highway	mpg
+please tell me what the mpg is for this car	mpg
+how many mpg does this get on the highway	mpg
+i need to know my cars mpg	mpg
+how's my gas mileage in citys	mpg
+how many miles per gallon does my car get	mpg
+put a tire inspection on my schedule please	schedule_maintenance
+should i take my car to a maintenance	schedule_maintenance
+i need to get my oil change so make an appointment	schedule_maintenance
+schedule me an appointment to get my tires checked out	schedule_maintenance
+i want to schedule somewhere get my tires checked out	schedule_maintenance
+i need an appointment to get my oil changed	schedule_maintenance
+i need to schedule some car maintenance	schedule_maintenance
+can you please make an appointment for me to get my tires checked out	schedule_maintenance
+where can i go to have my tires checked out	schedule_maintenance
+can you schedule me a mechanic	schedule_maintenance
+make a reminder to schedule a tire check	schedule_maintenance
+can you see if i can make an appointment to have my oil changed	schedule_maintenance
+set an appointment for an oil change	schedule_maintenance
+i require a car maintenance	schedule_maintenance
+i got to schedule some car maintenance	schedule_maintenance
+by what nym do you think of me	user_name
+what do you have for my name	user_name
+so what name do you have for me	user_name
+can you tell me my name	user_name
+say my name	user_name
+what do i go by	user_name
+do you have a name for me	user_name
+what name do you use when addressing me	user_name
+are you able to call me by my name	user_name
+would you tell me what names you have for me	user_name
+what am i known as to you	user_name
+what is my name saved as	user_name
+what is the name that you have for me, please	user_name
+what is the name you have for me	user_name
+tell me what you think my name is	user_name
+do i have anything scheduled on my calendar for next tuesday	calendar
+let me know what is showing on my calendar for the 17th of march	calendar
+have i gotten around to adding the bike ride to my calendar yet	calendar
+check my calendar for march 4th 2019, please	calendar
+what's on my calendar on march 10th	calendar
+read my calendar for march 7th	calendar
+is my calendar free next sunday	calendar
+tell what is showing on my calendar for the 17th of march	calendar
+did i mark the mechanic's appointment on my calendar	calendar
+does my calendar show anything for thursday the 14th	calendar
+do i have plans on 12/03/2019	calendar
+on the 26th what is on the table for my calendar	calendar
+check my calendar for me, please	calendar
+is bowling on my calendar	calendar
+do i have any calendar entries for march 8th	calendar
+assist me in getting a car rental	car_rental
+help me find a car to rent	car_rental
+i want to reserve a convertible from july 2nd through july 18th for los angeles	car_rental
+please book a car for me in ho chi minh	car_rental
+can you show me how to book a car rental in manitowoc	car_rental
+find me a rental car from 3/6 - 3/9 in port charles	car_rental
+will car rentals be available in boston from march 2 to march 4	car_rental
+please check if i can do a car rental from charlotte douglas airport from monday to wednesday	car_rental
+in aiken, get me a rental for may 12 to may 16	car_rental
+help me get a rental car	car_rental
+book me a car rental in nashville	car_rental
+i must procure a car rental for the 10th to the 15th in zimbabwe and i would prefer a bmw	car_rental
+i want to travel to new york and i would like to rent a car	car_rental
+contact avis and see if they have cars available	car_rental
+could i rent a car out of dallas from april 1-10	car_rental
+get me my slow sounds	play_music
+start playing my black metal playlist	play_music
+play the song god's plan	play_music
+let me hear the song sympathy for the devil	play_music
+"can you play the song that goes like, ""starships were meant to fly"	play_music
+can i hear my smooth jazz playlist	play_music
+can you play the song amazing grace and it goes like this, amazing grace how sweet the sound	play_music
+i want to play my maroon 5 playlist	play_music
+play the song called tiny dancer	play_music
+pull up the songs under slow	play_music
+play help! by the beatles	play_music
+"will you play the song that goes like, ""starships were meant to fly"	play_music
+i am in the mood to listen to mack the knife	play_music
+play the song called wreckless love	play_music
+is it okay to listen to elvis' music	play_music
+if my credit card was stolen, how long will it take to replace	replacement_card_duration
+time to replace my credit card	replacement_card_duration
+how long does it take to replace a stolen credit card	replacement_card_duration
+can my debit card be replaced quickly	replacement_card_duration
+can you call the help desk line for my credit card company	replacement_card_duration
+mailing a new card to me takes how long	replacement_card_duration
+is my replacement card due to arrive in the mail today	replacement_card_duration
+when will my card come	replacement_card_duration
+how long will it be for me to get a new card	replacement_card_duration
+how long does it take to get a replacement card	replacement_card_duration
+how long until the credit card company replaces my lost card	replacement_card_duration
+how much longer before the card is mailed to me	replacement_card_duration
+will it take more than a month to get a new card	replacement_card_duration
+when should i expect my replacement card	replacement_card_duration
+how long should i expect to wait for my new card in the mail	replacement_card_duration
+i need to set up a direct deposit	direct_deposit
+how do i set up my direct deposit	direct_deposit
+how does one go about setting up direct deposit	direct_deposit
+how can i turn on direct deposit	direct_deposit
+how to set up direct deposit for paychecks	direct_deposit
+what's the procedure to get direct deposit for my paycheck	direct_deposit
+how do i get paychecks put directly in my sunflower savings account	direct_deposit
+how do i set up direct deposit for my old national account	direct_deposit
+set up a direct deposit	direct_deposit
+what is the process of setting up direct deposit	direct_deposit
+how do i get my paycheck into direct deposit at nations bank	direct_deposit
+what are the steps to direct deposit my check	direct_deposit
+how do i set up direct deposit to my chase account	direct_deposit
+help setting up direct deposit	direct_deposit
+what do i need to do to start direct deposit	direct_deposit
+what kind of hobbies does the ai have	what_are_your_hobbies
+what do you do after work	what_are_your_hobbies
+if you have hobbies tell me some of them	what_are_your_hobbies
+what are ai's hobbies	what_are_your_hobbies
+what sort of hobbies are you into	what_are_your_hobbies
+any hobbies you like to do	what_are_your_hobbies
+what are your hobbies exactly	what_are_your_hobbies
+so what do you do at free time	what_are_your_hobbies
+what kinds of things do you do for hobbies	what_are_your_hobbies
+what sorts of things do you do for fun	what_are_your_hobbies
+i like to paint in my free time-do you have any hobbies like that	what_are_your_hobbies
+what hobbies do you have alexa	what_are_your_hobbies
+what do you do in your down time	what_are_your_hobbies
+what sorts of things do you do to have a good time	what_are_your_hobbies
+what hobbies do you like	what_are_your_hobbies
+do you know when the best time for me to change my tires next would be	tire_change
+tell when should i get my tires changed next	tire_change
+would i need new tires if my last purchase was in may of 2018	tire_change
+how soon till i need to change my tires	tire_change
+when would it be wise for me to swap out my tires	tire_change
+tell me when to get my tires changed	tire_change
+when would be a wise time to replace my tires	tire_change
+is there a time when i should get my tires changed	tire_change
+i replaced my tires last year when should i replace my tires again	tire_change
+i purchased new tires yesterday, should i buy new ones	tire_change
+tell me when i'll need new tires	tire_change
+when should i get my tires changed again	tire_change
+are my tires due to be changed	tire_change
+at what point will i need to change my tires	tire_change
+how many more miles can i drive before changing my tires	tire_change
+i need to tell you about my lost card	report_lost_card
+i need to report my stolen card	report_lost_card
+my capital one credit card was stolen	report_lost_card
+someone stole my discover card	report_lost_card
+my card is lost how do i report it	report_lost_card
+i think my card is stolen and needs to be reported	report_lost_card
+how do i report a lost discover credit card	report_lost_card
+i lost my amex and need to report it	report_lost_card
+how can i report a card that has been lost	report_lost_card
+how do i report that i actually lost my card	report_lost_card
+someone stole my discover credit card	report_lost_card
+i want you to repord my card as lost	report_lost_card
+i lost my card, what do i do	report_lost_card
+my stolen card needs to be reported	report_lost_card
+i need to report a card that's been lost but i dont know how	report_lost_card
+what are the recommended shots to get before i travel to south korea	vaccines
+are more shots needed to travel to argentina	vaccines
+if i travel here, do i need vaccinations	vaccines
+what shots do i need to get in order to travel to khartoum	vaccines
+which vaccines will i need for cuba	vaccines
+are there any required shots in indonesia	vaccines
+are shots required before traveling to china	vaccines
+do i need a vaccine for the congo	vaccines
+please tell me what shots i am required to get to travel to india	vaccines
+do i need a vaccination for spain	vaccines
+do i need vaccinations to travel overseas	vaccines
+if you were traveling to indonesia, as i am, would you have your shots updated before your visit	vaccines
+what shots are recommended before traveling to kenya	vaccines
+will i need immunization for a trip to turkey	vaccines
+if i am going to the uk are any specific shots needed	vaccines
+what is the minimum i can pay for my electric bill	min_payment
+i want you to tell me the minimum i can pay on my rent bill	min_payment
+what is the minimum i can pay on my insurance bill	min_payment
+what is the minimum payment for comcast	min_payment
+what's the least payment i can make on my cable bill	min_payment
+how much is the least i can pay for power bill	min_payment
+i need to pay the smallest amount on my phone bill	min_payment
+what is my minimum verizon bill payment	min_payment
+what's the least i can pay this month	min_payment
+what is the minimum payment on my water bill	min_payment
+i need to know my cards minimum payment	min_payment
+what's the minimum payment on my phone bill	min_payment
+what is the lowest amount i can pay for my medical bill	min_payment
+what's the minimum payment on my bill	min_payment
+what is the minimum payment	min_payment
+can you put in a pto request for the 5th of june to june 8th	pto_request
+would i be able to put in a pto request for march 21-26	pto_request
+make a pto request from dates may 3 to 9	pto_request
+please make a pto request for me from dates jan 21 to begininning of february	pto_request
+i'd like to take a vacation day from 2/24 to 2/25	pto_request
+how do i put in a vacation request	pto_request
+i need to submit a request for pto for june 12th to june 14th	pto_request
+how do i put in a pto request for the first to the ninth	pto_request
+what is the process of making a vacation request	pto_request
+am i able to put in a pto request for may 6 to may 18	pto_request
+please help me set up a vacation request	pto_request
+i would like you put in a pto request for the dates july 4th to the 8th	pto_request
+i need to put in a pto request from the 8th to the 17th of january	pto_request
+i want to schedule a pto request on march 1-2	pto_request
+can you put in a pto request for march 7th to the 9th	pto_request
+speak back to me what's on my reminder list	reminder
+remind me of what i asked you to remember	reminder
+tell me what is on my reminder list	reminder
+tell me what's on my reminder list	reminder
+did i tell you to remind me about laundry	reminder
+what things are currently on my reminder list	reminder
+what's on my reminder list today	reminder
+what kinds of things are you supposed to remind me of	reminder
+can you remind me what i was trying to remember	reminder
+what were the reminders that i made	reminder
+i wanted to remember somethings, what was it	reminder
+please read my list of reminders	reminder
+let me see the reminder list please	reminder
+check my reminders for mop and floor	reminder
+i want to hear what is on my reminders list	reminder
+why is my checking account not working	account_blocked
+find out for me why is my bank account frozen	account_blocked
+do you know why my account appears to be blocked	account_blocked
+check with my bank to see why my account is frozen	account_blocked
+can you help me unblock my account	account_blocked
+figure out why there is a block on my account please	account_blocked
+was my bank account frozen for a specific reason	account_blocked
+my account has a hold on it and i can't access my funds, why	account_blocked
+can you please unlock my bank account	account_blocked
+how come my chase account has a hold on it	account_blocked
+what's with the block on my bank account	account_blocked
+call my bank and ask them why my account is frozen	account_blocked
+why does us bank have a hold on my account	account_blocked
+i am nost sure why my account is blocked	account_blocked
+find out the reason why am i locked out of my bank account	account_blocked
+how do i order some more checks for my navy federal account	order_checks
+how do i order more checkbooks for my well's fargo account	order_checks
+will you order more checkbooks for my silvergate account	order_checks
+can i get some more checkbooks sent to me	order_checks
+is is possible to order more checkbooks for account ending in sequence 939392	order_checks
+can you order me more checks, please	order_checks
+how do you order new checks	order_checks
+is it possible to get more checkbooks for my navy fed account	order_checks
+i need to order new checks	order_checks
+can you order new checks for my citizens checking	order_checks
+i ran out of checks and need more asap	order_checks
+make an order for new checbooks on my td checking please	order_checks
+how do i order some more checks for my bank of america account	order_checks
+does my great western bank account allow me to order more checkbooks	order_checks
+what is the process to get some more checkbooks mailed to me	order_checks
+are you a bot or a person	are_you_a_bot
+are you a real human	are_you_a_bot
+are you ai, or a person	are_you_a_bot
+are you actually a person	are_you_a_bot
+i need to know if you are a bot	are_you_a_bot
+please specify if you are human or computer	are_you_a_bot
+are you a computer or a real person	are_you_a_bot
+are you a computer generated voice	are_you_a_bot
+is this a bot	are_you_a_bot
+are you a bot or a real person	are_you_a_bot
+would you consider yourself to be a bot	are_you_a_bot
+are you a human being or a computer	are_you_a_bot
+are you a person	are_you_a_bot
+i want to know if you are a real person or an ai	are_you_a_bot
+are you an automated assistance	are_you_a_bot
+are my tires good on pressure	tire_pressure
+what's my current tire pressure	tire_pressure
+how's the air pressure in my tires	tire_pressure
+are my tires in need of air	tire_pressure
+what's my tires' air pressure	tire_pressure
+please give me the amount of pressure in my car tires	tire_pressure
+tell me my car's tire pressure	tire_pressure
+what's my car's tire pressure	tire_pressure
+how is the car tire pressure doing	tire_pressure
+i need to know how low are my tires on air	tire_pressure
+please measure my tire pressure	tire_pressure
+do i need to fill my tires	tire_pressure
+how much air is in my tires	tire_pressure
+how much air are in my tires	tire_pressure
+what is my tire pressure	tire_pressure
+what's the way to cash in my rewards for my citibank card	redeem_rewards
+put in a request for cashing in credit points	redeem_rewards
+am i able to redeem my credit card points for an amazon gift card	redeem_rewards
+how do i use my card reward points for my next flight	redeem_rewards
+can i redeem my points by transferring them to someone as a gift	redeem_rewards
+i want to redeem my card points for cash	redeem_rewards
+how do i cash in my amex reward points	redeem_rewards
+i would like to find out how to cash out cred card points	redeem_rewards
+how do i get stuff with visa points	redeem_rewards
+walk me through reward redemption from my barclay's card	redeem_rewards
+can i get cash back for my points	redeem_rewards
+do i have enough points to for a redemption	redeem_rewards
+cash in my credit card rewards	redeem_rewards
+what should i use the points from my credit card on	redeem_rewards
+how can i cash in on the rewards i earned through my american express card	redeem_rewards
+can you set an alarm for seven fifteen for tomorrow	alarm
+please set two alarms, one at 12 pm and the next at 1 pm	alarm
+set an alarm for four thirty tomorrow, please	alarm
+make an alarm for tomorrow at twilight	alarm
+i want to make an alarm	alarm
+set me an alarm for 4pm and another for 5pm	alarm
+set an alarm for 235pm and another an hour later	alarm
+set an alarm for 8 tomorrow	alarm
+i need an alarm to wake me up at 8 tomorrow morning	alarm
+set my alarm for 5pm	alarm
+i need an alarm set for 6 in the morning	alarm
+please set an alarm for me	alarm
+can you wake me up at noon	alarm
+i wanna have an alarm	alarm
+set an alarm for my meeting and another for my phone call	alarm
+do i already have cereal on my shopping list	shopping_list
+are tomatoes on my shopping list	shopping_list
+what is on my shopping list	shopping_list
+read my entire shopping list to me	shopping_list
+tell me whats on my shopping list	shopping_list
+what can you see on my shopping list	shopping_list
+what are the contents of my shopping list	shopping_list
+did i put elbow noodles on the shopping list	shopping_list
+what stuff did i put on my shopping list	shopping_list
+is milk one of the things i need to buy	shopping_list
+tell me what i have on my shopping list	shopping_list
+can you tell me whats on my shopping list	shopping_list
+is ice cream currently on my shopping list	shopping_list
+do i have butter on my list	shopping_list
+is milk one of my shopping list items	shopping_list
+will you tell me my bank balance	balance
+can the funds in my wells fargo account cover my lift tickets	balance
+what is the balance on my visa	balance
+would you tell me my bank balance	balance
+how much cash do i have in my bank accounts	balance
+could you tell me what my checking account balance is	balance
+i'd like to know the balance of my bank of american account	balance
+savings account balance at chase bank please	balance
+will the amount in my chase bank account right now cover the cost of a new dryer	balance
+is there enough money in my discover account for a new pair of jeans	balance
+is there enough money in my account for expenses	balance
+can you tell me how much cash i have	balance
+what do i have in my bank accounts right now	balance
+how much money is there in my bank accounts	balance
+tell me what i have in my money market account	balance
+i need for you to remove milk from my shopping list and add bread	shopping_list_update
+do i have graham crackers on my shopping list if not please add it	shopping_list_update
+do i have soda on my shopping list if not please add it	shopping_list_update
+take frozen food off my shopping list	shopping_list_update
+can you add eggs to my shopping list	shopping_list_update
+i want you to remove shampoo from my shopping list	shopping_list_update
+make sure to put extra paint on the list	shopping_list_update
+is paprika listed on my shopping list, please add it	shopping_list_update
+add mountain dew to my list for shopping	shopping_list_update
+please put milk on my list i just used the last of it	shopping_list_update
+do i have pepper my shopping list, if not add it	shopping_list_update
+add groceries to my shopping list as i am out	shopping_list_update
+will you include kleenex on my list for shopping please	shopping_list_update
+add flour to my shopping list if it's not already on it	shopping_list_update
+please add milk on my shopping list, if it is not already on it	shopping_list_update
+change the name that you call me	change_user_name
+they call me john	change_user_name
+john is my name	change_user_name
+please start calling me mandy	change_user_name
+you can call me jeff	change_user_name
+call me frank	change_user_name
+please change my name	change_user_name
+feel free to call me jim	change_user_name
+please refer to me as sharon	change_user_name
+call me ishmael	change_user_name
+my name is stu, not sue!	change_user_name
+change my name to master	change_user_name
+call me bob from now on	change_user_name
+you can call me steve	change_user_name
+my name is jim	change_user_name
+whisper mode	whisper_mode
+i want you to be in whisper mode now because i am in the library	whisper_mode
+whisper for me	whisper_mode
+help to turn on whisper mode	whisper_mode
+cancel whisper mode	whisper_mode
+can you whisper	whisper_mode
+change over to whisper mode	whisper_mode
+i want whisper mode	whisper_mode
+get out of whisper mode	whisper_mode
+use your whispering voice	whisper_mode
+go to whisper mode until my morning alarm goes off	whisper_mode
+set whisper mode to off	whisper_mode
+6 inch voices please	whisper_mode
+go back to whisper mode, please	whisper_mode
+switch to whisper mode	whisper_mode
+what time is my meeting with design team scheduled for	meeting_schedule
+do i meet with joan today	meeting_schedule
+how many meetings do i have today between noon and one	meeting_schedule
+on what day is my meeting with dr lee	meeting_schedule
+when's my meeting with richard	meeting_schedule
+do i have any meetings coming up with dan	meeting_schedule
+do i have any meeting to go to today	meeting_schedule
+when is the meeting with homer scheduled for	meeting_schedule
+do you see any meetings with john on my schedule today	meeting_schedule
+is a meeting with ruth on my schedule today	meeting_schedule
+please list my meetings for today	meeting_schedule
+any meetings on the schedule today	meeting_schedule
+tell me today's scheduled conferences from noon on wards	meeting_schedule
+what times are my meetings	meeting_schedule
+my meeting with alice is scheduled for when	meeting_schedule
+can you do a british male accent	change_accent
+can you switch to the male voice	change_accent
+let's change your accent	change_accent
+do you have the ability to do a male british accent	change_accent
+what other accents can you use	change_accent
+can you change your accent to the male british one	change_accent
+use female voice now instead	change_accent
+could you talk like a british male	change_accent
+i want you to use a different accent	change_accent
+change to a male british accent	change_accent
+i prefer female voice now	change_accent
+if you can do accents, i want to hear you talk like david bowie	change_accent
+change to the females voice please	change_accent
+i want to hear the female voice option	change_accent
+i would prefer to hear the female voice	change_accent
+what is the year to date total on my vacation days	pto_balance
+what's the status on my vacation days	pto_balance
+provide me the number of vacation days i have	pto_balance
+how many days on holiday do i have	pto_balance
+how much pto have i accrued	pto_balance
+can you tell me how many pto days do i have left	pto_balance
+please calculate my vacation time	pto_balance
+what is the saved vacation time i have left	pto_balance
+i would like to know my vacation days balance	pto_balance
+what do my pto days amount to	pto_balance
+do i have enough vacation to take a european trip	pto_balance
+how many days of vacation time do i have saved	pto_balance
+could you let me know how many pto days do i have left	pto_balance
+what number of vacation days do i have	pto_balance
+how many pto days are available	pto_balance
+i want to cancel my reservation for network to xaga such	cancel_reservation
+scrap reservation at 4 for red robin	cancel_reservation
+cancel my reservation for chris at jp field's	cancel_reservation
+cancel my reservation for 3 at carlos jr	cancel_reservation
+i need to cancel my reservations	cancel_reservation
+im not gonna need the dinner reservation	cancel_reservation
+cancel my reservation for dinner this saturday, please	cancel_reservation
+can you cancel my 5:30 pm table reservation at parc	cancel_reservation
+call the restaurant and cancel my reservation	cancel_reservation
+scrap that dinner reservation	cancel_reservation
+please cancel my reservation for 5 at red robin	cancel_reservation
+cancel my reservation for 4 at red robin	cancel_reservation
+please delete the reservation for roberts at village tavern	cancel_reservation
+please cancel my reservation for dinner	cancel_reservation
+forget reservation at longhorn for 4	cancel_reservation
+i want to set a timer	timer
+set the timer for me please	timer
+i'll need you to set a timer for 10 minutes	timer
+"""can u set a timer for 5 minutes"	timer
+set a timer for 10 minutes	timer
+set a timer for 30 minutes	timer
+give me a 10 minute countdown	timer
+let me know in 15 minutes please	timer
+tell me when ninety minutes have passed	timer
+please set a timer to go off in 45 minutes	timer
+remind me in (x) hours	timer
+can you set a timer	timer
+10 minutes is what the timer should be set at	timer
+can you set the timer to 20 minutes	timer
+please set a timer for me	timer
+how should i refer to you	what_is_your_name
+what can i address you	what_is_your_name
+tell me your name	what_is_your_name
+i want your name	what_is_your_name
+i'd like to know what to call you	what_is_your_name
+give me your name	what_is_your_name
+and your name is	what_is_your_name
+tell me about yourself	what_is_your_name
+ai, what is your given name	what_is_your_name
+ai, what's your name	what_is_your_name
+what is you name	what_is_your_name
+would you like to introduce yourself	what_is_your_name
+what should i refer to you as	what_is_your_name
+what can i call you	what_is_your_name
+whats your name by the way	what_is_your_name
+reset the factory settings please	reset_settings
+alter back to your orginal settings	reset_settings
+i want you to reset to factory settings	reset_settings
+change all setting to original ones	reset_settings
+revert back to your factory settings	reset_settings
+restore the factory settings	reset_settings
+i would like you to change the settings back to factory default now, please	reset_settings
+restore your original settings now	reset_settings
+restore your original settings, please	reset_settings
+can you return to the factory fresh settings	reset_settings
+you should reset your factory settings	reset_settings
+restart your actions with the original settings you came with	reset_settings
+can you reset your factory settings	reset_settings
+change back to the factory set up	reset_settings
+go back to the original settings now	reset_settings
+can you give me a vietnamese dinner suggestion	meal_suggestion
+i would like you to give me a suggestion for a mexican meal	meal_suggestion
+what do you think would be a good dinner	meal_suggestion
+look up a recipe for dinner to suggest to me	meal_suggestion
+what would you suggest having for dinner	meal_suggestion
+suggest a meal from india to me	meal_suggestion
+what would you suggest for dinner	meal_suggestion
+i need dinner ideas	meal_suggestion
+what kind of mexican meal should i get	meal_suggestion
+suggest an italian meal for me	meal_suggestion
+do you have any ideas for a mexican meal	meal_suggestion
+suggest an italian meal to me	meal_suggestion
+can you suggest a mexican dish	meal_suggestion
+can you give me a burmese dinner suggestion	meal_suggestion
+would you provide me with italian cuisine dinner suggestions	meal_suggestion
+what's the apr of my discover card	apr
+what is my apr rate	apr
+can you tell me the status of my card's apr	apr
+what is the apr on my chase visa	apr
+on my citi card, the one that ends 1234, what's the apr	apr
+what is a good apr	apr
+inform me on what my credit card's apr is	apr
+i want you to tell me my credit card's apr	apr
+what is my card's apr and is it good	apr
+i need to know the apr on my credit union visa	apr
+what's the annual rate on my discover card	apr
+what's the current apr for my mastercard	apr
+what's the apr on my capital one venture card	apr
+can you tell me the apr on my visa card	apr
+could you share my credit card's apr	apr
+i missed that, say it again	repeat
+i am needing for you to say that again	repeat
+i didn't hear you can you say that again	repeat
+will you repeat what you just said	repeat
+please say that one more time	repeat
+i didn't catch that, please repeat	repeat
+may you say that again	repeat
+im sorry can you repeat yourself	repeat
+i didn't hear you	repeat
+i didn't hear what you just said, can you repeat it	repeat
+i didn't hear you can you repeat that	repeat
+repeat that for me please	repeat
+please repeat yourself	repeat
+would you repeat that	repeat
+what was that question again	repeat
+can i increase the credit limit for my american express card	credit_limit_change
+may i increase my credit limit by 500 dollars	credit_limit_change
+can my limit be increased for my visa	credit_limit_change
+get my credit limit changed	credit_limit_change
+help me change my credit limit	credit_limit_change
+can i increase my credit limit to 1100 dollars	credit_limit_change
+is the limit on my visa card able to be increased	credit_limit_change
+is it possible to get a new credit limit of $10,000	credit_limit_change
+is there a way to raise my mastercard credit	credit_limit_change
+can i increase the credit limit on my visa card	credit_limit_change
+please tell me how to increase credit limit for the chase card	credit_limit_change
+can i increase the credit limit for my bank of america card	credit_limit_change
+can my credit limit on my discovery card go up	credit_limit_change
+can i increase the credit limit for my western union credit card	credit_limit_change
+can i raise the limit to 500 dollars	credit_limit_change
+what additional fees do you charge if i use my card in lisbon	international_fees
+does the national card have international transactions fees and how much	international_fees
+what are the international transaction fees on my amex	international_fees
+what is the surcharge for using my card in italy while i visit	international_fees
+are there transaction fees in cuba for using my discover card	international_fees
+will i be charged if i use the card in paris	international_fees
+will i be charged if i use my card in vietnam	international_fees
+does my bank of the west card have international transaction fees	international_fees
+are there any transaction fees associated with my usaa card if i am in india	international_fees
+are there transaction fees charged to my discover card in japan	international_fees
+is there a charge to use my card in japan	international_fees
+if i use my card in tahiti, will i be charged	international_fees
+how much are the foreign transaction fees in brisbane	international_fees
+i need to know if there are transaction fees for my visa card in canada	international_fees
+are there any international transaction fees associated with my visa card	international_fees
+what's the nutritional info for a cheeseburger	nutrition_info
+i want to know how nutritious an avocado typically is	nutrition_info
+do you know the nutritional info for macaroni and cheese	nutrition_info
+share the nutrition info for brownies with me	nutrition_info
+can you read to me the nutritional info for macaroni and cheese	nutrition_info
+tell me nutritional info for burger	nutrition_info
+is chocolate healthy	nutrition_info
+where are the nutrition facts for cheerios	nutrition_info
+read me the nutrional info of a bag of lay's potato chips	nutrition_info
+i need to see the chicken salad's nutritional info	nutrition_info
+what are the nutrition facts for macaroni and cheese	nutrition_info
+how healthy is shepard's pie	nutrition_info
+can you give me information about the nutrition facts for celery	nutrition_info
+i would like you to share with me the nutrition info for chicken nuggets	nutrition_info
+can you tell me how healthy apples are	nutrition_info
+view my transactions for the last week	transactions
+was my last transaction at walmart	transactions
+i want to see my recent transaction	transactions
+retrieve my recent transactions	transactions
+i would like to see the transactions i made last week	transactions
+how much was my last transaction for	transactions
+open yesterday's last payment	transactions
+pull up my recent transactions on my mastercard	transactions
+what transactions have i accrued buying dog food	transactions
+i spent what dollar amount last month on mastercard	transactions
+i want to see the list of transaction on my bank of hawaii	transactions
+on my card what have been my recent purchases	transactions
+show me all video games purchased	transactions
+bring up all purchases from target	transactions
+i need to see all visa purchases for march	transactions
+i want to hear your best joke	tell_joke
+tell me something funny about rats	tell_joke
+can you make me laugh	tell_joke
+tell me something funny now	tell_joke
+can you share something funny about traveling	tell_joke
+do you have anything funny to tell me	tell_joke
+indicate something funny on the topic of food	tell_joke
+tell me something funny about parenting	tell_joke
+make me laugh with a funny joke	tell_joke
+say something hilarious	tell_joke
+could you tell me a good joke	tell_joke
+give me a joke about water	tell_joke
+say something funny	tell_joke
+tell me a pun	tell_joke
+do you have a list of funny jokes	tell_joke
+where should we eat tonight	restaurant_suggestion
+what decent restaurants around here are italian	restaurant_suggestion
+what are some good vegan restaurants in broadripple	restaurant_suggestion
+what are good restaurants in reno that serve sushi	restaurant_suggestion
+i'm hungry, where should i go	restaurant_suggestion
+i would love to find a few vegan restaurants in back bay	restaurant_suggestion
+where's a good place to get some grub	restaurant_suggestion
+which restaurants in reno are good for sushi	restaurant_suggestion
+where are the best places to eat	restaurant_suggestion
+can you find a keto friendly restaurant	restaurant_suggestion
+can you suggest a thai restaurant	restaurant_suggestion
+where would you eat italian in chicago	restaurant_suggestion
+can you suggest a french restaurant, please	restaurant_suggestion
+i want to eat out, where should i go	restaurant_suggestion
+is there a good fish place in salem	restaurant_suggestion
+can you tell me your place of origin	where_are_you_from
+where did you used to live	where_are_you_from
+what country were you born in	where_are_you_from
+where were you processed	where_are_you_from
+where was your home before here	where_are_you_from
+where you from the usa	where_are_you_from
+where are you originally from	where_are_you_from
+what location did you live at before	where_are_you_from
+where were your born	where_are_you_from
+where is your original location	where_are_you_from
+where are you from if i may ask	where_are_you_from
+so, where do you come from	where_are_you_from
+where is your family from	where_are_you_from
+so where did you live when you were a baby	where_are_you_from
+where did they make you	where_are_you_from
+when should i change my oil	oil_change_when
+is it time for an oil change	oil_change_when
+when should i get my next oil change	oil_change_when
+do you change the oil in your car more than once a year	oil_change_when
+how often do you have to change your oil	oil_change_when
+what's my oil change status	oil_change_when
+when is the best time for my next oil change	oil_change_when
+i need to know when should i get my oil changed next	oil_change_when
+what is the schedule for my next oil change	oil_change_when
+when should oil be changed in my car	oil_change_when
+when is my car due for an oil change	oil_change_when
+is there a way to tell when i need my oil changed	oil_change_when
+when do i have to change oil	oil_change_when
+my next oil change is when	oil_change_when
+when will my oil change be due for this car	oil_change_when
+at what time will my flight land	flight_status
+is flight dl123 coming in on time	flight_status
+i would like to know when my flight scheduled to board	flight_status
+can you please update the status of flight dl123	flight_status
+whats my delta flight's status	flight_status
+will my delta flight leave on time	flight_status
+give me the status on my united airlines flight	flight_status
+is flight dl123 delayed	flight_status
+i would love to know when my flight is going to land	flight_status
+is my delta flight on time	flight_status
+what time will my flight reach the destination	flight_status
+what's the status of my jetblue flight	flight_status
+when is boarding scheduled	flight_status
+whats the status of my delta flight	flight_status
+what's the status of my american airlines flight	flight_status
+listen i need to get a reservation for , me and teresa at georgetown cafe on tuesday at 7:00 pm	restaurant_reservation
+can you get me a table for 5 at mcdonalds at 5pm	restaurant_reservation
+make a reservation for chik-fil-a at 3 o' clock please	restaurant_reservation
+could you make reservations for 2 at olive garden for 5 pm today	restaurant_reservation
+get me a table for five at itta bena at three	restaurant_reservation
+can i make a reservation for 2 at state bird for 8:30, please	restaurant_reservation
+please reserve me a table for 2 pm at maxwell's on the 14th	restaurant_reservation
+i need a table for 3 at olive garden for 7	restaurant_reservation
+make a reservation at 5 pm today for 2 at olive garden	restaurant_reservation
+give me a table for 3 at o'reilly's bar for 7 please	restaurant_reservation
+can i reserve a table for 2 at the olive garden at 8	restaurant_reservation
+please make a reservation for us at joy bar for 4 adults	restaurant_reservation
+will you reserve a table at olive garden for 3 people at 7	restaurant_reservation
+book a reservation for 6 at shakey's under the name jason	restaurant_reservation
+check reservation availability for 2 at red lobster at 8pm	restaurant_reservation
+does kenya have any travel alerts right now	travel_alert
+are there travel alerts for the us	travel_alert
+are there any travel warnings for london	travel_alert
+does italy have any travel alerts i should be aware of	travel_alert
+can i safely travel to brazil	travel_alert
+are there any travel alerts for russia	travel_alert
+is it safe to travel to russia	travel_alert
+does north korea have any travel alerts i should be aware of	travel_alert
+can you tell me if germany issued any travel warnings	travel_alert
+is travel to monterrey safe now	travel_alert
+how safe is it to visit spain	travel_alert
+are there any travel alerts for mountain view	travel_alert
+are there any travel alerts i should know about for buenos aires, argentina	travel_alert
+are there travel alerts for europe	travel_alert
+what are the currect travel alerts in africa	travel_alert
+what was the date of my last paycheck	payday
+which day is pay day	payday
+my next paycheck is available when	payday
+when was i paid most recently	payday
+find out when my next upcoming payday will be	payday
+can you tell me what day my next paycheck will come	payday
+please find the receipt date for my last paycheck	payday
+did i receive my paycheck this week	payday
+what is the date of my last paycheck	payday
+i want to know when to expect my next paycheck	payday
+tell me when my next paycheck is set to arrive	payday
+when can i expect to be paid	payday
+when was i paid last	payday
+what is my next payday	payday
+when will my paycheck be available	payday
+siri, tell me where my iphone is	find_phone
+my phone cannot be found	find_phone
+locate my phone please	find_phone
+help, i cannot find my phone	find_phone
+help me find my cellphone	find_phone
+could you help me locate my phone	find_phone
+call my phone, i can't find it	find_phone
+siri, find my iphone	find_phone
+siri, where is my iphone	find_phone
+can you help me find my cell	find_phone
+i have lost my phone	find_phone
+i need help finding my mobile phone	find_phone
+what did i do with my phone	find_phone
+i lost my phone and need help retrieving it	find_phone
+are you able to track a phone	find_phone
+i couldn't say either could be possible	maybe
+it might be either	maybe
+unsure	maybe
+might	maybe
+i can't decide	maybe
+i don't know the answer	maybe
+that i don't know	maybe
+can't say	maybe
+not a clue	maybe
+perhaps	maybe
+possibly	maybe
+no idea	maybe
+i know it could be either one	maybe
+i am unable to say	maybe
+well, i guess maybe	maybe
+go faster	change_speed
+don't talk so slow	change_speed
+sorry, can you speak a little faster	change_speed
+can you talk faster	change_speed
+speak at a slower rate	change_speed
+slow your speech down	change_speed
+can you slow down how fast you talk	change_speed
+can you slow down the speed in which you speak	change_speed
+can you speak more slowly	change_speed
+slow your speech	change_speed
+can you not talk so fast	change_speed
+please speak a bit faster	change_speed
+sorry, can you speak a little faster, please	change_speed
+can you slow down the rate at which you talk	change_speed
+go ahead and talk faster now	change_speed
+i need your help to pay my gas bill	pay_bill
+pay my light bill	pay_bill
+pay the cable bill with my visa card	pay_bill
+pay the red cross the monthly donation	pay_bill
+do a car payment from my savings account	pay_bill
+my electric bill should be paid today	pay_bill
+i need to make a bill payment	pay_bill
+i want to pay off my student loan	pay_bill
+i'd like to make a payment on my credit card bill	pay_bill
+i need to pay my water bill	pay_bill
+pay my cable bill from my checking account	pay_bill
+pay my insurance bill	pay_bill
+can you assist with my utility bill payment	pay_bill
+make a payment on the electric bill	pay_bill
+use my boa account to pay the cable bill	pay_bill
+what is needed to cook lasagna	ingredients_list
+what will i need to make lasagna	ingredients_list
+what ingredients do i need to make potato skins	ingredients_list
+what goes in broccoli cheddar soup	ingredients_list
+i need to know the ingredients in a hamburger	ingredients_list
+in making an omelette, what ingredients do i need	ingredients_list
+what ingredients do i need for chicken breast	ingredients_list
+what do i need to buy to make a spaghetti	ingredients_list
+what ingredients are in antipasto salad	ingredients_list
+what should i buy to make burritos tonight	ingredients_list
+let me know the ingredients i will need for pasta making	ingredients_list
+what ingredients go in spaghetti	ingredients_list
+what foods do i buy to put into a korean dinner	ingredients_list
+what all is in gumbo	ingredients_list
+what ingredients are in tortillas	ingredients_list
+what octaine is recommended for this car	gas_type
+what kind of fuel should i use to fill the car	gas_type
+what kind of gas goes in this car	gas_type
+tell me the kind of fuel that my vehicle operates on	gas_type
+what gas is needed for the car	gas_type
+is there a certain type of gas i need to use for this car	gas_type
+which gas type goes into this car	gas_type
+please tell me what kind of gas this car needs	gas_type
+tell me the type of fuel my car takes	gas_type
+what kind of gas goes in	gas_type
+what sort of fuel do i need for my car	gas_type
+is there a minimum gas grade this car needs	gas_type
+can i use any fuel in my car	gas_type
+is unleaded ok or should i use premium	gas_type
+what kind of gas will i need to put in this car	gas_type
+i need to know what dominate means	definition
+define discretionary	definition
+what does ataraxy mean	definition
+what does distinguish mean	definition
+what is the meaning of realism	definition
+what is the meaning of word alliance	definition
+what is intercontinental mean	definition
+what does unsavory mean	definition
+what is the meaning of flange	definition
+tell me what monstrosity means	definition
+what's the meaning of emulsify	definition
+what does yolo mean	definition
+read me a definition for qat	definition
+what does confrontation mean	definition
+tell me the meaning of alternative	definition
+in chile, what kind of plugs are used	plug_type
+can i use electronic devices in mexico without a socket converter	plug_type
+should i bring a converter to barcelona	plug_type
+when in europe would i be able to use a regular plug	plug_type
+what kind of hertz outlets do they use in z	plug_type
+when i visit thailand do i need a plug converter	plug_type
+does denmark use different sockets	plug_type
+will i need to use a plug converter in el salvador	plug_type
+if i visit cairo will i need a plug converter	plug_type
+do i need a socket converter if i'm going to mexico	plug_type
+can i plug in my electronics there like normal	plug_type
+do i need a converter in barcelona	plug_type
+would it be smart to get a plug converter when i visit israel	plug_type
+what kind of plug does the country use	plug_type
+will i need to get a plug converter when i visit guam	plug_type
